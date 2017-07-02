@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netease.nr.biz.news.column.ColumnListView android:scrollbarThumbVertical="@drawable/base_list_scrollbar_handle" android:id="@id/base_listpopupwindow_dropdown_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" android:dividerHeight="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

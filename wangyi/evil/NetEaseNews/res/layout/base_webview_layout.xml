@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/progressContainer" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/base_loadingbar_layout" />
+    <WebView android:id="@id/webView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ProgressBar android:layout_gravity="top" android:id="@id/webViewPb" android:layout_width="fill_parent" android:layout_height="2.0dip" style="@android:style/Widget.ProgressBar.Horizontal" />
+</FrameLayout>

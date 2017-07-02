@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/guide_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/guide_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_subscribe_guide_icon" android:layout_alignParentTop="true" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/goto_subscribe" android:paddingTop="15.0dip" android:paddingBottom="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginRight="30.0dip" android:layout_marginBottom="30.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/guide_add" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" />
+        <com.netease.nr.base.view.MyTextView android:textSize="18.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_subscribe_guide_add" />
+    </LinearLayout>
+</RelativeLayout>

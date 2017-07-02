@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_tie_top_title_size" android:textColor="@color/biz_tie_top_title" android:gravity="center|left" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:singleLine="true" android:drawableLeft="@drawable/biz_tie_top_orig" android:drawablePadding="8.0dip" />
+    <LinearLayout android:orientation="vertical" android:id="@id/content_container" android:background="@drawable/biz_tie_comment_floor_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_tie_top_content_size" android:textColor="@color/biz_tie_top_content" android:id="@id/tie" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip" />
+        <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_tie_top_author_size" android:textColor="@color/biz_tie_top_author" android:gravity="center|right" android:id="@id/author" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_marginBottom="8.0dip" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

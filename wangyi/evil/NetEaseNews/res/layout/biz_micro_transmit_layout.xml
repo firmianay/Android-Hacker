@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/micro_img" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <RelativeLayout android:id="@id/transmit" android:background="@android:color/darker_gray" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.base.view.MyTextView android:id="@id/transmit_text" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+        <ImageView android:id="@id/transmit_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/transmit_text" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+</FrameLayout>

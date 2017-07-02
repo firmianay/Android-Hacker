@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netease.nr.base.view.GuideContainer android:layout_gravity="left" android:id="@id/guideContainer" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/root" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/main_news_nevi_container_parent" android:background="@drawable/base_layout_bg" android:layout_width="@dimen/base_navi_width" android:layout_height="fill_parent" android:layout_alignParentLeft="true">
+            <include android:id="@id/edit_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/biz_news_column_edit_footer_layout" />
+            <com.netease.nr.tablet.main.NeviContainer android:id="@id/main_news_nevi_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/edit_view" />
+            <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/base_navi_side_shadow" android:scaleType="fitXY" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <FrameLayout android:id="@id/main_news_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toRightOf="@id/main_news_nevi_container_parent" />
+        <FrameLayout android:id="@id/main_news_container_extra" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toRightOf="@id/main_news_nevi_container_parent" />
+    </RelativeLayout>
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/biz_main_media_subscribe_guide" />
+</com.netease.nr.base.view.GuideContainer>

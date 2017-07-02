@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBar">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/base_actionbar_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/base_action_bar_height</item>
+    </style>
+    <style name="ActionBarLinearLayout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="ActionBarIcon">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/base_action_bar_icon_background_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+    <style name="ActionBarText">
+        <item name="android:textSize">@dimen/base_action_bar_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/base_action_bar_icon_background_selector</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="ActionBarArrow">
+        <item name="android:background">@drawable/base_action_bar_icon_background_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:src">@drawable/base_action_bar_back_normal</item>
+    </style>
+    <style name="ActionBarArrowDivider">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:src">@drawable/base_action_bar_back_divider</item>
+    </style>
+    <style name="ActionBarLogo" parent="@style/ActionBarIcon">
+        <item name="android:paddingLeft">@dimen/base_action_bar_title_padding_left</item>
+        <item name="android:src">@drawable/logo</item>
+    </style>
+    <style name="ActionBarTitle">
+        <item name="android:textSize">@dimen/base_action_bar_title_size</item>
+        <item name="android:textColor">@color/base_action_bar_title_color</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:paddingLeft">@dimen/base_action_bar_title_padding_left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">1.0dip</item>
+    </style>
+    <style name="ActionBarTitleSpinner">
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/base_action_bar_spinner_bg</item>
+        <item name="android:paddingLeft">@dimen/base_action_bar_title_padding_left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:dropDownSelector">@drawable/base_list_selector</item>
+        <item name="android:popupBackground">@drawable/base_menu_dropdown_panel</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:dropDownHorizontalOffset">0.0dip</item>
+        <item name="android:dropDownVerticalOffset">0.0dip</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar" />
+    <style name="ActivityTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/base_activity_animation</item>
+    </style>
+    <style name="AdTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/base_activity_animation</item>
+    </style>
+    <style name="base_listview_style" parent="@android:style/Widget.ListView">
+        <item name="android:scrollbarThumbVertical">@drawable/base_list_scrollbar_handle</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="android:alwaysDrawnWithCache">true</item>
+        <item name="android:listSelector">@drawable/base_list_selector</item>
+        <item name="android:drawSelectorOnTop">false</item>
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0.0dip</item>
+    </style>
+    <style name="base_plugin_listview_style" parent="@android:style/Widget.ListView">
+        <item name="android:scrollbarThumbVertical">@drawable/base_list_scrollbar_handle</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="android:alwaysDrawnWithCache">true</item>
+        <item name="android:listSelector">@drawable/base_list_selector</item>
+        <item name="android:drawSelectorOnTop">false</item>
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0.0dip</item>
+    </style>
+    <style name="biz_navi_listview_style">
+        <item name="android:alwaysDrawnWithCache">true</item>
+        <item name="android:drawSelectorOnTop">false</item>
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:divider">@drawable/biz_main_tab_divider</item>
+    </style>
+    <style name="base_list_title_style">
+        <item name="android:textSize">@dimen/base_list_title_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/base_list_title_color</item>
+    </style>
+    <style name="biz_vote_question_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/base_list_title_color</item>
+    </style>
+    <style name="base_list_desc_style">
+        <item name="android:textSize">@dimen/base_list_desc_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/base_list_desc_color</item>
+    </style>
+    <style name="biz_special_list_tag_style">
+        <item name="android:textSize">@dimen/base_list_tag_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/base_list_desc_color</item>
+    </style>
+    <style name="base_list_tag_style">
+        <item name="android:textSize">@dimen/base_list_tag_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/base_list_tag_color</item>
+    </style>
+    <style name="base_activity_animation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/base_slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/base_stay_orig</item>
+        <item name="android:activityCloseEnterAnimation">@anim/base_stay_orig</item>
+        <item name="android:activityCloseExitAnimation">@anim/base_slide_right_out</item>
+        <item name="android:taskOpenEnterAnimation">@anim/base_slide_right_in</item>
+        <item name="android:taskOpenExitAnimation">@anim/base_stay_orig</item>
+        <item name="android:taskCloseEnterAnimation">@anim/base_stay_orig</item>
+        <item name="android:taskCloseExitAnimation">@anim/base_slide_right_out</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/base_slide_right_in</item>
+        <item name="android:taskToFrontExitAnimation">@anim/base_stay_orig</item>
+        <item name="android:taskToBackEnterAnimation">@anim/base_stay_orig</item>
+        <item name="android:taskToBackExitAnimation">@anim/base_slide_right_out</item>
+    </style>
+    <style name="ad_activity_animation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/base_slide_right_in</item>
+        <item name="android:windowExitAnimation">@anim/base_slide_left_out</item>
+    </style>
+    <style name="base_bottom_in_out_animation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/base_slide_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/base_slide_bottom_out</item>
+    </style>
+    <style name="base_up_in_out_animation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/base_slide_up_in</item>
+        <item name="android:windowExitAnimation">@anim/base_slide_up_out</item>
+    </style>
+    <style name="base_left_in_out_animation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/base_slide_left_in</item>
+        <item name="android:windowExitAnimation">@anim/base_slide_left_out</item>
+    </style>
+    <style name="base_right_in_out_animation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/base_slide_right_in</item>
+        <item name="android:windowExitAnimation">@anim/base_slide_right_out</item>
+    </style>
+    <style name="base_small_progressbar_style">
+        <item name="android:maxWidth">18.0dip</item>
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:indeterminateDrawable">@anim/base_loading_small_anim</item>
+        <item name="android:minWidth">18.0dip</item>
+        <item name="android:minHeight">18.0dip</item>
+    </style>
+    <style name="base_large_progressbar_style">
+        <item name="android:maxWidth">38.0dip</item>
+        <item name="android:maxHeight">38.0dip</item>
+        <item name="android:indeterminateDrawable">@anim/base_loading_large_anim</item>
+        <item name="android:minWidth">38.0dip</item>
+        <item name="android:minHeight">38.0dip</item>
+    </style>
+    <style name="biz_ad_copyright_style">
+        <item name="android:textSize">@dimen/biz_ad_copyright</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ff808080</item>
+    </style>
+    <style name="biz_offline_title_style">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ff8e8e8e</item>
+    </style>
+    <style name="biz_offline_desc_style">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ff8e8e8e</item>
+    </style>
+    <style name="biz_progressbar_horizontal" parent="@android:style/Widget.ProgressBar.Horizontal" />
+    <style name="biz_plugin_weather_IndicatorAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/fade_in_fast</item>
+        <item name="android:windowExitAnimation">@anim/fade_out_fast</item>
+    </style>
+    <style name="biz_plugin_weather_list_indicator_style">
+        <item name="android:textSize">@dimen/biz_plugin_weather_selectcity_indicator_textsize</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ff696969</item>
+    </style>
+    <style name="biz_tie_comment_orig_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_tie_mycomment_orig</item>
+    </style>
+    <style name="biz_tie_comment_username_style">
+        <item name="android:textSize">@dimen/biz_tie_comment_floor_normal_username</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_tie_comment_username</item>
+    </style>
+    <style name="biz_recommend_title_style">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="biz_recommend_netease_title_style">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="biz_tie_comment_last_floor_username_style">
+        <item name="android:textSize">@dimen/biz_tie_comment_floor_last_username</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_tie_comment_username</item>
+    </style>
+    <style name="biz_tie_topcomment_content_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="biz_tie_topcomment_desc_style">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="biz_tie_comment_column_style">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff585d5e</item>
+    </style>
+    <style name="biz_tie_comment_date_style">
+        <item name="android:textSize">@dimen/biz_tie_comment_floor_normal_num</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff808080</item>
+    </style>
+    <style name="biz_tie_comment_content_style">
+        <item name="android:textSize">@dimen/biz_tie_comment_floor_normal_content</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_tie_comment_floor_content</item>
+        <item name="android:lineSpacingExtra">@dimen/biz_tie_comment_floor_last_lineSpacing</item>
+    </style>
+    <style name="biz_tie_comment_last_floor_content_style">
+        <item name="android:textSize">@dimen/biz_tie_comment_floor_last_content</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_tie_comment_last_floor_content</item>
+        <item name="android:lineSpacingExtra">@dimen/biz_tie_comment_floor_last_lineSpacing</item>
+    </style>
+    <style name="biz_tie_hidden_comment_style">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_tie_hidden_comment</item>
+    </style>
+    <style name="biz_tie_comment_toolbar_style">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="biz_tie_comment_button_style">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="biz_setting_category_text_style">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="biz_setting_item_text_style">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="biz_setting_item_layout_style">
+        <item name="android:layout_marginLeft">18.0dip</item>
+    </style>
+    <style name="biz_topic_vote_submit_digest">
+        <item name="android:textSize">@dimen/biz_topic_vote_digest_size</item>
+        <item name="android:textColor">@color/biz_topic_vote_submit_digest</item>
+    </style>
+    <style name="biz_topic_vote_submit_question">
+        <item name="android:textSize">@dimen/biz_topic_vote_question_size</item>
+        <item name="android:textColor">@color/biz_topic_vote_submit_digest</item>
+    </style>
+    <style name="biz_topic_vote_header_title">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/biz_topic_vote_header_title</item>
+    </style>
+    <style name="biz_special_header_tag">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/biz_topic_vote_header_title</item>
+    </style>
+    <style name="biz_topic_micro_mianhead_name">
+        <item name="android:textSize">@dimen/biz_topic_micro_group_username_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_mianhead_name</item>
+    </style>
+    <style name="biz_topic_micro_head_name">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_topic_micro_des_name">
+        <item name="android:textSize">@dimen/biz_topic_micro_group_describ_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_des_name</item>
+    </style>
+    <style name="biz_topic_micro_digest">
+        <item name="android:textSize">@dimen/biz_topic_micro_group_digest_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_topic_micro_child_digest">
+        <item name="android:textSize">@dimen/biz_topic_micro_child_digest_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_topic_micro_child_header">
+        <item name="android:textSize">@dimen/biz_topic_micro_child_username_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_topic_micro_header">
+        <item name="android:textSize">@dimen/biz_topic_micro_header_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_topic_micro_header_digest">
+        <item name="android:textSize">@dimen/biz_topic_micro_header_digest_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_des_name</item>
+    </style>
+    <style name="biz_pc_favorit_picture_title_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff2f2f2f</item>
+    </style>
+    <style name="biz_pc_profile_nickname_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="biz_pc_myprofile_nickname_style">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="biz_pc_profile_desc_style">
+        <item name="android:textSize">@dimen/biz_pc_main_info_profile_desc_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_account_plugin_notice_dark</item>
+    </style>
+    <style name="biz_pc_profile_score_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_pc_profile_score</item>
+    </style>
+    <style name="biz_pc_profile_score_undone_style">
+        <item name="android:textSize">@dimen/biz_pc_main_info_profile_nickname_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffd9d8d9</item>
+    </style>
+    <style name="biz_pc_profile_prize_style">
+        <item name="android:textSize">@dimen/biz_pc_main_info_profile_nickname_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffb6b5b5</item>
+    </style>
+    <style name="biz_pc_profile_plugin_title_style">
+        <item name="android:textSize">@dimen/biz_pc_main_plugin_item_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_account_plugin_title</item>
+    </style>
+    <style name="biz_pc_profile_account_login_title_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff93959c</item>
+    </style>
+    <style name="biz_pc_profile_account_findpwd_title_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff5191d2</item>
+    </style>
+    <style name="biz_pc_profile_account_title_style">
+        <item name="android:textSize">@dimen/biz_pc_profile_account_title_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff61431f</item>
+    </style>
+    <style name="biz_pc_profile_account_gold_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="biz_pc_profile_account_level_style">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="biz_pc_profile_account_nick_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff61431f</item>
+    </style>
+    <style name="biz_pc_profile_account_login_style">
+        <item name="android:textSize">@dimen/biz_pc_account_login_btn_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="biz_special_group_title">
+        <item name="android:textSize">@dimen/biz_special_group_text_size</item>
+        <item name="android:textColor">@color/biz_special_group_title</item>
+    </style>
+    <style name="biz_special_item_title">
+        <item name="android:textSize">@dimen/biz_special_newsitem_tile_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_special_media_item_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_special_intro">
+        <item name="android:textSize">@dimen/biz_special_mediaitem_tile_size</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_sns_manage_title_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/biz_sns_manager_title</item>
+    </style>
+    <style name="base_tip_btn_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#70f6f6f6</item>
+    </style>
+    <style name="biz_pics_item_title">
+        <item name="android:textSize">@dimen/biz_photoset_list_title_size</item>
+        <item name="android:textColor">@color/base_list_title_color</item>
+    </style>
+    <style name="biz_pics_item_paste_num">
+        <item name="android:textSize">@dimen/biz_photoset_list_comment_size</item>
+        <item name="android:textColor">#ff9e9e9e</item>
+    </style>
+    <style name="progressBarHorizontal_color" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">4.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/biz_pc_list_offline_selector</item>
+        <item name="android:minHeight">2.0dip</item>
+    </style>
+    <style name="myprofile_progressBarHorizontal_color" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">4.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/biz_pc_myprofile_selector</item>
+        <item name="android:minHeight">2.0dip</item>
+    </style>
+    <style name="biz_pc_offline_download_title_style">
+        <item name="android:textSize">@dimen/biz_pc_main_plugin_item_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff808080</item>
+    </style>
+    <style name="biz_app_recommend_title_style">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_app_recommend_desc_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/biz_topic_micro_head_name</item>
+    </style>
+    <style name="biz_widget_title_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffd9d9d9</item>
+    </style>
+    <style name="biz_widget_describe_style">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+    <style name="biz_widget_reply_style">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+    <style name="biz_widget_page_tag_style">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="biz_widget_page_tag_style_small">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="biz_widget_page_tag_style_4x1">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="biz_live_news_live_team_title">
+        <item name="android:textSize">@dimen/biz_live_news_live_team_title</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ff545454</item>
+    </style>
+    <style name="biz_live_news_live_no_country_title">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ff545454</item>
+    </style>
+    <style name="biz_live_olympic_title_scores_style">
+        <item name="android:textSize">@dimen/biz_live_olympic_title_scores</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/biz_live_title_scores</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="biz_live_news_live_scores_style">
+        <item name="android:textSize">@dimen/biz_live_news_live_item_time_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff545454</item>
+    </style>
+    <style name="biz_live_news_live_content_style">
+        <item name="android:textSize">@dimen/biz_live_news_live_item_time_size</item>
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="biz_setting_guide_style">
+        <item name="android:windowEnterAnimation">@anim/biz_setting_guide_show</item>
+        <item name="android:windowExitAnimation">@anim/biz_setting_guide_dismiss</item>
+    </style>
+</resources>

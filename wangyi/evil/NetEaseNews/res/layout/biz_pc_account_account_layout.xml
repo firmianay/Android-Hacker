@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/account_setting_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/top_main_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/go_back_common_btn" android:paddingLeft="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:onClick="goBackClick" />
+        <com.netease.nr.base.view.MyTextView android:gravity="center_vertical" android:id="@id/top_main_text" android:layout_width="wrap_content" android:layout_height="42.0dip" android:layout_marginLeft="7.0dip" android:layout_toRightOf="@id/go_back_common_btn" />
+    </RelativeLayout>
+    <com.netease.nr.base.view.MyTextView android:id="@id/title_netease" android:text="网易通行证" style="?android:attr/listSeparatorTextViewStyle"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginRight="7.0dip" android:layout_marginBottom="3.0dip">
+        <ImageView android:id="@id/netease_img" android:layout_width="84.0dip" android:layout_height="77.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/netease_img">
+            <com.netease.nr.base.view.MyTextView android:id="@id/account_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginTop="7.0dip" android:text="@string/biz_setting_no_account" android:layout_alignParentRight="true" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_below="@id/account_text" android:layout_alignParentRight="true">
+                <com.netease.nr.base.view.MyButton android:id="@id/account_signout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_setting_sign_out" />
+                <com.netease.nr.base.view.MyButton android:id="@id/account_signup" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_setting_sign_up" />
+                <com.netease.nr.base.view.MyButton android:id="@id/account_signin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/biz_setting_sign_in" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <com.netease.nr.base.view.MyTextView android:id="@id/account_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="@string/biz_setting_login_description" />
+    <com.netease.nr.base.view.MyTextView android:id="@id/title_other_platform" android:layout_marginTop="7.0dip" android:text="@string/biz_setting_other_platform" style="?android:attr/listSeparatorTextViewStyle" />
+    <ListView android:id="@id/account_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:cacheColorHint="#00000000" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/cover" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentLeft="true" />
+    <TextView android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_toRightOf="@id/cover" android:layout_alignParentTop="true" />
+    <TextView android:id="@id/desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_toRightOf="@id/cover" android:layout_below="@id/title" android:layout_alignParentTop="true" />
+    <TextView android:id="@id/sub_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/title" android:layout_alignLeft="@id/title" />
+    <ImageView android:id="@id/cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:src="@android:drawable/ic_delete" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:layout_toRightOf="@id/cover" android:layout_alignParentBottom="true">
+        <ImageView android:id="@id/previous" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@android:drawable/ic_media_previous" android:layout_weight="1.0" />
+        <ImageView android:id="@id/play" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@android:drawable/ic_media_play" android:layout_weight="1.0" />
+        <ImageView android:id="@id/pause" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@android:drawable/ic_media_pause" android:layout_weight="1.0" />
+        <ImageView android:id="@id/next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@android:drawable/ic_media_next" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

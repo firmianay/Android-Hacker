@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.base.view.FitImageView android:id="@id/vote_header_img" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <RelativeLayout android:gravity="bottom" android:layout_gravity="bottom" android:background="@drawable/biz_news_header_title_bg" android:paddingLeft="14.0dip" android:paddingBottom="7.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_vote_header_title" android:id="@id/vote_header_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:shadowColor="#50000000" android:shadowDy="2.0" android:layout_alignParentLeft="true" />
+            <com.netease.nr.base.view.MyTextView android:textAppearance="@style/base_list_desc_style" android:id="@id/vote_header_comment" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_alignBottom="@id/vote_header_title" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </FrameLayout>
+    <ImageView android:background="@drawable/biz_topic_vote_before" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" />
+</LinearLayout>

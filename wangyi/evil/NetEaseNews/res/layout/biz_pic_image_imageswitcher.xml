@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/flipper" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:gravity="center" android:id="@id/imageviewtouch" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <include android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/base_loadingbar_layout" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:gravity="center" android:id="@id/imageviewtouch" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <include android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/base_loadingbar_layout" />
+        </FrameLayout>
+    </ImageView>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/top_relative" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/top_main_bottom" android:background="@drawable/night_top_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+                <ImageView android:id="@id/go_back_from_original" android:paddingLeft="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:onClick="goBackClick" />
+                <ImageView android:id="@id/top_id_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/netease_top" android:layout_toRightOf="@id/go_back_from_original" />
+                <com.netease.nr.base.view.MyTextView android:gravity="center_vertical" android:id="@id/top_main_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginTop="7.0dip" android:text="@string/biz_navi_pics" android:layout_toRightOf="@id/top_id_image" />
+                <ProgressBar android:id="@id/top_progressbar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginTop="12.0dip" android:layout_toRightOf="@id/top_main_text" />
+            </RelativeLayout>
+            <com.netease.nr.base.view.MyButton android:layout_gravity="center|right" android:id="@id/detail_page_reply" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="7.0dip" android:text="@string/biz_tie_comment_button" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <include android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/base_loadingbar_layout" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/imagerandombar" android:background="@drawable/pic_vertical_digest_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/hide_open_desc" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                    <com.netease.nr.base.view.MyTextView android:textSize="14.0dip" android:id="@id/text_imgsum" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/hide_open_desc" android:layout_centerVertical="true" />
+                    <com.netease.nr.base.view.MyTextView android:textSize="16.0dip" android:textColor="#ffb4b4b4" android:gravity="center|left" android:id="@id/text_setname" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/text_imgsum" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/text_content" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/split_title_conetext_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/title_context_split" android:scaleType="fitXY" />
+                    <ScrollView android:id="@id/txtscroll" android:layout_width="fill_parent" android:layout_height="60.0dip">
+                        <com.netease.nr.base.view.MyTextView android:textSize="12.0sp" android:id="@id/text_imgtitle" android:padding="5.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:lineSpacingExtra="3.0dip" />
+                    </ScrollView>
+                </LinearLayout>
+            </LinearLayout>
+            <FrameLayout android:id="@id/bottom_framelayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:id="@id/bottom_buttonlayout" android:background="@drawable/bottombg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ImageButton android:layout_gravity="center_vertical" android:id="@id/reply_img_button" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:src="@drawable/biz_tie_comment_reply_editbox_bk" android:layout_weight="1.0" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="3.0dip" android:src="@drawable/pic_menu_split" />
+                    <ImageButton android:id="@id/button_download" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="3.0dip" android:src="@drawable/pic_menu_split" />
+                    <ImageButton android:id="@id/button_comment" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/pic_menu_split" />
+                    <ImageButton android:id="@id/image_collect" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/reply_edittext_layout" android:background="@drawable/reply_frame_bk" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <com.netease.nr.base.view.MyEditText android:id="@id/reply_edittext" android:layout_width="240.0dip" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:layout_marginTop="2.0dip" />
+                    <ImageView android:id="@id/reply_frame_divider_forphoto" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginRight="7.0dip" android:src="@drawable/reply_frame_divider" />
+                    <com.netease.nr.base.view.MyButton android:id="@id/reply_button" android:background="@drawable/netease_big_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="7.0dip" android:text="@string/biz_tie_comment_publish" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

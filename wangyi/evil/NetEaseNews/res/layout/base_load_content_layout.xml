@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/progressContainer" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/base_loadingbar_layout" />
+    <FrameLayout android:id="@id/contentContainer" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ViewStub android:id="@id/loader_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <include android:id="@android:id/empty" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/base_load_empty_layout" />
+    </FrameLayout>
+</FrameLayout>

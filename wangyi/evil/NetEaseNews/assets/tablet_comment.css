@@ -1,0 +1,175 @@
+.innerFace {
+    padding-left: 5px;
+}
+
+.inner {
+    padding: 0 2px 0px 2px;
+    zoom: 1;
+}
+
+.from-logon {
+	padding-left: 5%;
+    color: #5191d2;
+    float: left;
+    margin: 0px 15px 0px 0px;
+    width: 250px;
+    font-size: 18px;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+
+.postTime {
+	padding-right: 5%;
+    color: #808080;
+    float: right;
+    display: block;
+    white-space: nowrap;
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+.commentBody {
+    padding: 2% 0%;
+    margin: 0px;
+    line-height: 160%;
+    word-wrap: break-word;
+    overflow:hidden;
+    overflow-x:hidden;
+}
+
+.contentBody {
+    font-size: 12px;
+    padding: 3px 5%;
+    clear: both;
+    zoom: 1;
+    white-space: normal;
+    word-break: break-all;
+/* 	background: #e1e1e1 */
+}
+
+.commentBox {
+    padding: 5px;
+    background: #f7f6ea;
+    border: 1px solid #ece7d1;
+    margin-bottom: 12px;
+    word-wrap: break-word;
+    zoom: 1;
+    position: relative;
+    z-index: 1;
+}
+
+.midOfCommentBox {
+    border-top: 0;
+    margin-bottom: 3px;
+}
+
+.topCommentBox {
+    margin-bottom: 3px;
+}
+
+.commentBox .content {
+    margin: 8px 5px 5px;
+}
+
+.commentInfo {
+    line-height: 18px;
+    height: 22px;
+    overflow: hidden;
+    position: relative;
+    font-size: 16px;
+    margin: 0 5px;
+}
+
+.author {
+    float: left;
+    display: block;
+    color: #1E50A2;
+    height: 14px;
+    margin: 5px 15px 0px 0px;
+    padding: 0px 0px 3px 0px;
+    line-height: 18px;
+    vertical-align: middle;
+}
+
+.floorCount {
+	margin: 5px 0px 0px 0px;
+    color: #666;
+    position: absolute;
+    right: 0px;
+    top: 0;
+}
+
+.content {
+    margin: 0px 0px;
+    line-height: 150%;
+    color: #545454;
+    clear: both;
+    font-size: 24px;
+    word-wrap: break-word;
+    z-index: 2;
+}
+
+.commentBox-hover {
+    z-index: 2;
+}
+
+.hideTips {
+    padding: 0 0 3px 3px;
+    font-size: 16px;
+    color: #666;
+    cursor: pointer;
+    text-align: center;
+}
+
+.line_divider {
+    background: #eeeeee;
+    line-height: 1px;
+    margin: 10px 5% 0px 5%;
+}
+
+.viewMore {
+    margin: 20px 10px 0 10px;
+    text-align: center;
+}
+
+.viewMore-btn {
+    cursor: pointer;
+    left: 50%;
+    line-height: 21px;
+    margin: -10px 0 0 -30px;
+    padding-right: 18px;
+    position: absolute;
+    top: 50%;
+}
+
+.viewMore a {
+    -moz-border-radius: 4px 4px 4px 4px;
+    background: url("view_more.png") repeat-x scroll left top transparent;
+    border: 1px solid #C2C2C2;
+    color: #484848;
+    display: block;
+    font-weight: 700;
+    height: 32px;
+    line-height: 32px;
+    outline: medium none;
+    position: relative;
+}
+
+em {
+    font-style: normal;
+    font-weight: 400;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.marBottom50 {
+    margin-bottom: 50px
+}
+
+.marTop20 {
+    margin-top: 20px
+}

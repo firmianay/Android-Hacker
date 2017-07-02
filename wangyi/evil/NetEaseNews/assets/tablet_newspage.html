@@ -1,0 +1,401 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml;charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="tablet_comment.css" rel="stylesheet" type="text/css"/>
+        <link href="caipiao.css" rel="stylesheet" type="text/css"/>
+         <link href="tablet_vote.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="newspage.js"></script>
+
+        <script type="text/javascript">
+            function showSuperBigSize() {
+                myBody.style.fontSize = "32px";
+                myBody.style.lineHeight = "160%";
+                NewsTextSize(32);
+            }
+            
+            function showBigSize() {
+                myBody.style.fontSize = "28px";
+                myBody.style.lineHeight = "160%";
+            }
+            
+            function showMidSize() {
+                myBody.style.fontSize = "24px";
+                myBody.style.lineHeight = "150%";
+            }
+            
+            function showSmallSize() {
+                myBody.style.fontSize = "22px";
+                myBody.style.lineHeight = "150%";
+            }
+        </script>
+
+        <style type="text/css">
+      
+      	   @font-face {
+			   font-family: 'myface';
+			   src: url('/data/data/com.netease.newsreader.activity/files/regular.ttf');
+		   } 
+		   
+           body {
+                padding: 10% 0% 13% 0%;
+                margin: 0px;
+                line-height: 160%;
+           		background: #f6f6f6;
+                word-wrap: break-word;
+                overflow:auto;
+    	   	 	overflow-x:hidden;
+    	   	 	font-family: 'myface';
+            } 
+            
+            hr {
+            	height:2px;
+            	border:0px;
+            	background:url(line.png) repeat-x;
+            }
+            
+            .tCenter {
+                text-align: center
+            }
+            
+            .marTop2 {
+                margin-top: 2px
+            }
+            
+            .marTop6 {
+                margin-top: 6px
+            }
+            
+            .marginTop0 {
+                margin-top: 0px
+            }
+            
+            .marTop10 {
+                margin-top: 10px
+            }
+            
+            .marTop20 {
+                margin-top: 20px
+            }
+            
+            .marTop30 {
+                margin-top: 30px
+            }
+            
+            .marTop50 {
+                margin-top: 50px
+            }
+            
+            .marLeft10 {
+                margin-left: 10px
+            }
+            
+            .marRight10 {
+                margin-right: 10px
+            }
+            
+            .marBottom10 {
+                margin-bottom: 10px
+            }
+            
+             .marBottom20 {
+                margin-bottom: 20px
+            }
+            
+            .marBottom50 {
+                margin-bottom: 50px
+            }
+            
+            .atitle {
+                color: #464646;
+                padding: 3px 0;
+                font-size: 32px;
+                line-height: 36px;
+            }
+            .apptitle {
+                color: #464646;
+                font-size: 32px;
+                line-height: 36px;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            .titleMargin {
+            	margin: 30px 10px 0 0;
+            }
+            
+            .sourceMargin {
+            	margin: 14px 10px 0 0
+            }
+            
+            .atime {
+                color: #949494;
+                padding: 0px 0;
+                font-size: 16px;
+            }
+            .apptime {
+                color: #949494;
+                padding: 0px 0;
+                font-size: 18px;
+                line-height: 22px;
+            }
+            
+            .viewMore {
+                margin: 10px 10px 5px 10px;
+                text-align: center;
+            }
+			
+            .viewMore .viewMore-btn {
+                background: url("res/drawable-hdpi/view_more.png") no-repeat scroll right center transparent;
+                cursor: pointer;
+                left: 50%;
+                line-height: 21px;
+                margin: -10px 0 0 -30px;
+                padding-right: 18px;
+                position: absolute;
+                top: 50%;
+            }
+            
+            .viewMore .loading {
+                display: none;
+                cursor: pointer;
+                left: 50%;
+                line-height: 21px;
+                margin: -10px 0 0 -30px;
+                padding-right: 18px;
+                position: absolute;
+                top: 50%;
+            }
+            
+            .viewMore a {
+                -moz-border-radius: 4px 4px 4px 4px;
+                background: url("res/drawable-hdpi/view_more.png") repeat-x scroll left top transparent;
+                border: 1px solid #C2C2C2;
+                color: #484848;
+                display: block;
+                font-weight: 700;
+                height: 32px;
+                line-height: 32px;
+                outline: medium none;
+                position: relative;
+            }
+            
+            .loading {
+                text-align: center;
+            }
+            
+			.contentstyle {
+                color: #585858;
+                font-size: 18px;
+                font-weight:normal;
+                padding: 0 0px 0 0px;
+            }
+            
+            
+            
+            .contentstyle p {
+                margin: 16px 5% 0px 5%;
+            }
+            
+            em {
+                font-style: normal;
+                font-weight: 400;
+            }
+            
+            a {
+                color: #000000;
+                text-decoration: none;
+            }
+            
+            img {
+                border: none;
+            }
+           
+            .marg0auto{
+            	margin: 0 auto;
+            }
+            
+            .h1style{
+            	color: #2f2f2f;
+            	font-size: 20px;
+            	font-weight: bold;
+            	margin:10px 0px;
+            }
+            
+            .h2style{
+            	color: #434647;
+            	font-size: 18px;
+            	font-weight: bold;
+            	margin:10px 0px;
+            }
+            
+            .digeststyle_start{
+            	border: #c6c7c7 solid 1px;
+            	background-color: #e7e7e7;
+            	margin: 0px 5% 2px 5%;
+            	padding: 10px 7px 10px 12px; 
+            	color:#7F7F7F;
+            	line-height: 150%;
+            	font-weight: normal;
+            	font-size: 18px;
+            }
+            
+            .digeststyle_end{
+            	border: #c6c7c7 solid 1px;
+            	background-color: #e7e7e7;
+            	margin: 0px 5% 2px 5%;
+            	padding: 10px 7px 10px 12px; 
+            	color:#7F7F7F;
+            	line-height: 150%;
+            	font-weight: normal;
+            	font-size: 20px;
+            }
+            
+            .digesttagstyle{
+            	padding: 3px 6px;
+            	color: #545454;
+            	font-weight: bold;
+            	margin-right: 3px;
+            }
+            
+            .schemestartstyle {
+
+            }
+            
+            .columnstyle{
+				color: #545454;
+				font-size: 22px;
+				font-weight: bold;
+				background-color: #e9e9e9;
+				padding: 5px 5%;
+				background: url(biz_news_newspage_relative_bg.png) repeat-x;
+			}
+			
+			.columnitmestyle{
+				color: #2f2f2f;
+		        text-align: center left;
+		        font-size: 24px;
+				margin: 8px 0px;
+				font-weight: bold;
+				padding: 5px 5%;
+			}
+			
+			.relativenewsstyle{
+		        text-align: center left;
+		        font-size: 24px;
+				margin: 8px 0px;
+				padding: 5px 5%;
+			}
+			
+			.linkstyle{
+				color: #5091d2
+			}
+			
+			.contentpaddingstyle {
+			    padding: 0% 5%;
+			}
+			
+			.applinkstyle{
+				color: #ffffff
+			}
+			.applinkstyle{
+				color: #ffffff
+			}
+			.appimgmarginstyle {
+                margin: 0 2% 3px 4%;
+            }
+            .appinfo {
+                color: #949494;
+                font-size: 18px;
+                line-height: 22px;
+            }
+			.contentpaddingstyle {
+			    padding: 0% 5%;
+			}
+			.contentmargintyle {
+			    margin: 0% 5%;
+			}
+			.app_downBg {vertical-align: middle;font-size: 14px;color: #ffffff;padding: 0px 8px 0px 8px;margin-bottom: 20px;background-image: url('download_bg.png');background-repeat:no-repeat;background-size:100% 100%;}
+			
+            .imgcenterstyle {
+                vertical-align: middle;
+                margin: 0px 5px 3px 0px;
+            }
+
+            .appshowcomment{font-size:22px;border:1px solid #cacaca;margin-top: 10px;background:-webkit-gradient(linear,left top, left bottom ,color-stop(0.02,rgb(255,255,255)),color-stop(0.05,rgb(241,241,241)),color-stop(1,rgb(230,230,230)) );width:100%; height:40px;text-align:center;color:#2f2f2f}
+
+            .imgmarginstyle {
+			    margin: 3px 7% 3px 4%;
+			}
+			
+			.bigimgmarginstyle {
+			    margin: 10px 4% 25px 4%;
+			}
+
+			.bigvideoimgmarginstyle {
+			    margin: 10px 4% 20px 4%;
+			}
+			
+			.tieMorebutton {
+				border:1px solid #cacaca;
+                background:-webkit-gradient(linear,left top, left bottom ,color-stop(0.02,rgb(255,255,255)),color-stop(0.05,rgb(241,241,241)),color-stop(1,rgb(230,230,230)) );
+				width:90%; 
+                height:45px; 
+                margin:10px;
+                text-align:center;
+                color:#2f2f2f;
+                font-size: 22px;
+			}		
+
+            .ad_subtitle {
+                color: #f0f0f0;
+                font-size: 70%;
+                background-color:#4d86c6;
+                margin-right: 0.4em;
+                padding: 1px 0.25em 1px 0.3em;
+                vertical-align: top;
+            }
+
+           .ad_subtitle_more {
+               color: #f0f0f0;
+               font-size: 70%;
+               margin-right: 0.4em;
+               padding: 1px 0.25em 1px 0.3em;
+               vertical-align: top;
+               visibility:hidden;
+           }
+
+            .ad_title{
+                text-align: center left;
+                font-size: 18px;
+                margin: 8px 0px;
+                padding: 0px 0px;
+                color: #5091d2
+            }
+			
+        </style>
+    </head>
+    <body>
+        <div id="title_pre"></div>
+		
+        <!-- <div class="contentpaddingstyle" style="margin-top:4px;margin-bottom:4px;" >
+     
+        </div> -->
+        
+        <div id="article_body" class="contentstyle"></div>
+        
+        <div id="moreButton" class="viewMore contentpaddingstyle" style="clear:both; display:none;">
+            <a href="javascript:;" hidefocus="true" onclick="over(this);">
+            	<em id="loading" class="loading">正在载入...</em>
+				<span id="showmore" class="viewMore-btn">查看全文</span>
+			</a>
+        </div>
+         
+        <!-- 
+        <div id="more" class="content marBottom50"></div>
+         -->
+         
+    </body>
+    
+</html>
+

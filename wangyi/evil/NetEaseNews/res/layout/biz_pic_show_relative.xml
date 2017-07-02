@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textSize="20.0sp" android:textColor="#ffcccccc" android:layout_gravity="center_horizontal" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_pic_recommend_set" android:singleLine="true" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+        <RelativeLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="15.0dip" android:layout_weight="1.0">
+            <com.netease.nr.base.view.FitImageView android:id="@id/img1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:adjustViewBounds="true" />
+            <com.netease.nr.base.view.MyTextView android:textColor="#ffcccccc" android:gravity="left" android:id="@id/title1" android:paddingLeft="2.0dip" android:paddingRight="2.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:lines="2" android:layout_below="@id/img1" />
+            <com.netease.nr.base.view.MyTextView android:background="@drawable/biz_pic_set_recommend_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/img1" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.netease.nr.base.view.FitImageView android:id="@id/img2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:adjustViewBounds="true" />
+            <com.netease.nr.base.view.MyTextView android:textColor="#ffcccccc" android:gravity="left" android:id="@id/title2" android:paddingLeft="2.0dip" android:paddingRight="2.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:lines="2" android:layout_below="@id/img2" />
+            <com.netease.nr.base.view.MyTextView android:background="@drawable/biz_pic_set_recommend_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/img2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+        <RelativeLayout android:gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="15.0dip" android:layout_weight="1.0">
+            <com.netease.nr.base.view.FitImageView android:id="@id/img3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:adjustViewBounds="true" />
+            <com.netease.nr.base.view.MyTextView android:textColor="#ffcccccc" android:gravity="left" android:id="@id/title3" android:paddingLeft="2.0dip" android:paddingRight="2.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:lines="2" android:layout_below="@id/img3" />
+            <com.netease.nr.base.view.MyTextView android:background="@drawable/biz_pic_set_recommend_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/img3" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.netease.nr.base.view.FitImageView android:id="@id/img4" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <com.netease.nr.base.view.MyTextView android:textColor="#ffcccccc" android:gravity="left" android:id="@id/title4" android:paddingLeft="2.0dip" android:paddingRight="2.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:lines="2" android:layout_below="@id/img4" />
+            <com.netease.nr.base.view.MyTextView android:textColor="#fff0f0f0" android:id="@id/recommend_icon_4" android:background="@drawable/biz_pic_set_recommend_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/img4" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

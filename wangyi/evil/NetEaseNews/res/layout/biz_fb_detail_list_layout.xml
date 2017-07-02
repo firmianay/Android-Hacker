@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/topbar_layout" layout="@layout/base_action_bar_layout" />
+    <include android:gravity="center_vertical" android:id="@id/create_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/biz_tie_comment_reply_layout" />
+    <ListView android:id="@android:id/list" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="@android:color/transparent" android:divider="@color/base_main_bg_color" android:layout_weight="1.0" android:layout_above="@id/create_panel" android:layout_below="@id/topbar_layout" />
+</RelativeLayout>

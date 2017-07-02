@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="biz_account_profile_avatar_marginLeft">10.0dip</dimen>
+</resources>

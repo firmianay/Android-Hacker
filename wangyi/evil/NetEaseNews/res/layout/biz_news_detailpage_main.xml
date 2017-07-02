@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/reply_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <com.netease.nr.biz.news.detailpage.NeteaseWebView android:scrollbarThumbVertical="@drawable/base_list_scrollbar_handle" android:id="@id/webView" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/reply_container" />
+    <include android:id="@id/progressContainer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/reply_container" layout="@layout/base_loadingbar_layout" />
+    <include android:id="@id/empty" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/reply_container" layout="@layout/base_load_empty_layout" />
+    <ImageView android:id="@id/reply_container_fade" android:background="@drawable/biz_tie_comment_reply_fade" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/reply_container" />
+    <include android:layout_alignParentTop="true" layout="@layout/base_action_bar_layout" />
+</RelativeLayout>

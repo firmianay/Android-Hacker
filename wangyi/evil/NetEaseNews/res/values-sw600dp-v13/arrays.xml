@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="base_default_plugins">
+        <item>9|0|0|com.netease.nr.biz.plugin.plugin.MyCollectionPlugin</item>
+        <item>8|0|0|com.netease.nr.biz.plugin.plugin.MyCommentsPlugin</item>
+        <item>10|0|0|com.netease.nr.biz.plugin.plugin.PushMsgPlugin</item>
+        <item>1|0|1|com.netease.nr.biz.plugin.plugin.WeatherPlugin</item>
+        <item>2|0|1|com.netease.nr.biz.plugin.plugin.OfflinePlugin</item>
+        <item>4|0|1|com.netease.nr.biz.plugin.plugin.NewsSearchPlugin</item>
+        <item>5|0|0|com.netease.nr.biz.plugin.plugin.MailPlugin</item>
+        <item>7|1|1|com.netease.nr.biz.plugin.plugin.ManagePlugin</item>
+    </string-array>
+</resources>

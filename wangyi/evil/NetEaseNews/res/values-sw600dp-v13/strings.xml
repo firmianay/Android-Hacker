@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ns_appkey">JBfjmI</string>
+    <string name="base_plugin_offline">离线</string>
+    <string name="base_plugin_nightmode">夜间</string>
+    <string name="base_plugin_daymode">日间</string>
+    <string name="base_plugin_searchnews">搜索</string>
+    <string name="base_plugin_localweather">天气</string>
+    <string name="base_plugin_mail">邮件</string>
+    <string name="base_plugin_skin">换肤</string>
+    <string name="base_plugin_version">当前版本</string>
+    <string name="base_plugin_setting">设置</string>
+    <string name="base_plugin_app_recommend">应用推荐</string>
+    <string name="base_plugin_mycomments">跟贴</string>
+    <string name="base_plugin_mycollection">收藏</string>
+    <string name="base_plugin_push_message">消息</string>
+</resources>

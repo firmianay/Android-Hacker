@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netease.nr.base.view.MySlidingDrawer android:id="@id/slide_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TabHost android:id="@id/slide_left" android:background="@drawable/biz_pc_zone_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TabWidget android:orientation="vertical" android:id="@android:id/tabs" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <FrameLayout android:id="@android:id/tabcontent" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+    </TabHost>
+    <fragment android:id="@id/slide_right" android:tag="personal_center" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.netease.nr.biz.pc.main.PersonCenterMainFragment" />
+    <RelativeLayout android:id="@id/slide_content" android:background="@color/base_main_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:layout_alignParentTop="true" layout="@layout/base_action_bar_layout" />
+        <com.netease.nr.base.view.TabletContainer android:id="@id/real_tabcontent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/base_action_bar" android:layout_alignParentLeft="true" />
+        <ImageView android:background="@drawable/base_action_bar_shadow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/base_action_bar" />
+    </RelativeLayout>
+</com.netease.nr.base.view.MySlidingDrawer>

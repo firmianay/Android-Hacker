@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netease.nr.base.view.MyTextView android:textSize="@dimen/base_dropdown_list_title" android:textColor="@color/base_action_bar_overflow_list_item_text" android:gravity="center|left" android:id="@id/title" android:paddingLeft="@dimen/base_action_bar_title_padding_left" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="@dimen/base_action_bar_overflow_item_height" android:minHeight="@dimen/base_action_bar_overflow_item_height" android:singleLine="true" android:drawablePadding="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

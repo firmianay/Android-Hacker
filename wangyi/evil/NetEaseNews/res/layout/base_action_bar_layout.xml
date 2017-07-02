@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/base_action_bar" style="@style/ActionBar"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/base_action_bar_back" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/ActionBarArrow" />
+    <ImageView android:id="@id/base_action_bar_back_divider" android:visibility="gone" android:layout_toRightOf="@id/base_action_bar_back" android:layout_centerVertical="true" style="@style/ActionBarArrowDivider" />
+    <ImageView android:id="@id/base_action_bar_icon" android:layout_toRightOf="@id/base_action_bar_back_divider" android:layout_centerVertical="true" style="@style/ActionBarLogo" />
+    <LinearLayout android:id="@id/base_action_bar_actions" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/ActionBarLinearLayout" />
+    <com.netease.nr.base.view.DropdownSpinner android:id="@id/base_action_bar_title_spinner" android:background="@drawable/base_action_bar_spinner_bg" android:visibility="gone" android:layout_toRightOf="@id/base_action_bar_icon" android:layout_centerVertical="true" style="@style/ActionBarTitle" />
+    <com.netease.nr.base.view.MyTextView android:id="@id/base_action_bar_title" android:layout_toRightOf="@id/base_action_bar_icon" android:layout_centerVertical="true" style="@style/ActionBarTitle" />
+</RelativeLayout>

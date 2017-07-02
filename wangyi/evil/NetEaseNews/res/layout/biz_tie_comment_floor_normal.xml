@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:padding="@dimen/biz_tie_comment_floor_normal_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/show_floor_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_tie_comment_date_style" android:id="@id/floor_num" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_tie_comment_username_style" android:id="@id/floor_username" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/floor_num" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_tie_comment_content_style" android:id="@id/floor_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/floor_username" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="horizontal" android:id="@id/hide_floor_content" android:layout_width="fill_parent" android:layout_height="38.0dip">
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_tie_comment_content_style" android:gravity="center" android:id="@id/hide_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_tie_show_hidden_comment" android:drawablePadding="10.0dip" android:layout_centerInParent="true" />
+        <ProgressBar android:id="@id/hide_pb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/hide_text" android:layout_centerVertical="true" style="@style/base_small_progressbar_style" />
+    </RelativeLayout>
+</FrameLayout>

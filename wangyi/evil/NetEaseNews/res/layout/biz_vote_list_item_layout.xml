@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="14.0dip" android:paddingTop="10.0dip" android:paddingRight="14.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/base_list_title_style" android:ellipsize="end" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:lineSpacingExtra="3.0dip" />
+    <ImageView android:id="@id/img" android:layout_width="@dimen/base_listitem_img_width" android:layout_height="@dimen/base_listitem_img_height" android:layout_marginRight="8.0dip" android:layout_below="@id/title" android:layout_alignParentLeft="true" />
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/base_list_desc_style" android:id="@id/digest" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:layout_toRightOf="@id/img" android:layout_below="@id/title" android:lineSpacingExtra="3.0dip" />
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_des_name" android:id="@id/tag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignBottom="@id/img" android:layout_alignParentRight="true" />
+    <ImageView android:id="@id/special_divier_line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:src="@drawable/base_list_divider_drawable" android:scaleType="fitXY" android:layout_below="@id/img" android:layout_alignParentBottom="true" />
+</RelativeLayout>

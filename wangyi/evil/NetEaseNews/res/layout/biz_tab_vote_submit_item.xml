@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyButton android:textAppearance="@style/biz_topic_vote_submit_digest" android:textColor="@color/biz_topic_vote_submit_digest" android:gravity="left" android:id="@id/vote_item_button" android:background="@drawable/biz_topic_vote_item_selector" android:paddingLeft="10.0dip" android:paddingTop="@dimen/biz_topic_vote_item_padding" android:paddingBottom="@dimen/biz_topic_vote_item_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginRight="10.0dip" />
+</RelativeLayout>

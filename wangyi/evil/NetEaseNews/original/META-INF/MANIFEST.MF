@@ -1,0 +1,5420 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi/night_biz_news_subscribed_del.png
+SHA1-Digest: +bm9vxpmGPzZrSvALa0Qdihi0+o=
+
+Name: res/drawable-hdpi/night_biz_tie_count_bg.png
+SHA1-Digest: SP69xRrEfN/P0EOwuKH4qh6mxvg=
+
+Name: res/layout/biz_live_news_live_group_title.xml
+SHA1-Digest: 7zknwjV3S4ZVSbLvd1WiLPgA21o=
+
+Name: res/drawable-xhdpi/biz_audio_wave_img3.png
+SHA1-Digest: nqVshe4EZaYW2boIX4fQ5cbAdcU=
+
+Name: assets/img/small_loading5.png
+SHA1-Digest: JowoX4/0E7UcIpdVC21BTXT2Oqs=
+
+Name: res/layout/biz_widget_layout_4_4.xml
+SHA1-Digest: vJXWJh68XH7eSmX202RweDjKMMw=
+
+Name: res/drawable-hdpi/night_biz_news_list_other_finance_header_bg.9.
+ png
+SHA1-Digest: x7HjTZzlxSGoBlF4ER6IQLp00gk=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_check.png
+SHA1-Digest: MLBHYK+p0u/mgHvXs3H9PTaw9CY=
+
+Name: res/drawable-hdpi/biz_pread_item_bg_pressed.9.png
+SHA1-Digest: 6XWZkD+5v727l3LeK4261SFmRWQ=
+
+Name: res/drawable-xhdpi/biz_ad_new_version1_indicator0.png
+SHA1-Digest: xRaxMBdTBhzCrxjYh1aF89u0wgg=
+
+Name: res/anim/base_slide_bottom_in.xml
+SHA1-Digest: Wj+i1zMN7A7xGKVO0BtonVqQA6g=
+
+Name: res/drawable-xhdpi/biz_pc_main_flag_new.png
+SHA1-Digest: Imd9vr4ZawPV08MjlflGw9FbIi8=
+
+Name: assets/img_set_flag.png
+SHA1-Digest: fAQmp3IuivhTNxYNx6LCdZ9UXG8=
+
+Name: res/layout/biz_version_download_finish_notify.xml
+SHA1-Digest: adaM/UwRu8c7BwKxZ1WZlR2Qois=
+
+Name: res/layout/biz_sns_select_layout.xml
+SHA1-Digest: lpz4rv1mubLwid97kNflNvurgZY=
+
+Name: res/drawable-xhdpi/night_biz_micro_main_back_normal.png
+SHA1-Digest: bqQtZt+OWy6JbtFMUwVqDANK1I0=
+
+Name: res/drawable/night_biz_subscribe_media_recommend_item_selector.x
+ ml
+SHA1-Digest: yhKCMLjc3Oer7Fka52FYCSk6BVw=
+
+Name: res/drawable-hdpi/biz_ad_share.png
+SHA1-Digest: UPa1Xm9gmV65JQ6NwTJ1o7ehkL4=
+
+Name: res/drawable-hdpi/biz_topic_micro_netease_type.png
+SHA1-Digest: fi1JMLkCkR1RnMMCdKwIEtuycE4=
+
+Name: assets/city_list
+SHA1-Digest: OKZWZ2Dsw18ZkOs7XzEViehY4lc=
+
+Name: res/drawable/night_biz_pc_recommend_bg_selector.xml
+SHA1-Digest: S+YJ/9EzoCS3s5l3AK+lHGrPxY4=
+
+Name: res/drawable-sw600dp/biz_pc_account_usr_icon.png
+SHA1-Digest: ee7aWX5Y6xikE0qscPYyttCXeHY=
+
+Name: res/drawable-hdpi/biz_main_slide_right_shadow.9.png
+SHA1-Digest: 6zinhkOOJznxpdW8EyP70jPGSwk=
+
+Name: res/drawable-hdpi/biz_pc_recommend_open_pressed.png
+SHA1-Digest: g58rVo8SFYy1ZBgDi9FnAgKW34o=
+
+Name: res/layout/biz_news_perfect_list_item.xml
+SHA1-Digest: uupVDRNXepFns0dgb2cyIijNrPA=
+
+Name: res/drawable-hdpi/night_base_list_selector_pressed.9.png
+SHA1-Digest: v3i+oVdgoJs6IWcj1pBiyYbp1Uw=
+
+Name: res/drawable/night_biz_news_subscribe_item_bitmap.xml
+SHA1-Digest: xQHNFMm9awV2eAjIkWwykeGh240=
+
+Name: res/layout/biz_yiyuan_list_banner.xml
+SHA1-Digest: yuLEESY67WMgsf68186H/9XQw1s=
+
+Name: res/drawable-hdpi/night_base_action_bar_back_pressed.png
+SHA1-Digest: f824cM6pbEVtNrlq13H9KPZOCH4=
+
+Name: res/drawable-hdpi/reply_frame_bk.png
+SHA1-Digest: R8u/AlVdh2Woh5YUKvLPo5sH9l0=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_offline.png
+SHA1-Digest: e7CvEwKkS+AdbrrBHrO9wbptMTw=
+
+Name: res/drawable/biz_news_subscribe_tab_selector13.xml
+SHA1-Digest: JR+rWGPGolwACgy1kt9apLfiWOc=
+
+Name: res/drawable-hdpi/nba_selected.png
+SHA1-Digest: bsX8lLP2z8VVo6buCLIPiJdMMqs=
+
+Name: res/layout-sw600dp-land/biz_news_detailpage_main.xml
+SHA1-Digest: ZBFnoY46xzznbNqqI5SNGDLXSSs=
+
+Name: res/layout/biz_pic_load_content_layout.xml
+SHA1-Digest: RTttQoXibyPH8QjT4dIYoOBQr0c=
+
+Name: lib/armeabi/librandoml.so
+SHA1-Digest: U+qKhK6iTlbNp4qeZE7eYtWi3Vk=
+
+Name: res/drawable-hdpi/base_edittext_selected.9.png
+SHA1-Digest: b9sjbMyL36M9jlxtj+myWbL569k=
+
+Name: res/drawable-hdpi/biz_weight4x4.png
+SHA1-Digest: WXL1kAaXwZqmTzHnCRVn1E0Oqmw=
+
+Name: res/drawable-hdpi/biz_widget_split_bg.png
+SHA1-Digest: 18a2YBLzeESRppyqPKyXsFbIUWE=
+
+Name: res/drawable-hdpi/biz_pic_scrollbar_handle.9.png
+SHA1-Digest: 7s9ve52DjWVbysH7iw/5l5zjKTI=
+
+Name: res/layout/biz_ad_notice_layout.xml
+SHA1-Digest: 9Y2l5oialuefHPQoWshm5W2mVM4=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_shehui.xml
+SHA1-Digest: ojM8Jq1y7Jc1rVduqhY2KHwH3w8=
+
+Name: res/drawable-xhdpi/biz_audio_wave_img4.png
+SHA1-Digest: Q9ifmYCkBphaOiE6i7Jw4GcJIJg=
+
+Name: res/drawable-hdpi/biz_topic_micro_sina_type.png
+SHA1-Digest: xdTdxgv2oRE/c1SDorL8hVYBODQ=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_baoyu.png
+SHA1-Digest: 1jL5b7FLQMUbO9/6h4PIK1XRywo=
+
+Name: res/drawable-hdpi/biz_pc_other_tag.png
+SHA1-Digest: eFynr01GN2TM45DZbrI2rhJEnjI=
+
+Name: res/layout/biz_news_subscribe_usuall_all_listview.xml
+SHA1-Digest: g/Jkhcz4dQxEW20iGV77UOFK5As=
+
+Name: res/drawable-hdpi/tiyu_selected.png
+SHA1-Digest: a0i4Hi3oDuKB5q453toRQ9G4V2c=
+
+Name: assets/caipiao.css
+SHA1-Digest: Mt0TXVDCwtqCw3HiGqWxSXBYfes=
+
+Name: res/drawable-hdpi/night_biz_subscribe_media_recommend_item_bg.9.
+ png
+SHA1-Digest: ig9cZDaSMJdK0H1Zwf7siJt7/CE=
+
+Name: res/drawable/night_biz_navigation_tab_bg.xml
+SHA1-Digest: UBWtojdRHn9XfUs7JDjXrF848OQ=
+
+Name: res/drawable-hdpi/night_biz_pc_recommend_open_normal.png
+SHA1-Digest: VrJMEawt4j377tG0KHD/z4StKMk=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_hot.png
+SHA1-Digest: i9QGUGDfUDy5hCelgdowysNzdR0=
+
+Name: res/drawable-xhdpi/biz_audio_show_extra.9.png
+SHA1-Digest: 8sSwKjghHcfnsd8NUhVIl0IHIpo=
+
+Name: res/layout/biz_account_myprofile.xml
+SHA1-Digest: 2Rc07qaXz4el96FPVJHx1YqT2vg=
+
+Name: res/layout/base_plugin_item_layout.xml
+SHA1-Digest: MFQRNnS0W8KNXSvUyyGfFLGbKhs=
+
+Name: res/layout/biz_special_news_list_media_item.xml
+SHA1-Digest: e95EaKtbIxmWT/4oWgdAujCKBVA=
+
+Name: res/drawable-hdpi/night_biz_news_newspage_share_icon.png
+SHA1-Digest: ALHy4cwHUzb+DQRgYdLkLzDJ9rg=
+
+Name: res/drawable/night_biz_pread_item_bg_selector.xml
+SHA1-Digest: zy3G9ewD7U2Gy6733umm58+DwQk=
+
+Name: res/drawable-hdpi/night_base_checkobx_close.png
+SHA1-Digest: W+ryDqAVXMcZd/KpPVpkGC01Esk=
+
+Name: res/drawable-xhdpi/biz_pc_go_tie.png
+SHA1-Digest: tQtsPA9rOy1+lMkdSdPVhAxR2J4=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_guangzhou_bg.jpg
+SHA1-Digest: lFw2Rx4a0vNwGfoTXX8rfOySBsE=
+
+Name: res/drawable-hdpi/sns_email_icon.png
+SHA1-Digest: q9JJ3RX+YUy9FuaAGhaB5zW2G34=
+
+Name: res/drawable-hdpi/night_biz_fb_bubble_me.9.png
+SHA1-Digest: Jbs8AGXKt7lvx3VNzMmj47VpOhU=
+
+Name: res/drawable/biz_news_column_tabpager_indicator_edit_bg.xml
+SHA1-Digest: OzSAejc71iczjI8tCp4/p+9Pv8U=
+
+Name: res/drawable-hdpi/night_biz_news_list_tag_special_bg.9.png
+SHA1-Digest: qDWu7Tf430o8imZPpJzDpyf9BhE=
+
+Name: res/drawable/night_biz_pc_recommend_download_selector.xml
+SHA1-Digest: 6/M4hdRbnlV7yCdqe3D1O97HJ60=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_vote_img.png
+SHA1-Digest: BjxPUCYWtFOCBPh3wUZHw9RFsoE=
+
+Name: res/layout/biz_news_detailpage_action_view.xml
+SHA1-Digest: tXPjrL8n4aN0X4Pg5T7jMSac20Y=
+
+Name: res/drawable/biz_audio_btn_download_control.xml
+SHA1-Digest: zQlrbeiOg/1Nrj8AsBT5iQ0rObQ=
+
+Name: res/layout/biz_vote_multi_submit.xml
+SHA1-Digest: iejbXGzY0goMZvtf+MV5OlJc25I=
+
+Name: res/drawable-hdpi/biz_pc_list_offline_processbar_bg.9.png
+SHA1-Digest: d5pAYB2to2VOEUQwCSOIlXI0ug0=
+
+Name: assets/img/small_loading1.png
+SHA1-Digest: Hq2O/8aAUBK7WrneeJVp4oX6VCg=
+
+Name: res/drawable/night_biz_news_column_delete.xml
+SHA1-Digest: YGBA46ZxSvpK7XmnF4HVFkUR7b4=
+
+Name: res/layout/biz_pc_plugin_extra_plugin_layout.xml
+SHA1-Digest: m0hINVOQjGby/TWdZjQgxZi7AtI=
+
+Name: res/drawable-xhdpi/biz_news_list_other_finance_header_arrow_down
+ .png
+SHA1-Digest: YWT1MZLdpZEBjfxQM+4PRRiXKQQ=
+
+Name: res/drawable-xhdpi/night_biz_news_list_ohter_notice_icon.png
+SHA1-Digest: W1QRZbMFjJ88ROLdpBNkVOwkguo=
+
+Name: res/drawable-hdpi/icon_notify_small.png
+SHA1-Digest: BxqN/UxAMcx8s/HODe8QqJJouB0=
+
+Name: res/drawable-xhdpi/biz_audio_btn_pause.png
+SHA1-Digest: a2hsMffh+uk9t64TUsV8PyiqtzU=
+
+Name: res/drawable-xhdpi/night_biz_ties_main_back_normal.png
+SHA1-Digest: OraKlIfbdrUy6Imk1sn5eZ9RBX0=
+
+Name: res/layout/biz_pc_app_recommend_layout.xml
+SHA1-Digest: iu0HUEHHLiPrkNsAGtIfDbyj+DU=
+
+Name: res/drawable-xhdpi/base_main_action_personal_normal.png
+SHA1-Digest: s4qZ+ShDdDGT9Zq540YSBxFlpjk=
+
+Name: res/drawable/night_biz_news_column_edit_btn_bg.xml
+SHA1-Digest: DWy/wCSZOac/ZoELiukV4DXusZA=
+
+Name: res/drawable-xhdpi/biz_news_list_ohter_race_icon.png
+SHA1-Digest: PvUKjkrNMy0wBEHx1KzC/xO8Xfo=
+
+Name: res/drawable/biz_ad_version1_checkbox_selector.xml
+SHA1-Digest: 8hdMGCh7I+lU5b4+G8Gbl1xJYm8=
+
+Name: res/drawable-hdpi/biz_tie_comment_toolbar_bottom.png
+SHA1-Digest: 5t7ZtHrtr/Z8GAfr8WnF3hYC7l8=
+
+Name: res/drawable-sw600dp/biz_tie_top_orig.jpg
+SHA1-Digest: WfhV3ng2v5O1foG+eMIRHo7Sufs=
+
+Name: res/drawable-hdpi/biz_pics_menu_bg.9.png
+SHA1-Digest: GEWSkpscpnsMRaEQZ6r4LY7Xo2Y=
+
+Name: res/drawable-hdpi/biz_pc_recommend_open_normal.png
+SHA1-Digest: SAn/pdwYs0WzCLfNpSojlW7i3jg=
+
+Name: res/drawable-hdpi/biz_tie_comment_tool_collect.png
+SHA1-Digest: bqyE7EYgbxpRiYyONvyH7aL9GHQ=
+
+Name: res/drawable-xhdpi/biz_news_column_tabpager_indicator_edit_bg_pr
+ essed.9.png
+SHA1-Digest: f8qXJYIr18RZITu+OCPCqOaAIj8=
+
+Name: res/drawable-hdpi/base_light_netease_bg.png
+SHA1-Digest: DU64MOA/zOamBvDr+3HSfzoi+0U=
+
+Name: res/drawable-hdpi/biz_setting_guide_close.png
+SHA1-Digest: nNjg/nFSdX99IjIPDHMpYtb2CLs=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_collection.png
+SHA1-Digest: jOefxADyZzRN9tRQY1t2vzXKGb4=
+
+Name: res/drawable-hdpi/night_biz_pc_other_new_tag.9.png
+SHA1-Digest: +kAbHdUfOrK43CjKX9Ma+fhRSR4=
+
+Name: res/drawable/biz_news_subscribe_tab_selector2.xml
+SHA1-Digest: vUg/aH0rfP7oG5UXoX76inKmeSI=
+
+Name: assets/tablet_comment.css
+SHA1-Digest: LbHIMScFlspFT3DELbPDkzEbXsQ=
+
+Name: res/drawable-xhdpi/biz_audio_extra_list_divider.png
+SHA1-Digest: xEZBQTzYb4Te1kigzCn61awGlwI=
+
+Name: res/drawable-hdpi/biz_setting_guide_gesture_right.png
+SHA1-Digest: ATqbdl/mCg+tiZrMNLZfE/uM/PY=
+
+Name: res/drawable/night_biz_plugin_manage_normal_checked_selector.xml
+SHA1-Digest: c61rdoSwZUWjfMgLmjPA3HOL7Yo=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_write.png
+SHA1-Digest: Kl/FRZJZGlXLyKDvRR4VEfcKKJc=
+
+Name: res/drawable-xhdpi/biz_pread_item_like_selected.png
+SHA1-Digest: 1PQUkKSKmtRW2rDMGvAmM7fg4o4=
+
+Name: res/drawable-hdpi/night_biz_pc_other_hot_tag.9.png
+SHA1-Digest: k0eDAaSDdLJKYzvBqNQMQtJ99Sw=
+
+Name: res/drawable/biz_news_column_subscribe_add_selector.xml
+SHA1-Digest: oQyvbHkYocNhMYfGESMLTm3FhRQ=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_yuanchuang.xml
+SHA1-Digest: UYGbYdQiA8/UIqMTGUGznya+GIA=
+
+Name: res/drawable-hdpi/night_biz_news_column_delete_normal.png
+SHA1-Digest: WpUrnJz9ZWtZGI3aLemINj0VnWU=
+
+Name: res/layout/biz_live_news_live_content_layout.xml
+SHA1-Digest: Zppgy4pOLm9XocOm23hvCHTrYvQ=
+
+Name: res/drawable-hdpi/night_biz_news_list_ohter_notice_icon.png
+SHA1-Digest: B9BknKfckDeGAvVaVTIJ9KsXGn8=
+
+Name: res/drawable-xhdpi/biz_pc_list_extra_plugin_icon_dark.png
+SHA1-Digest: Uew6dPTngrPbLot7vj+2zGQXeUQ=
+
+Name: res/drawable-xhdpi/biz_audio_bg_night.jpg
+SHA1-Digest: tj/ZeApYDFCHXek2qFLv1L4EIqU=
+
+Name: res/drawable-hdpi/night_biz_pread_item_bg.9.png
+SHA1-Digest: vRST8Mgmy3TXm2gXxYq8jwth33g=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_ties.png
+SHA1-Digest: QYTxHb/b4wl4i91KmMCaKg8LUSI=
+
+Name: res/drawable-hdpi/base_loading_small_icon.png
+SHA1-Digest: JvwvRzI8ASLddAPZQJ7xMi56vV8=
+
+Name: res/layout/tablet_main_pic_layout.xml
+SHA1-Digest: 4vkrPAlMTkqobCYMh7RteGra+68=
+
+Name: res/layout/biz_pc_score_detail.xml
+SHA1-Digest: YNvpNYK+IvKjdqtUoaxfp1EkT38=
+
+Name: res/layout/biz_micro_transmit_item_layout.xml
+SHA1-Digest: WCpikD1P0EewW+kuysrcXRS/ifQ=
+
+Name: assets/night_img_set_flag.png
+SHA1-Digest: 0k1/OtoVluQcMsu50iLSN6XNFr4=
+
+Name: res/drawable-hdpi/night_biz_font_default_pressed.9.png
+SHA1-Digest: onlUPDr2KO7ascd0+H/WRY4JUoI=
+
+Name: res/drawable-hdpi/base_action_bar_back_normal.png
+SHA1-Digest: 8/W1vraQP7PkqPHM23xPR4v3zWQ=
+
+Name: res/xml/update_appwidget_info_4_2.xml
+SHA1-Digest: iouZCkG+LILSS8aP/Fg0JcsVxXA=
+
+Name: res/drawable-hdpi/night_biz_news_subscribed_item_target_bg.png
+SHA1-Digest: 9UBjb98jraAZx7EQelavVNpyQ6c=
+
+Name: res/drawable-hdpi/night_biz_polymeric_dot_normal.png
+SHA1-Digest: wy0YnRLZvpd94WWCG8GSj9f/w3s=
+
+Name: res/drawable/biz_pc_person_center_layout_bg.xml
+SHA1-Digest: GpcpWZxe50QRivmxxhso2N8hkyw=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_recommend_yuanchuang
+ _pressed.png
+SHA1-Digest: wlz/04vZS064o8iO+IxX0s90m1g=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_news.png
+SHA1-Digest: EwBEMTwT5Iqp6LeQH1RTx9UfLHk=
+
+Name: res/anim/biz_yearplan_zoom_in.xml
+SHA1-Digest: iH7p5nCnCjIrCUMIuRfhDhuAgHg=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_ding2_img.png
+SHA1-Digest: 8GZnv59mlAEhD7RkPl0TWn5mZCo=
+
+Name: res/drawable-hdpi/base_article_smallimage.png
+SHA1-Digest: lqyAmB6Eb6P+3KllJL8W2HXAj7Y=
+
+Name: res/layout/biz_about_layout.xml
+SHA1-Digest: YM3zJBBWtcbO1uXpFfp+ml1cLr4=
+
+Name: res/drawable-hdpi/biz_news_column_recommend_top.png
+SHA1-Digest: 76ojZW3w+FQoWODBiZgQ7J0Dw6g=
+
+Name: res/drawable-hdpi/biz_sns_select_item_pressed.9.png
+SHA1-Digest: 2N7joJhRkXpj+eYzRG8dbhHpgGM=
+
+Name: res/drawable-hdpi/biz_topic_micro_sina_big_type.png
+SHA1-Digest: 4I/9D66tczjQC4hqxUYFS/csMho=
+
+Name: res/layout/phone_main_news_layout.xml
+SHA1-Digest: 0u43DXva8lHjJGkSaSmKdfC08PE=
+
+Name: res/drawable/biz_pc_plugin_setting_btn_bg_dark.xml
+SHA1-Digest: AkkJA9fefFYCQGeJMs1E2eJLyM4=
+
+Name: res/layout/base_action_bar_textview.xml
+SHA1-Digest: scFIbxxX+JZi5mI6DgpCpvYAuK4=
+
+Name: res/drawable-hdpi/biz_news_newspage_comment_icon.png
+SHA1-Digest: dcSXix4+F390ugy8JU9+sbNIx4U=
+
+Name: res/drawable-hdpi/night_biz_news_list_other_finance_header_bg_pr
+ essed.9.png
+SHA1-Digest: 2Fpf8w52QfDc+mmbeQmloediTGA=
+
+Name: res/drawable-sw600dp/sns_message_icon.png
+SHA1-Digest: 2D4OVXRiwLaBz2o24rvua2HT0rw=
+
+Name: res/drawable-xhdpi/biz_audio_notification_icon.png
+SHA1-Digest: BkM7y2k2SnZ1PmqSqAH4LVGjyJg=
+
+Name: assets/digest_tag_bg.png
+SHA1-Digest: 6jOQOdwOUaRFL5/NYsgsl6zktWE=
+
+Name: res/drawable/night_biz_pc_account_login_btn_selector.xml
+SHA1-Digest: EIr/srOC5YGCxYtNYu1PuKSUjUQ=
+
+Name: res/layout-sw600dp-land/tablet_main_layout.xml
+SHA1-Digest: z+M1bTOq52XQ++RfZZSzPUPU75o=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_shenzhen.jpg
+SHA1-Digest: 0Wa2ylfpe/mvb/uPbk8TtFetWr4=
+
+Name: res/drawable-hdpi/biz_pics_ic_download_tp.png
+SHA1-Digest: jwuJW88mxJu9+0Cnc3j4AEQXzds=
+
+Name: res/drawable-hdpi/zhongchao_normal.png
+SHA1-Digest: ZV+ElVHD20YCF/0MCQ6Pc+1hZms=
+
+Name: res/drawable/biz_news_column_drag.xml
+SHA1-Digest: kHimlEYA/yIH2QTF+c3Q+CCOPIY=
+
+Name: res/drawable-xhdpi/biz_audio_bg_pm.jpg
+SHA1-Digest: yw5hWqkvNPjVEDhkYDUyOOn+KQU=
+
+Name: res/drawable-xhdpi/night_biz_subscribe_media_guide_btn.9.png
+SHA1-Digest: kFw4zvsIDeUcvi5vYx7qOsdnJ2A=
+
+Name: res/drawable-xhdpi/biz_pc_main_money_icon.png
+SHA1-Digest: JZkeCLgncEQ1gljB/ePGng1fq6I=
+
+Name: res/layout/base_action_bar_overflow_list_item_layout.xml
+SHA1-Digest: nI6fNyDIh9UGO66SlQttGsrGfaY=
+
+Name: res/drawable-hdpi/night_biz_pc_list_offline_processbar_bg.9.png
+SHA1-Digest: gtnnCCNqWtpPfsxxeto5H9XA0a4=
+
+Name: res/drawable-hdpi/night_biz_subscribe_media_recommend_item_subsc
+ ribe.png
+SHA1-Digest: Xpi9wlfsFtzCBgeDbeRsHLkE9A4=
+
+Name: res/drawable-hdpi/night_biz_tie_replyme_empty.png
+SHA1-Digest: m/YSLnw8QkrooFHXFuzCnB4jv9Q=
+
+Name: res/layout/base_load_content_layout.xml
+SHA1-Digest: uxSCqqcdyOuFMy0pl0rRml9fa3w=
+
+Name: res/layout/biz_pic_action_view.xml
+SHA1-Digest: nk0vI7pNKyMcv6jJK0APjkIUQyk=
+
+Name: res/drawable/biz_news_recommend_start_experience_selector.xml
+SHA1-Digest: z9ttNSpb0kscG0JCeT6pqqkBxoU=
+
+Name: res/drawable-hdpi/biz_widget_4x1_right_pressed.9.png
+SHA1-Digest: kZjjID9cCJ9RF/+kV44IbrGLnHg=
+
+Name: res/layout/biz_plugin_mail_webview_layout.xml
+SHA1-Digest: gNBIQ4eVF4bF1NqaOn+ZYDukQoM=
+
+Name: res/drawable/biz_subscribe_media_recommend_item_selector.xml
+SHA1-Digest: fSFdXR74DB34jtvGPYFzPOZNQWo=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_comment.png
+SHA1-Digest: Knb0x5DUNKyiys9NKtUQzhc/4EQ=
+
+Name: res/drawable-hdpi/night_base_pager_title_strip_bg.png
+SHA1-Digest: AupQsD/1rb2i8S3K25vCnR3m8bU=
+
+Name: res/drawable-xhdpi/biz_news_column_edit_btn_back_normal.png
+SHA1-Digest: 6FW0LgO/xbyBO2NWO6p0cN44z78=
+
+Name: res/layout/biz_pread_fragment_layout.xml
+SHA1-Digest: uAhFAPoDEbXJOHPxd+fc9xjbKB0=
+
+Name: res/layout/biz_pic_show_relative.xml
+SHA1-Digest: 2uZOaKiby06FhkkJiSQ8kLOq7ic=
+
+Name: res/layout/biz_font_bar_textview.xml
+SHA1-Digest: jeuobOiTxchSH4LqqZUSv0CiaAU=
+
+Name: res/drawable-hdpi/biz_news_list_other_finance_details_group_item
+ _bg_pressed.9.png
+SHA1-Digest: woTQsSw5D3aTbDcBt+i6IncFBKk=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_beijin.jpg
+SHA1-Digest: UDkt/SOL3AxLpkNRZ0+I4CUj1+o=
+
+Name: res/drawable-hdpi/biz_topic_vote_detail_default.png
+SHA1-Digest: Qx8Pghc8+DVBd81dHdKo5z/yvQ4=
+
+Name: res/drawable-xhdpi/biz_account_score_add_show.png
+SHA1-Digest: 06Opeu7aPH4avHZhVTm+nyFu87g=
+
+Name: res/drawable-hdpi/base_list_longpressed.9.png
+SHA1-Digest: CryqHoFcxjamvNzipiGDoWeVOGw=
+
+Name: res/layout/biz_plugin_searchnews_search_result_item.xml
+SHA1-Digest: YgRDIZET7c1eQFKOraHEXD4TbgU=
+
+Name: res/drawable-hdpi/zhongchao_selected.png
+SHA1-Digest: sYHqW/Aaj41/ReSSILJumZNePa0=
+
+Name: res/drawable-hdpi/night_biz_special_group_bg.9.png
+SHA1-Digest: hzaPUadJ3vn6ek0HC2llg8mx67k=
+
+Name: res/drawable-hdpi/biz_widget_refresh_4x1.9.png
+SHA1-Digest: GgzbDtwhbHPi1W0A1n/wv3NBKiw=
+
+Name: res/drawable-hdpi/biz_pics_ic_back_pressed.png
+SHA1-Digest: fSI4b3NiDxGRvgVbElbDd2ppLbQ=
+
+Name: res/layout/tablet_main_tie_layout.xml
+SHA1-Digest: FxFic1VnF3smhwFJtF+rbhwzJ7Y=
+
+Name: res/drawable/night_biz_read_main_back.xml
+SHA1-Digest: m6bcVvSOK8wz/FgNrynhrujRSJQ=
+
+Name: res/drawable-hdpi/biz_vote_red.png
+SHA1-Digest: y7Xa6pX0BT0y0cV+rycdhvqzFvc=
+
+Name: res/drawable-hdpi/biz_pc_person_center_drawable_view_bg.jpg
+SHA1-Digest: UbKyF1IeKJFrr+A4XgkQJGC35/g=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_201_300.png
+SHA1-Digest: EHo+jh+ueNpoTao8JmWRYhId7nQ=
+
+Name: res/drawable-hdpi/night_base_search_edittext_bg_focused.9.png
+SHA1-Digest: a83/s04TOroV/8/3PRMdVGSbhOI=
+
+Name: res/layout/biz_micro_list_header_layout.xml
+SHA1-Digest: B8empV60XkyeJst3ae+zX4MceYk=
+
+Name: res/drawable/biz_news_column_edit_back.xml
+SHA1-Digest: kqAL/BkuaDgRy9NQrfhqF9YPzD0=
+
+Name: res/layout/biz_plugin_weather_item_first.xml
+SHA1-Digest: f+9k7xL7MmoKkIm5bPiqo0x47aU=
+
+Name: res/drawable-hdpi/base_pager_title_strip_bg.png
+SHA1-Digest: 19ZZ4Dn34vAAMJ7Oe45GtVb7p2E=
+
+Name: res/drawable-sw600dp/biz_pc_account_pwd_icon.png
+SHA1-Digest: MrCHrE3bl8xehKMr8RjB448H6jc=
+
+Name: res/layout/biz_font_list_item.xml
+SHA1-Digest: ohGuucZ3CA/y/9TNi6ST8Ruw+mo=
+
+Name: res/drawable-hdpi/biz_vote_list_tag_bg.png
+SHA1-Digest: znMwctWgIBQIylBUb8eTUMz691I=
+
+Name: res/layout/biz_sns_publish_layout.xml
+SHA1-Digest: I0980xndMNaO+pCLOWzyt3B97N0=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: R+NAA/G49DSXma98OZNf5HTxTyU=
+
+Name: res/drawable-xhdpi/biz_pc_score_edit_bg.9.png
+SHA1-Digest: gpXJgiBrtznCGclKTWVtrFjiwtk=
+
+Name: res/drawable-xhdpi/biz_news_local_weather_bg_big.jpg
+SHA1-Digest: NcD8OzGYYOwOgMjsbXa9XGWbaB4=
+
+Name: res/drawable-xhdpi/night_biz_audio_btn_bg_pressed.png
+SHA1-Digest: 5MwPIWm4Q57D1agtgX9Jts2K65U=
+
+Name: res/drawable-hdpi/biz_subscribe_media_recommend_item_subscribe_a
+ dd.png
+SHA1-Digest: Op4m9D9BZbhCECXRK+OWjmzKA9k=
+
+Name: res/layout/biz_account_accountlogin_dropdown_item.xml
+SHA1-Digest: Mkr4GqE9HegbL2r1LTOfBwyLqJE=
+
+Name: res/drawable/biz_live_news_live_header_layout_bg.xml
+SHA1-Digest: 9bphSAxz+fh3HW3e5WSxWHSeT+o=
+
+Name: res/drawable-xhdpi/biz_news_column_subscribe_add_pressed.png
+SHA1-Digest: tkAHxHDeftSPWCztllUX4KdMOLY=
+
+Name: res/drawable-sw600dp/sns_weixin_icon.png
+SHA1-Digest: axhBiXXcWgxhKg9zWXmEnuZ/kMY=
+
+Name: res/drawable/night_biz_topic_vote_checkbox_selector.xml
+SHA1-Digest: vELTOVe5tPEPKzIUWAxGIIhf4mk=
+
+Name: res/drawable-hdpi/biz_pc_favorit_comment_text_bg.9.png
+SHA1-Digest: 7+bxZ4VrGN0ca/hMTiFioLFy6Xw=
+
+Name: res/layout/biz_pic_load_empty_layout.xml
+SHA1-Digest: sV/DBF033MoOyoMc2DW7R5IVqk0=
+
+Name: res/drawable-sw600dp/night_biz_pc_recommend_download_normal.png
+SHA1-Digest: nmIK2UzRmNe7bAu/OdXsheUmK1Q=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_nba.xml
+SHA1-Digest: DLvp3zlwwN2yuJ4TRnci0wgbaDw=
+
+Name: res/drawable-hdpi/biz_live_news_live_header_bg.png
+SHA1-Digest: xVen1x3I0hyDC8VkMQzVb0LA0fI=
+
+Name: res/drawable-xhdpi/biz_audio_comment_action_view_bg_pressed.png
+SHA1-Digest: bs3LyYLcsbcQB1QTrbZ3zLasPO0=
+
+Name: res/drawable-sw600dp/sns_renren_icon.png
+SHA1-Digest: OFtYFiDSIcA3X3ZTrC/J0lilqDA=
+
+Name: res/layout/biz_plugin_extra_webview_layout.xml
+SHA1-Digest: 1dzF03SLUB+HZSfxAm0lu+QxqNE=
+
+Name: res/drawable-hdpi/night_biz_subscribe_guide_icon.jpg
+SHA1-Digest: S/DovmWSpq3HztHcUnSDCzceVwg=
+
+Name: res/drawable/biz_news_huge_pic_download_selector.xml
+SHA1-Digest: CAncz1RGWwUSAGJ3wMK630moRI0=
+
+Name: res/drawable-hdpi/biz_news_subscribe_group_divider.png
+SHA1-Digest: nIuY52yXmdT1+zPJgka9p35Fbdw=
+
+Name: res/drawable/biz_news_subscribe_tab_selector15.xml
+SHA1-Digest: JJsx3Yg6UPEy9Y1YqWBdsZQ/Qwg=
+
+Name: res/drawable-hdpi/biz_news_column_edit_divider.png
+SHA1-Digest: 1C/BpsPJLJ2W5TtWZ1U/PtGrva8=
+
+Name: res/drawable/night_biz_update_confirm_selector.xml
+SHA1-Digest: 3FPpNdvfUPnVUOdybtu6cKX1eYs=
+
+Name: res/drawable/biz_fb_write_drawable.xml
+SHA1-Digest: GhkeM6j2Tu3ukW7DCoYapQDtH1E=
+
+Name: res/drawable-hdpi/night_sns_renren_icon.png
+SHA1-Digest: d6ETqqOOlP4lhI3njfvzMwF+4Ao=
+
+Name: res/layout/biz_widget_layout_4_3.xml
+SHA1-Digest: +82GX0rZbb1uKLhF/jPQgvtffJY=
+
+Name: res/drawable-xhdpi/biz_pc_main_info_profile_avatar_gift_bg_dark.
+ png
+SHA1-Digest: aYLkzS4E4g6ewoAi0byel7mn3gI=
+
+Name: res/drawable-xhdpi/night_biz_subscribe_media_guide_btn_pressed.9
+ .png
+SHA1-Digest: pW2nRM0syFDBoQIx+8FXbt2QUEw=
+
+Name: res/drawable-hdpi/biz_pics_ic_xiegentie_tp.png
+SHA1-Digest: ypzuC3GUVU21CsSbUaZQ3//ToOg=
+
+Name: res/drawable/biz_pc_account_register_btn_selector.xml
+SHA1-Digest: EeVEX4JufPFHZ/neerWxFio3F68=
+
+Name: res/drawable/night_base_action_bar_dropdown_selector.xml
+SHA1-Digest: iP4p5sQdet+5j1hso6eCUxId6yY=
+
+Name: res/layout/base_navi_list_item_layout.xml
+SHA1-Digest: PvSZ2QPknndZNqctrttklj/I9Y8=
+
+Name: res/drawable/biz_navigation_tab_ties_bg.xml
+SHA1-Digest: dfYS7P4Xb/sBmW8X/Mu+LZr5J3U=
+
+Name: res/drawable-hdpi/night_biz_pics_ic_download_tp.png
+SHA1-Digest: g7svMs1tePpGZjFSqcyEwTFimoY=
+
+Name: assets/big_reload_img.png
+SHA1-Digest: VCrSAZ4sUi4lBxsOBd91xDhNyZE=
+
+Name: res/drawable-xhdpi/night_biz_news_column_edit_delete.png
+SHA1-Digest: YZwS8FI0J6Yjr3siUuPEo+QOrFI=
+
+Name: res/layout/biz_pc_favorit_news_item.xml
+SHA1-Digest: 00inqO+8WYj+PgSUiDlCNJKiT4w=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: q67Ije36rjLymGiBZWoSvdZW/04=
+
+Name: res/color/biz_navigation_item_color.xml
+SHA1-Digest: JQuhQNwq9F9Jlop0BDal/Vs9tbU=
+
+Name: res/layout/biz_pc_app_recommend_list_item.xml
+SHA1-Digest: o8cEUyghn5r9O+LqujCKDe3nArw=
+
+Name: res/drawable/night_biz_tie_comment_orig.xml
+SHA1-Digest: wY2q7Kv4idsAZEUCy0cWjNkfobc=
+
+Name: res/layout-sw600dp/biz_news_column_subscribe_recommend_first_lay
+ out.xml
+SHA1-Digest: +koz34Gggfp6HzFfPbDR9+Lvqo4=
+
+Name: res/drawable-hdpi/night_biz_news_list_tag_local_bg.9.png
+SHA1-Digest: A/e2Iis6pdCweK4HBRPdZYBi6qo=
+
+Name: res/drawable-xhdpi/biz_pc_offline_cancel.png
+SHA1-Digest: AVgN26cnjxU8eEC6ypM4k5SjrNg=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_exprice_icon.png
+SHA1-Digest: P3G5AeT6mxWSG+8HAz20DdDZQTg=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_zhenyu.png
+SHA1-Digest: e12Pkd5antj1GFf0HNY4F853gA0=
+
+Name: res/drawable-hdpi/night_biz_news_newspage_collect_icon.png
+SHA1-Digest: DWzd0WYWGjJqN+FFM0OqqNOI+8w=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_zhongchao.xml
+SHA1-Digest: 6SOOcGIwITb9CIr25b3ckpGFrys=
+
+Name: res/layout/base_action_bar_icon_action_layout.xml
+SHA1-Digest: iyWO4gmjx5e4zqNaxFu7pMhyeQI=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_money_big_icon.png
+SHA1-Digest: Z7fsJ2nM8hysxB8yrIO8uOlxDik=
+
+Name: res/drawable-hdpi/biz_radio_pause_pressed.png
+SHA1-Digest: Gln2ij+3mAnSnyD6paD9PjY17TU=
+
+Name: res/drawable-hdpi/biz_yiyuan_divider.png
+SHA1-Digest: zCJD2anmRnfImqQvqQupII/L29M=
+
+Name: res/layout/biz_plugin_weather_list_group_item.xml
+SHA1-Digest: l1jCtBj9VzxZv+GrjU2uP3t7mt8=
+
+Name: res/layout/biz_pc_plugin_manage_extra_layout.xml
+SHA1-Digest: Q7ew3+FTuXekycb1iORjIujO/Bo=
+
+Name: res/drawable-hdpi/night_biz_pc_account_login_btn_pressed.9.png
+SHA1-Digest: RyYST1STAj54wCT839FIOodkCMk=
+
+Name: res/drawable-hdpi/night_biz_sns_publish_send_pressed.png
+SHA1-Digest: 02PkHSO7FA0DKH+9GEvrJOpIhKA=
+
+Name: res/drawable-xhdpi/night_biz_ugc_main_back_normal.png
+SHA1-Digest: 8nDJHJwObQ6cVJUnflnOut6/A1c=
+
+Name: res/drawable-hdpi/biz_tie_replyme_empty.png
+SHA1-Digest: dqOIAl4ftD+gZy8jIZFyAS1NsMQ=
+
+Name: res/drawable-hdpi/nba_normal.png
+SHA1-Digest: D3EJVa8m5LcGVrKs6upl3hQFcPM=
+
+Name: res/layout/biz_news_detailpage_main.xml
+SHA1-Digest: FyfFLE617oQ1aovNohi9H+S8zMU=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_normal_vertical_divid
+ er.png
+SHA1-Digest: XHdy/qY9zPGUbNXn741MhZVDVjk=
+
+Name: res/drawable-hdpi/icon_toast_bg.9.png
+SHA1-Digest: A8MRY4TVXqAy05/UzHeQrazaGGQ=
+
+Name: res/drawable-xhdpi/biz_pc_score_propaganda_how_step1_bg.9.png
+SHA1-Digest: Z5zF33hNtz54CANPcKqyPHoLz9k=
+
+Name: res/layout/biz_widget_loadding.xml
+SHA1-Digest: +sUC6/izn51+N3bVw7DgPoRwkcs=
+
+Name: res/drawable-hdpi/biz_account_head_selector_sina.png
+SHA1-Digest: f8NMW96FIgfe0PSYEtVx4BYsqcg=
+
+Name: res/drawable-hdpi/biz_fb_write_normal.png
+SHA1-Digest: yl6hjQXfoXt8U+xdzPF+bJIELew=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_check_pressed.png
+SHA1-Digest: 16JeQ56q1v9r2tTEPD4pUlj+snM=
+
+Name: res/layout/tablet_tie_mycomment_tab_layout.xml
+SHA1-Digest: bRQkIUNN3uHRedgLQXNRPEgAd/8=
+
+Name: res/drawable-hdpi/biz_plugin_mail_exit.png
+SHA1-Digest: ZMoNnigR43pTJI/sO0FmVHIqmPs=
+
+Name: assets/small_reload_img.png
+SHA1-Digest: QFdjO8/+kQn//GSdneNzGZdpzSo=
+
+Name: res/drawable-xhdpi/biz_pc_main_chuzhang.png
+SHA1-Digest: 3IWNfqtWjRiGtt0ByVNw7cUHMb4=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_setting_icon.png
+SHA1-Digest: aE7MN5nhzQL5WrRPb67U26qEAJ4=
+
+Name: res/drawable-xhdpi/biz_pc_list_offline_icon.png
+SHA1-Digest: 7og4LtR0GZnW8Rw9IqF8Rp3lNgI=
+
+Name: res/drawable-hdpi/biz_sns_publish_bind_pressed.png
+SHA1-Digest: kQq0AbNxfyqRkdfp+yz1jSJqHvE=
+
+Name: res/drawable-hdpi/biz_topic_micro_netease_big_type.png
+SHA1-Digest: 7nUpYK0siBl00jG5uZAGn99jQgw=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_ding1_img.png
+SHA1-Digest: FNojot1wOO81e7+hPfkIpYeoY+w=
+
+Name: res/drawable-hdpi/night_biz_pc_account_avatar_bg.png
+SHA1-Digest: UxURuJejZLwmBYRG/JL8Salezz4=
+
+Name: res/layout/biz_ad_flowremind_dialog_layout.xml
+SHA1-Digest: Y1dOPgYgggnbBugzc+P9v4Km1RU=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_tag_bg.9.png
+SHA1-Digest: Z8TH6LmrhjNmMFXyHcklcN+i5ts=
+
+Name: res/drawable-hdpi/biz_radio_close.png
+SHA1-Digest: QdYafuiuX46c/NXTRg7RU3ADuTQ=
+
+Name: res/drawable-xhdpi/night_biz_audio_btn_play_bg_normal.png
+SHA1-Digest: RghnQLtmoUhuiFtw6awUrAesiAE=
+
+Name: res/layout/biz_pc_score_detail_desc_item.xml
+SHA1-Digest: +fNO/s93B1lQqXnBezCfUCyYgSw=
+
+Name: res/layout/biz_tie_comment_floor_normal.xml
+SHA1-Digest: QRpTsSmqJGzlj3Og+xzCJAQZeB8=
+
+Name: res/drawable-hdpi/base_menu_dropdown_panel.9.png
+SHA1-Digest: cVwYvR+7k+zXPMz+KoM2S7dH7eQ=
+
+Name: res/drawable-hdpi/biz_offline_icon_download.PNG
+SHA1-Digest: BB4wStLM4IBM3tHds8ZOki4QjiI=
+
+Name: res/drawable-hdpi/night_biz_score_mall_item_bg.9.png
+SHA1-Digest: Cv95PM71FBwBvgavN5rZ8Zy1pO0=
+
+Name: res/drawable-xhdpi/biz_news_list_ohter_all_car.png
+SHA1-Digest: dWFGEksp5x2S7rFb0t7mcPE74WQ=
+
+Name: res/drawable-xhdpi/biz_news_list_other_finance_details_arrow_up.
+ png
+SHA1-Digest: uxr4Q2O0VmtpbUytWrK/+Gl9Is8=
+
+Name: res/drawable-hdpi/biz_account_head_selector_renren.png
+SHA1-Digest: AJbKi4Uss1IJTQ6GMykw13o0WCk=
+
+Name: res/drawable-xhdpi/biz_ad_checkobx_checked.png
+SHA1-Digest: veqCmfAcxNxqAAmf6YWAglr/3NE=
+
+Name: assets/img/loading7.png
+SHA1-Digest: fMZ/DSv93uWUNW7qRyHOKYA4EME=
+
+Name: res/drawable/biz_news_subscribe_tabwidget_bg.xml
+SHA1-Digest: E0AqgSC1eyplnAG3C7Kc0BHaZeA=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_micro.png
+SHA1-Digest: 6wZ6mnUTrm9UZZn0T5S4GF+KzGA=
+
+Name: assets/weberror.html
+SHA1-Digest: 7FSh5AUsWw7v5Ui+1iggHwA4dtU=
+
+Name: res/drawable-hdpi/biz_pc_account_line.png
+SHA1-Digest: pBqVGwXrL/McScXXBbg6+JWWrcE=
+
+Name: res/drawable-hdpi/biz_special_news_group_bg.png
+SHA1-Digest: rDXSBOxzuAYAeN7/KeAmt/wEG1k=
+
+Name: res/layout/biz_main_media_header.xml
+SHA1-Digest: vTh5vBwk5peV6FLnkwB7V7I/SP0=
+
+Name: res/drawable/base_send.xml
+SHA1-Digest: TgSt8bNxvNvBiPA/LLQy3dAgRCc=
+
+Name: res/layout/biz_polymeric_list_item_introdoc.xml
+SHA1-Digest: WPEe8/F189s7i/WOLGfYFdcBeqs=
+
+Name: res/layout/biz_news_subscribed_item.xml
+SHA1-Digest: xp6TfgZ++1KDL0Lvb5sL/KQb4ug=
+
+Name: res/drawable-hdpi/night_top_background.png
+SHA1-Digest: ZBevtz3/76Hj8Q4PfxDiG8zzXfk=
+
+Name: res/drawable-hdpi/base_drawable_view_bg_pressed.png
+SHA1-Digest: tK1SZqaKsE7uDtiKZOdQYIGJZhk=
+
+Name: res/layout/biz_setting_guide_column_slide.xml
+SHA1-Digest: uUWv9uBnBa4MeF51V/Jw+vnVY9Q=
+
+Name: res/drawable-hdpi/base_list_default_icon.png
+SHA1-Digest: QKjotIcF8K4oyAkt8BJmaNlLGBg=
+
+Name: res/drawable-xhdpi/biz_audio_bg_am.jpg
+SHA1-Digest: wjKckxebCr2Xpss43zwasQ3d4R4=
+
+Name: res/drawable/night_biz_news_column_tabpager_indicator_edit_bg.xm
+ l
+SHA1-Digest: 1uXo17MkNNaL5vziFiyqP5zROrs=
+
+Name: res/drawable/biz_navigation_tab_news_bg.xml
+SHA1-Digest: Z7frIQxVTL8q30+MoQGiKiVBcaY=
+
+Name: res/drawable/night_biz_navigation_tab_micro.xml
+SHA1-Digest: ue9JB+dykieulbJU7HFTJFMSqwY=
+
+Name: res/drawable/night_biz_plugin_manage_normal_bg.xml
+SHA1-Digest: yYtKdxgyl/Z+w8czcD+sQVUSWXM=
+
+Name: res/drawable-hdpi/night_biz_news_column_subscribe_actionbar_add_
+ normal.png
+SHA1-Digest: Rao4gPJMuNY2obgfuIKndnu7bmc=
+
+Name: res/drawable-hdpi/biz_widget_4x1_right.9.png
+SHA1-Digest: Jl9SpmLOsGfae4vP56EmGKHabUM=
+
+Name: res/drawable-hdpi/biz_subscribe_media_recommend_item_subscribe_p
+ ressed.png
+SHA1-Digest: eSY1bDho+xfl4JYKM0+VJKq3Pi0=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_share_img.png
+SHA1-Digest: E/rxjxryJ7btdgHVhgFoZgN3Jis=
+
+Name: res/layout/biz_news_column_subscribe_load_expandablelist_layout.
+ xml
+SHA1-Digest: +IMkCZ0WL8nT3ibjUnESXXwO1Y0=
+
+Name: res/drawable/biz_news_column_tabpager_indicator_edit.xml
+SHA1-Digest: Po7WCNNw66vdb6+t+1y/IKH2nYo=
+
+Name: res/drawable-hdpi/biz_news_subscribe_tab_bg.png
+SHA1-Digest: PQq60fAkZVhxjNHfqc6e+FRVq9c=
+
+Name: res/drawable-hdpi/biz_weight4x1.png
+SHA1-Digest: bU+vusyuOyo0YuERVDvQMtshZk8=
+
+Name: assets/img/small_loading9.png
+SHA1-Digest: t9CQBTp4QY7i74BZfEJesQwlt60=
+
+Name: res/drawable-hdpi/biz_sns_publish_send_normal.png
+SHA1-Digest: ILqLwK+44V/jpJG4A00hpsg3q7U=
+
+Name: res/drawable-hdpi/night_biz_tie_mycomment_empty.png
+SHA1-Digest: cYpHg0M5M7lx2bXF8lzqjnqsJ1s=
+
+Name: res/drawable-xhdpi/biz_main_tab_divider.png
+SHA1-Digest: WZoNjVNQq/pu61qESkuRe2QRhmI=
+
+Name: res/layout/biz_plugin_searchnews_search_history_layout.xml
+SHA1-Digest: KNi1Te2mBGVbDjGS4KznNK43hFI=
+
+Name: res/drawable/base_checkbox_selector.xml
+SHA1-Digest: w/1wn1t+Y8L3aYYbZ8XtS2u1NLA=
+
+Name: res/drawable/biz_pread_item_like_drawable_selector.xml
+SHA1-Digest: SpcABirHv7XQga7Do4DSKz1ibhg=
+
+Name: res/drawable/biz_news_subscribe_tab_selector18.xml
+SHA1-Digest: SJz+mENBqwDXHBoxDP5430tCuoQ=
+
+Name: res/drawable-hdpi/night_base_pull_list_msg_indicator_arrow_up_dr
+ awable.png
+SHA1-Digest: ayPU1mQe6EVqDtiJi1zt847YQCo=
+
+Name: res/drawable-hdpi/biz_pics_detailpage_comment_pressed.9.png
+SHA1-Digest: KakkqbpC/DjrPTWdveg+1RvIFSs=
+
+Name: res/drawable-sw600dp/biz_pc_recommend_open_pressed.png
+SHA1-Digest: PvrXogD7J+0iCpkKyCtPUGVVC+4=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_leizhenyu.png
+SHA1-Digest: q4BmSnFj2fzn1NX/NgYEl5/w8vM=
+
+Name: res/anim/biz_yearplan_fade_in_slow.xml
+SHA1-Digest: BD+J/bZHFhckCANug0Gb/VOZVmQ=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_propaganda_how_step2_bg.9.
+ png
+SHA1-Digest: svm/3Sa5J+MWgsPqaw3WETJQ45Y=
+
+Name: res/drawable-xhdpi/night_biz_vote_unselected.png
+SHA1-Digest: na4yxBCn1kLb28KJZiHJeva+VIc=
+
+Name: res/color/base_action_bar_overflow_list_item_text.xml
+SHA1-Digest: RN/nS4z3siMApiNG25h604D4fOk=
+
+Name: res/drawable/biz_topic_vote_item_selector.xml
+SHA1-Digest: 5Bd7r3fv5v01sFViWmW2YQW81Ww=
+
+Name: res/drawable-xhdpi/night_biz_news_list_other_finance_details_arr
+ ow_down.png
+SHA1-Digest: +Vzr5X554st5hkxrvzVwhnjN+L4=
+
+Name: assets/night_multivote.png
+SHA1-Digest: dw3X4kkMShQF/IpUEDwJG7x9Tp0=
+
+Name: res/drawable-xhdpi/night_logo.png
+SHA1-Digest: R6361cbQXD4EInIKqnE3K+NEo4k=
+
+Name: assets/view_more.png
+SHA1-Digest: AebUpp+hvmwjc+AwblFtrw+A+vE=
+
+Name: res/drawable/night_biz_pics_action_bar_action_more.xml
+SHA1-Digest: sHUqnVWb5gSRbC0JK8v9oTeAK8s=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_read.png
+SHA1-Digest: NW6xmigmxonoWdrCF/Ch4r1R5Rw=
+
+Name: res/drawable/night_base_indicator_dots.xml
+SHA1-Digest: dCclrMXUTOZ/ZS4WyQcW6IvP43o=
+
+Name: res/layout/biz_special_news_list_group_item.xml
+SHA1-Digest: JPlB6gsCIF2pOe0qw5s2vZ1w074=
+
+Name: res/layout/biz_main_pc_action_icon_layout.xml
+SHA1-Digest: P8HSHE2DGRtNVL4BPtDQ0tWa74s=
+
+Name: res/drawable-hdpi/biz_special_media_title_bg.png
+SHA1-Digest: bDWhIlN2ve4IlUWLRI/lZj+CIto=
+
+Name: res/layout/base_ad_content_layout.xml
+SHA1-Digest: pt5FbgpI0lw+QnFJMQbjZwfK8lc=
+
+Name: res/drawable/biz_navi_column_item_bg.xml
+SHA1-Digest: MrkK7TU4SoR5xFpcfMS8R/esvU0=
+
+Name: res/drawable-xhdpi/biz_local_news_main_back_normal.png
+SHA1-Digest: y7MNpG/2idTcicwg6tzY9bnHMG8=
+
+Name: assets/vote.css
+SHA1-Digest: fztl8bPlRFHi0ljXu+6qVQ+NOrs=
+
+Name: res/layout/biz_vote_multi_submit_btn.xml
+SHA1-Digest: EETvAr0mfxkrkXd5iyxBHusduLo=
+
+Name: res/drawable-hdpi/night_biz_news_subscribed_item_bg.png
+SHA1-Digest: qhmkuYcSAxsgP8fKerBmQE2azI0=
+
+Name: res/drawable/biz_audio_btn_play_control.xml
+SHA1-Digest: MxjiVnCvYgP8DIFLES5+CZYfLgE=
+
+Name: res/drawable-xhdpi/biz_news_list_other_finance_arrow_up.png
+SHA1-Digest: aTZtGS7rU9lH5oiPMgoeLjw+zMo=
+
+Name: res/drawable-xhdpi/biz_pc_score_invite_step3.png
+SHA1-Digest: yB0E5p3L4F9h2ObPeia+499k79U=
+
+Name: res/drawable/biz_subscribe_media_guide_btn_selector.xml
+SHA1-Digest: YhnTkpj5YBNPS+V47nXNdxL2GAU=
+
+Name: res/drawable-hdpi/night_base_action_bar_action_more_normal.png
+SHA1-Digest: cwqwafqhhLtapBxdoq/KMj/RkOc=
+
+Name: res/drawable-sw600dp/night_biz_pc_recommend_open_pressed.png
+SHA1-Digest: VFSfutbahIJVN3/BBQU4ekjaQyY=
+
+Name: res/drawable/night_biz_audio_btn_play_control.xml
+SHA1-Digest: fQrtY2Mg3rT1c6IHnSbE70MjoSg=
+
+Name: res/drawable-hdpi/biz_plugin_weather_selectcity_index_bg.9.png
+SHA1-Digest: 4XBJpo6lgDXFheEB0OaYmZm6AJs=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_xiaoyu.png
+SHA1-Digest: mlRYOZ3tMmvkltzTbjUehYXb61g=
+
+Name: res/drawable-hdpi/biz_pc_account_login_btn_normal.9.png
+SHA1-Digest: IeNsSvbB9Yc/KBxhZO/46lVL+K0=
+
+Name: res/drawable/night_biz_plugin_searchnews_search_btn_selector.xml
+SHA1-Digest: fUqTqG1+JW1efprozjKDwRaxCFw=
+
+Name: res/layout/biz_navigation_item_layout.xml
+SHA1-Digest: 44RPhcmbj4F4lRYGRKk7vMsBVxM=
+
+Name: res/anim/base_slide_bottom_out.xml
+SHA1-Digest: bCOiUaG3VclG8JySjMln9N6GUio=
+
+Name: res/drawable-hdpi/night_biz_news_list_other_finance_details_divi
+ der_drawable.png
+SHA1-Digest: raqxENsvz0QbG/s2fcUN2ZxcnJg=
+
+Name: res/drawable-xhdpi/night_biz_news_column_subscribe_add.png
+SHA1-Digest: HzqKpMLoukC/7eXS3bFjcXTXkHE=
+
+Name: res/drawable-hdpi/base_actionbar_bg.9.png
+SHA1-Digest: axsYQ7/BxQ8v1YKZ1DYv+Elku4k=
+
+Name: res/drawable-hdpi/junshi_selected.png
+SHA1-Digest: SVODK2sHBydoIB2me7TqS7VXU5s=
+
+Name: res/layout/biz_blog_list_item.xml
+SHA1-Digest: /pjWhOGhl7xpjbkgA2J7HOvBxoc=
+
+Name: res/drawable-hdpi/yule_normal.png
+SHA1-Digest: H9TCu9hMoTGUF/MjO/KA65Lhxbo=
+
+Name: res/drawable/night_biz_topic_vote_item_selector.xml
+SHA1-Digest: HAaVRtoIHKJpbR3l6bLK+2pJjTM=
+
+Name: res/drawable-hdpi/biz_topic_micro_comment_toolbar_bg.png
+SHA1-Digest: 3T50oRDOZooNdPFCduimY6Svsow=
+
+Name: res/layout/biz_tie_mycomment_toolbar_layout.xml
+SHA1-Digest: SlBzISwp9cZQvcpJjf0OQizORCk=
+
+Name: res/layout/biz_pc_score_task_propaganda.xml
+SHA1-Digest: n8Eci7KiYcTKrtZNqPRNrWsRxpw=
+
+Name: res/drawable-xhdpi/biz_audio_btn_share.png
+SHA1-Digest: uCZHq2yivAH9WPfPn3BnDR3TJtU=
+
+Name: res/layout/biz_pic_image_imageswitcher.xml
+SHA1-Digest: aOBqxm1KuEXDRP7UAnlQng6O1nw=
+
+Name: res/drawable-xhdpi/biz_news_column_tabpager_indicator_divider_0.
+ png
+SHA1-Digest: JGn448M+wP2SYRN0JssZooa8RbM=
+
+Name: res/color/night_base_tabpager_indicator_color.xml
+SHA1-Digest: zxYkk1hQDVDt4s2d1+W9hh1kbfo=
+
+Name: res/drawable-xhdpi/night_biz_news_column_tabpager_indicator_edit
+ _bg_pressed.9.png
+SHA1-Digest: o46tHLU+CcpNk9PXtSPvb9YNIJE=
+
+Name: res/drawable-hdpi/night_biz_accout_update_confirm_normal.png
+SHA1-Digest: abn296h4rRSp+rkdpWFvt0RIuO4=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_voted.png
+SHA1-Digest: 1mjQFVzVvZzmR9JDatCEHHg/WMI=
+
+Name: res/anim/biz_ad_fade_out_fast.xml
+SHA1-Digest: ubH+XeaWCIebQgSsk8IUThbfItc=
+
+Name: res/drawable/biz_news_subscribe_tab_selector1.xml
+SHA1-Digest: WeM8Yrb8lkLflhk1nWN0Ye3uLfM=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_checked.png
+SHA1-Digest: EtTfkgXz/0LHhNf4fSuYeAPb3OE=
+
+Name: res/drawable-hdpi/sns_netease_icon.png
+SHA1-Digest: 2oaK5s8fd7GjNbrT6eXN9megwyM=
+
+Name: res/drawable-xhdpi/night_biz_read_main_back_normal.png
+SHA1-Digest: Ynb0SHh8XfQxvs8MpKnMc6pJyqM=
+
+Name: res/layout/biz_specila_news_list_img_item.xml
+SHA1-Digest: Mpv7CxqeUrfBy/FyWAkclfbVUbI=
+
+Name: res/drawable-hdpi/base_edittext_normal.9.png
+SHA1-Digest: nvMrS80duEiHXla0Gr1rhRgL3QU=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_normal_bg_pressed.png
+SHA1-Digest: zMzuGT7sWa8UgO8jflHkqfDzWzI=
+
+Name: res/drawable-hdpi/big_button_down.9.png
+SHA1-Digest: nABgao+10GaARIEhLpNMIYQI7dw=
+
+Name: res/layout/base_alert_dialog_layout.xml
+SHA1-Digest: kGSk5KFqOyWDl8bLXvGApUU7Brk=
+
+Name: res/drawable-xhdpi/night_biz_news_list_other_finance_arrow_up.pn
+ g
+SHA1-Digest: V593q/dcBTErfkPAa2+Zlzs1ZfQ=
+
+Name: res/drawable-xhdpi/biz_plugin_extra_tools_refresh.png
+SHA1-Digest: pFuSZg24dSIj3+lJIc3PP3KxbPY=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_micro_normal.png
+SHA1-Digest: 1GP21C9l4Q69+C8kLhv2q8+M13o=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: rOWnNxWCWKwkicf+FpYGMg1fX2Y=
+
+Name: res/drawable-hdpi/biz_pc_other_hot_tag.9.png
+SHA1-Digest: Ejs+wMRZv05GrqxEvPPXrzu9m9s=
+
+Name: res/drawable-hdpi/biz_special_group_bg.png
+SHA1-Digest: maHM9k7rnYgjx85QvxDHHdhnNvM=
+
+Name: res/layout/tablet_main_vote_layout.xml
+SHA1-Digest: JqsbOAd+3Khmy041fCW2jA7vg8o=
+
+Name: res/layout/biz_yiyuan_list_item.xml
+SHA1-Digest: aOcSToRC/mhOwUMNEAiUzmQ8A9I=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_leizhenyubingbao.png
+SHA1-Digest: 7tuwQg60UPuA7hIMHS/qLDriVIM=
+
+Name: res/drawable-xhdpi/biz_pc_main_fujuzhang.png
+SHA1-Digest: UZEAxsTQrsJgRjVxxgi53pi46rs=
+
+Name: res/drawable-xhdpi/biz_polymetric_main_back_normal.png
+SHA1-Digest: byJtOm+Z1/FbaE+L2C7vkrWqJjY=
+
+Name: res/drawable-hdpi/biz_news_list_tag_video_bg.png
+SHA1-Digest: UnzyCq0IFMHqO+S1pbZ2GyTvXjc=
+
+Name: res/drawable-xhdpi/biz_pc_account_modify_name.png
+SHA1-Digest: Oq11h4V2Fxpgozbgv4uI8O/XxDE=
+
+Name: res/drawable-sw600dp/night_biz_pc_recommend_download_pressed.png
+SHA1-Digest: 9p2bG5wBbwKS7lQnWwH7GfhzGY8=
+
+Name: res/drawable/biz_pc_recommend_bg_selector.xml
+SHA1-Digest: V/f7p9Sg/traD+1FNeC5ck8Yn+4=
+
+Name: res/drawable-hdpi/base_action_bar_spinner_default.9.png
+SHA1-Digest: ohETJNMLd0vbhjpMITcV7mlHcjs=
+
+Name: res/drawable-hdpi/biz_pic_empty_view.png
+SHA1-Digest: w92irXmUXNTb1IXgFapBuNe3Xe4=
+
+Name: res/drawable-xhdpi/biz_audio_btn_play.png
+SHA1-Digest: kxkYdQjtqsjXoYMERjJvj02T864=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_zhenxue.png
+SHA1-Digest: zoJJDl6momX4JlUGXS1Hqb6NpOw=
+
+Name: res/drawable-xhdpi/biz_news_column_edit_delete_bg.9.png
+SHA1-Digest: 3TRUs5YVTT0iq4fvUP4DhaDQkU4=
+
+Name: res/layout/biz_radio_news_list_item.xml
+SHA1-Digest: epBdNV2FYhha/0mh+FwROsvcAas=
+
+Name: res/drawable-hdpi/night_biz_pc_private_null.png
+SHA1-Digest: YRc86DLQW8kkt7Lu2b/roJ9uRLk=
+
+Name: res/drawable-xhdpi/night_biz_micro_main_back_pressed.png
+SHA1-Digest: zoLi18lXPvj6ncTmQWFbKEW8wyg=
+
+Name: res/drawable-xhdpi/base_tabpager_indicator_bg.9.png
+SHA1-Digest: JaskZxqcApWnMWIcEPsqqpA7RTM=
+
+Name: res/drawable-sw600dp/biz_tie_comment_latest.png
+SHA1-Digest: txJouk1a5Nx7JH/c1KCS8t/mPvY=
+
+Name: res/anim/base_slide_up_out.xml
+SHA1-Digest: JdSIk0gnm8uZCvPBU56sHwl9rMs=
+
+Name: res/drawable-xhdpi/biz_news_list_tag_timeconsuming.png
+SHA1-Digest: LHm5kY9p/VQtk8Dz2P1odUlTsUo=
+
+Name: res/drawable/night_biz_navigation_tab_voted.xml
+SHA1-Digest: mErKnSIk6b0ptID1V4rU/3K1tE4=
+
+Name: res/drawable-xhdpi/biz_audio_extra_list_current_tag.png
+SHA1-Digest: Jd4FwN1kXKxGaUpQPD9b9ecr+qI=
+
+Name: res/drawable-xhdpi/night_biz_audio_btn_bg_normal.png
+SHA1-Digest: ovK2qfSQuXFIKKn7asJ4yK0QmWI=
+
+Name: res/layout/biz_polymeric_item_3.xml
+SHA1-Digest: KTDpLZveRVuxLipUNJI0AAOQrU0=
+
+Name: res/drawable-hdpi/night_biz_news_column_edit_bg_pressed.9.png
+SHA1-Digest: X1eBsPRzaLbe2oCQ1/A8wRB8i2o=
+
+Name: res/drawable-sw600dp/biz_ad_slogan.png
+SHA1-Digest: xLQwYLKzF259Q/32DdszAS3yH3E=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_top.png
+SHA1-Digest: wNNbFhOIwiR73sS+5CQf5R/cFK8=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_ties_normal.png
+SHA1-Digest: mM71edNUDeDZNpIqnoV3iPLmls8=
+
+Name: res/drawable/biz_audio_play_info_click_layout_bg.xml
+SHA1-Digest: 6bTxzhoOXQ94xcasTDiBwqwbp8c=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_lingyimian.xml
+SHA1-Digest: GOVFoN4dq3cIbFZjLGUv6HZQ7YA=
+
+Name: res/color/biz_news_subscribe_tab_text_selector.xml
+SHA1-Digest: p/Rg9HZl7jkzSWDZrXHjf7yB9r4=
+
+Name: res/anim/fade_out_fast.xml
+SHA1-Digest: OtU5zr9dq0PqQOIivgHc+fAJmww=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_pics_normal.png
+SHA1-Digest: gFsa6BNIlwe3piPNC7nL0ks2xFg=
+
+Name: res/drawable-xhdpi/biz_subscribe_guide_add.png
+SHA1-Digest: Zh+bqzh1rXl+LOqDFxDNllgY1u8=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_check.png
+SHA1-Digest: qCnLz7wRqrMeD2QqFAgaI6eKKjM=
+
+Name: res/layout/biz_fb_detail_list_layout.xml
+SHA1-Digest: CECwiMFSNkqTTKbXXjEaNB8XptM=
+
+Name: res/layout/biz_tie_comment_reply_layout.xml
+SHA1-Digest: sOjar33t6VpzIvJ+CYTowkO9IQ0=
+
+Name: res/drawable-hdpi/night_base_action_bar_spinner_default.9.png
+SHA1-Digest: 4Li2fNKR4C0+bk78Z1Eua6QrSwo=
+
+Name: assets/com.tencent.plus.gray_disable.png
+SHA1-Digest: 0fMmhHNVjPOxFO8244xzl2vO0Jw=
+
+Name: res/drawable/biz_news_subscribe_tab_selector14.xml
+SHA1-Digest: kdyEcNXl3GKqz5DgLCvY5TlVs1Y=
+
+Name: res/drawable/base_layout_bg.xml
+SHA1-Digest: Lcxefv3kHEHFibzBvuyCkGSmN7c=
+
+Name: res/drawable-xhdpi/biz_pc_zone_bg_repeat.jpg
+SHA1-Digest: xDTTKj0uY/f6WaAPCEXzM63UJb4=
+
+Name: res/drawable-hdpi/biz_topic_micro_detail_share.png
+SHA1-Digest: unQWsPi2gREns3ZWQaUUxg0lDYg=
+
+Name: res/layout/biz_tie_rank_top_item.xml
+SHA1-Digest: gj2Bwlai8f8pv+NQMM4OemA7SDI=
+
+Name: res/layout/biz_news_column_subscribe_search_item_layout.xml
+SHA1-Digest: p80Ky2S0ZSZ/DFaSkAbWl+xyQ/Y=
+
+Name: res/drawable/toast_icon.xml
+SHA1-Digest: QTNHrFoNYR4aP1TbwWeWj/uS2iI=
+
+Name: res/layout/biz_ad_show_new_version2_layout.xml
+SHA1-Digest: YDNL0vTYdkaxIchB/bkabP51nMI=
+
+Name: res/drawable-hdpi/biz_pc_version_split.png
+SHA1-Digest: 5EVsmg6est8CG3BoXTUKvSJdnnM=
+
+Name: res/drawable-xhdpi/biz_audio_icon_bg.png
+SHA1-Digest: hxQm9oqGmADpdFdTByOpW+y1W3Y=
+
+Name: res/layout/biz_tie_comment_toolbar_addone_layout.xml
+SHA1-Digest: bTI0FDDluftO3e0gSLjZiycuuZk=
+
+Name: res/drawable/night_base_layout_bg_selector.xml
+SHA1-Digest: AEHCDQbVdDvixtm5dAMEuRO8EyY=
+
+Name: res/layout/biz_news_list_other_finance_details_image.xml
+SHA1-Digest: iA/rKaGmTmJmCN4VBEEe7N/jbDc=
+
+Name: res/drawable-hdpi/night_biz_font_default.9.png
+SHA1-Digest: /Iynr9fUL0F+K4+r4oZFiZNzWLQ=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_collection.png
+SHA1-Digest: sIfOvhaLexaiCucv7oDmC/dlYQ0=
+
+Name: res/drawable-hdpi/biz_sns_publish_bind_normal.png
+SHA1-Digest: Qz3gf6UBFYfwRZxZVN3PAt5cLWo=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_category_divider.png
+SHA1-Digest: KQY236BSxDD3SFNXE+GNIQv2gS0=
+
+Name: res/layout/biz_plugin_weather_more_list_item.xml
+SHA1-Digest: 6FtoeDq84eaMF0Si2sR7yHGWmX8=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_zhongyu.png
+SHA1-Digest: r1WagMHaAxOeO+oczh3Idv4bFrs=
+
+Name: res/drawable-xhdpi/biz_audio_btn_close_extra_bg_normal.9.png
+SHA1-Digest: b+F9tmC/+pYL1MWvp5+0krJtxv0=
+
+Name: res/drawable-xhdpi/biz_audio_btn_hide_play_info.png
+SHA1-Digest: XAK1m3CvrOdp7HjMFl4ue+SSXt0=
+
+Name: res/drawable-xhdpi/biz_news_media_icon_bg.png
+SHA1-Digest: acDd47zj7YHVRiUdoljm0xbrw98=
+
+Name: res/layout/biz_navigation_layout.xml
+SHA1-Digest: Zsnt+6AQk35bLYWRBJdsezMLwS8=
+
+Name: res/drawable-hdpi/keji_normal.png
+SHA1-Digest: HfVgPHBRfqdwfuculCwdUNV6xPY=
+
+Name: res/drawable-hdpi/night_biz_micro_transmit_icon.png
+SHA1-Digest: PaDhUc4K9jjVyKRSX+1nuWImDlM=
+
+Name: res/drawable-hdpi/night_biz_news_list_other_finance_details_grou
+ p_item_bg_pressed.9.png
+SHA1-Digest: VtS/+QlFQcqqidmq/Tjs+MXV/fw=
+
+Name: res/drawable-sw600dp/sns_qqfriends_icon.png
+SHA1-Digest: 9TSXj4sdfC/r1jF/LNcbMeiOVd4=
+
+Name: res/drawable-xhdpi/biz_ugc_main_back_normal.png
+SHA1-Digest: OM3HsmXexDGRk7b48kvz8mZ02pg=
+
+Name: res/drawable/biz_plugin_searchnews_search_btn_selector.xml
+SHA1-Digest: vb6/LSMTUcqQlo5pHrL7biVzE34=
+
+Name: res/drawable-hdpi/biz_pics_words_bg.png
+SHA1-Digest: S2PELgpnP9C2eDTs29mRS9HGBio=
+
+Name: res/drawable-xhdpi/biz_pc_list_search_icon.png
+SHA1-Digest: anUyPlfjf5d4QvUpeWzjXTjAlZc=
+
+Name: assets/default_columns.txt
+SHA1-Digest: qNznrKFU0L0luo5X5rpjOBltbfI=
+
+Name: assets/null_src.png
+SHA1-Digest: bUVnpmvHtG/exljhmXwQIKdxIqs=
+
+Name: res/drawable-hdpi/biz_news_column_edit_container.9.png
+SHA1-Digest: 3guN3kWPoUdS1kpcN9JT8t1J+E0=
+
+Name: res/drawable-hdpi/sns_qq_icon.png
+SHA1-Digest: zhScTtJcubJLKJoMHQbWzWxEAp0=
+
+Name: res/layout/biz_extra_audio_list_item_layout.xml
+SHA1-Digest: UF4lTaUBu1g3VyTooYGmXf8CGWU=
+
+Name: res/drawable-hdpi/ic_menu_search.png
+SHA1-Digest: CcPxslaV2ayBK6r7PQ6MviqPmKE=
+
+Name: res/drawable-hdpi/sns_message_icon.png
+SHA1-Digest: h6oviMO6HTou6L0slpXjijRA9RI=
+
+Name: res/layout/biz_audio_play_layout.xml
+SHA1-Digest: inUQ5DGQ5I9EjlIqqhb5+9snyMA=
+
+Name: res/drawable/night_base_action_bar_back.xml
+SHA1-Digest: HmsWLmb07UgyEXRCep04SDvYMso=
+
+Name: res/drawable-hdpi/biz_pic_menu_selector_pressed.9.png
+SHA1-Digest: WvWo15Rvg9mmELdWkLEKklCDJ4Q=
+
+Name: res/drawable-xhdpi/biz_pc_other_info_dark_pressed.png
+SHA1-Digest: BXYbozqW1VQ4TmakIRdL49fXplw=
+
+Name: res/drawable-sw600dp/biz_pc_recommend_open_normal.png
+SHA1-Digest: Yjr8jn5rsoEiukKPCXzNiNiqO3I=
+
+Name: res/drawable-hdpi/biz_news_column_drag_pressed.png
+SHA1-Digest: 4QgVRTNMA8ltfilSbeBwW09j4GA=
+
+Name: res/layout/biz_topic_vote_page_layout.xml
+SHA1-Digest: W8PmZwGDSUx2zqN4fUVXV7RbJQo=
+
+Name: assets/night_topic_subscribed.png
+SHA1-Digest: NKjskVGu9hsC50Cl2x47stlr9T0=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_pics.png
+SHA1-Digest: x5/NQvn8f/RXWirw8ZluEA3910M=
+
+Name: res/drawable-hdpi/biz_subscribe_media_recommend_item_bg.9.png
+SHA1-Digest: yNYf2cNmLKoEUP0DtLMG3PujGWs=
+
+Name: res/drawable-hdpi/biz_pc_plugin_line.png
+SHA1-Digest: zffycqhPxPm3WB86sa2/X+MgSWY=
+
+Name: res/drawable-sw600dp/biz_tie_comment_hot.png
+SHA1-Digest: 7aQWwg+4D/fjeb2mtk33mBAD+sI=
+
+Name: assets/night_line.png
+SHA1-Digest: uD3dD/R9nFvqlvyjgubbTMndXxs=
+
+Name: assets/com.tencent.plus.gray_down.png
+SHA1-Digest: 3kvmQFE/DE41dwoZpkQMHPpWtuI=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_qq_type.png
+SHA1-Digest: eSFAENEkYxBkmAjdRiMl0DyZXJY=
+
+Name: res/drawable-xhdpi/biz_score_gotomall_btn.png
+SHA1-Digest: w8IsfLKasO3z7ijYOtGDJ1ttNtw=
+
+Name: res/drawable-hdpi/biz_pc_viersion_line.png
+SHA1-Digest: x9aNNNufLC+mzbpI7TZS1pwCCl4=
+
+Name: res/drawable-xhdpi/base_pager_indicator_shadow.9.png
+SHA1-Digest: e3zAvlDmL7Y81pqZC+11xzY9wq8=
+
+Name: res/drawable-xhdpi/biz_pc_list_mail_icon.png
+SHA1-Digest: EexrS3jnACayxHUjTYl8ZEapngo=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_ties_pressed.png
+SHA1-Digest: WKAFbvcTf1mFOUikxI/N4ENwEnw=
+
+Name: res/drawable-hdpi/start_experience_selected.9.png
+SHA1-Digest: bUK/4XVFVgwya9pLrrNjIuPiVc8=
+
+Name: res/drawable-hdpi/biz_tie_comment_reply_write.png
+SHA1-Digest: fazKWua+ENROPBunRJRVbgzYcSQ=
+
+Name: res/drawable-hdpi/biz_fb_write_pressed.png
+SHA1-Digest: CBWxgy9iigfwBUIMb7gdUcXSia0=
+
+Name: res/drawable-hdpi/base_list_scrollbar_handle.9.png
+SHA1-Digest: +W0n/bNgfYPlatHw2sqlGE5B04Q=
+
+Name: res/layout/phone_main_layout.xml
+SHA1-Digest: aihToi80T6Cez2zZGVbGgMsh0vw=
+
+Name: res/drawable-xhdpi/biz_news_list_other_finance_details_arrow_dow
+ n.png
+SHA1-Digest: uAn7THL8LlhZx7L7/8dV2ozhFak=
+
+Name: res/layout/biz_news_list_other_finance_header.xml
+SHA1-Digest: +pi+E1Nv0wL11Tn5V7/5QVMoqAA=
+
+Name: res/drawable-hdpi/base_checkobx_open.png
+SHA1-Digest: GsxC9Zf6TwytxvporARWigR0XUs=
+
+Name: res/drawable-sw600dp/sns_qzone_icon.png
+SHA1-Digest: YFFBLAku3Uc1E1rrZHugHhPmAKk=
+
+Name: res/drawable-hdpi/biz_news_newspage_font_icon.png
+SHA1-Digest: Q3cevxI1R2laSF4mFuFWzUIdqnI=
+
+Name: res/layout/biz_pc_favorit_fragment_layout.xml
+SHA1-Digest: gVZKi0zzjqychAwNbVg9wln7ECI=
+
+Name: assets/night_download_bg.png
+SHA1-Digest: sfq4U+l0MQb4F5Y8uAX6GWxDmt0=
+
+Name: res/drawable/night_biz_plugin_manage_normal_check_selector.xml
+SHA1-Digest: 2KVLjmZ8BWz3e5Ut9dJ8VSE3BO0=
+
+Name: res/layout/phone_main_vote_layout.xml
+SHA1-Digest: JqsbOAd+3Khmy041fCW2jA7vg8o=
+
+Name: res/drawable-hdpi/biz_score_mall_item_bg.9.png
+SHA1-Digest: 7nO11nqrkJD9dJktg9hXOzzBzUk=
+
+Name: res/anim/biz_yearplan_image_fade_out_slow.xml
+SHA1-Digest: ZRX+lut9iY1RTc7QjqqoyxJ00CI=
+
+Name: res/color/night_biz_account_score_update_version_color.xml
+SHA1-Digest: EsTf/R2mtpWoYB+dRsQSs12mcho=
+
+Name: res/drawable-hdpi/night_biz_accout_update_confirm_pressed.png
+SHA1-Digest: 8Dx6SwrMaZ9MQpCWSj+8G9rYsnc=
+
+Name: res/drawable-xhdpi/biz_pread_item_like_drawable_normal.png
+SHA1-Digest: yDuYCeyciaQhP11PuNvGJKmIeJY=
+
+Name: res/drawable-hdpi/base_list_selector_pressed.9.png
+SHA1-Digest: yYMeu8CFZSpUyljf3iHKQTNYQ7I=
+
+Name: res/drawable/night_base_action_bar_main_more.xml
+SHA1-Digest: iKxerASJ3QDuwyFTW2iF/oBlvG4=
+
+Name: res/drawable-xhdpi/night_biz_vote_selected.png
+SHA1-Digest: wd6BNNT75DQ8jWupiI2ro9p9Y18=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_weather.png
+SHA1-Digest: znKuz/Tphx9ns9R/p8bmhkjr+ZA=
+
+Name: res/drawable-hdpi/biz_fb_no_read.png
+SHA1-Digest: X205OMhDDxWbaCi+wLLZdh3VFFA=
+
+Name: res/drawable-xhdpi/night_base_action_bar_share.png
+SHA1-Digest: O3SVsXt9WpVxu2hjPaqSqWUCUH0=
+
+Name: res/layout/biz_subscribe_media_recommend_list_item_layout.xml
+SHA1-Digest: j2ePJIVTQ2FPo3e3NfKsejyrz7Y=
+
+Name: res/drawable/biz_widget_refresh_btn_4x1_selector.xml
+SHA1-Digest: W1qFHs/Psikp0I8F0wNuAMpSNUs=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_theme.png
+SHA1-Digest: VwHR6powr35GpEqRdBC3REAchhA=
+
+Name: res/layout/biz_news_column_list_item.xml
+SHA1-Digest: 3NuJE/98RZ1pE01WSkE9/3B+V68=
+
+Name: res/drawable-xhdpi/base_tabpager_indicator_selected.9.png
+SHA1-Digest: ZX+ZQ9jiesfTgqpM4W4rY0QhOlM=
+
+Name: res/layout/biz_ad_show_new_version1_layout.xml
+SHA1-Digest: AO1qSUfjlZncUP4iZDv3hhv6TnA=
+
+Name: res/drawable-hdpi/shouji_selected.png
+SHA1-Digest: 97nylbth8c4DmlPD1+68HbORX1w=
+
+Name: res/drawable/night_biz_navigation_tab_local_news.xml
+SHA1-Digest: UQ7XRB3kYuvq+pc5rogf8U0N4Ps=
+
+Name: res/drawable-sw600dp/sns_ydnote_icon.png
+SHA1-Digest: MGlp5eSCf6Bi66GZggRWpBWKC8E=
+
+Name: res/drawable/biz_pc_offline_cancel_selector.xml
+SHA1-Digest: RkyiUvo5dSBIEZtQnHtR/tn4cCU=
+
+Name: res/drawable-hdpi/biz_news_list_ohter_race_icon.png
+SHA1-Digest: PvUKjkrNMy0wBEHx1KzC/xO8Xfo=
+
+Name: res/drawable-hdpi/sns_ydnote_icon.png
+SHA1-Digest: MnLNODlarFir2jIFFM00Rci6JXI=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_weather_icon.png
+SHA1-Digest: 3BKdH4zJUnExnCuRPlbAGYx0tnM=
+
+Name: res/drawable/night_biz_news_main_back.xml
+SHA1-Digest: 1eyRWMieoNkiX36BhNKNiNZHCv8=
+
+Name: res/layout/biz_account_accountlogin.xml
+SHA1-Digest: un5n4Yx36TmoODPsjmywnSpJfic=
+
+Name: res/drawable-hdpi/biz_pc_recommend_download_normal.png
+SHA1-Digest: EpOwUGcn9i0wESX9Wf1B2H21w7c=
+
+Name: res/layout/phone_tie_mycomment_tab_layout.xml
+SHA1-Digest: RsrMsHGLiOPR7gmSwUtkwdguG0c=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_ding1_img.png
+SHA1-Digest: IBXnO5kPVjOuelwmtlqGJy8uQk0=
+
+Name: res/layout/biz_polymeric_list_item_relative.xml
+SHA1-Digest: fKHt6rHDukHzlUwjNRvIz9+7ZzM=
+
+Name: res/drawable-xhdpi/biz_pc_main_juzhang.png
+SHA1-Digest: jcR7DdiiSssvlFIrRwWWRZJ03mI=
+
+Name: assets/img/small_loading6.png
+SHA1-Digest: Vp2t+d0MpAU+zkgU95UpKcRT07I=
+
+Name: res/anim/biz_polymeric_slide_out_left.xml
+SHA1-Digest: sxZM2EwnuVYfesh/f2CPf/4IMWo=
+
+Name: res/drawable-hdpi/biz_setting_guide_gesture_point.png
+SHA1-Digest: bvJ1UtzdnPxi02aLxfyeg63Dq2Y=
+
+Name: res/drawable-hdpi/base_tip_bg.9.png
+SHA1-Digest: MGE3Zu8eF6hOobKS3ZxS6Aqlw9E=
+
+Name: res/drawable-xhdpi/biz_vote_ytpe.png
+SHA1-Digest: vaDZiiGu0YvJIn+Ljk5SZf9y29M=
+
+Name: res/drawable/night_biz_news_list_other_finance_header_bg_selecto
+ r.xml
+SHA1-Digest: T7OoJbKjqaVWf/4cbXRE8RgZFgM=
+
+Name: res/drawable-hdpi/night_biz_pc_account_myprofile_bg.jpg
+SHA1-Digest: 4nmDQUuQ+v3qtW2nr1R4gHYvPpM=
+
+Name: res/drawable-hdpi/night_biz_sns_publish_send_normal.png
+SHA1-Digest: mmvaPRf9dgHbQpI4IS1Y72k2u7k=
+
+Name: res/layout/base_plugin_manager_item_layout.xml
+SHA1-Digest: mEuvcu9HTQQvRk4Y/DInG6g75aE=
+
+Name: assets/img/small_loading0.png
+SHA1-Digest: 7nR75gOx35ehdu5f6Vjjy/jUKhY=
+
+Name: res/drawable-hdpi/biz_pc_account_pwd_icon.png
+SHA1-Digest: 1x11xLLht5wGvkBXtOZa8Z7GJ+U=
+
+Name: res/drawable-xhdpi/biz_audio_btn_bg_normal.png
+SHA1-Digest: Y26F0Jtfl+61n8Y5KqceVO6cGQI=
+
+Name: res/layout/biz_ad_show_new_version1_item_layout.xml
+SHA1-Digest: bEzupP/yJ1a839UF05bVQ/0O/EA=
+
+Name: res/drawable-xhdpi/biz_pc_account_content.jpg
+SHA1-Digest: J0eSBAN2DMKbwbXTdtiWH2YjYEI=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_ugc_normal.png
+SHA1-Digest: 5UIAOQWRdIP2Ty9wOaBChReUuks=
+
+Name: res/drawable-xhdpi/base_actionbar_bg.9.png
+SHA1-Digest: axsYQ7/BxQ8v1YKZ1DYv+Elku4k=
+
+Name: res/drawable-xhdpi/biz_pc_list_weather_icon_dark.png
+SHA1-Digest: RxfNjVhXsuRafmAjaLOZ2MCRs9M=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_normal_divider.png
+SHA1-Digest: rRThldktzwI/ZiumCrHQ7Su47VM=
+
+Name: res/drawable/base_layout_bg_selector.xml
+SHA1-Digest: o5estzlWc6iQQelays6hjbzomPM=
+
+Name: res/layout/biz_local_news_list_header_pager.xml
+SHA1-Digest: M+95ySxef2660V5XstSN1NQXEeQ=
+
+Name: res/drawable-hdpi/night_biz_recommend_netease_icon.png
+SHA1-Digest: IO4HO2UG/Cqs5Zeh+1K19ZA4tiE=
+
+Name: res/drawable-hdpi/biz_pc_account_myprofile_bg.jpg
+SHA1-Digest: TFaWBARRX8/usahOMXhruZqB5lI=
+
+Name: res/layout/biz_pread_adapter_item.xml
+SHA1-Digest: Xj1JnvJ5DkH2GJqKhyR2OHxry6E=
+
+Name: res/drawable-xhdpi/biz_ad_show_new_version_btn_normal.png
+SHA1-Digest: FHBk3vqAGPk0krTT6pn9Ep/BntA=
+
+Name: res/drawable-hdpi/base_send_normal.png
+SHA1-Digest: +YN+Jg+U8jyLJv8+vGRFNKtIdh0=
+
+Name: res/anim/base_stay_orig.xml
+SHA1-Digest: i1Hm1J/ew3c2+rflEgIA0HasqPI=
+
+Name: res/color/biz_pread_item_like_text_selector.xml
+SHA1-Digest: fFSEVH5w73fFrz0yJ66twXStlwg=
+
+Name: res/drawable-hdpi/biz_subscribe_guide_icon.jpg
+SHA1-Digest: GudgiyH8xVsgJjqbOybvLVmuPUE=
+
+Name: res/drawable-hdpi/biz_news_list_ohter_notice_icon.png
+SHA1-Digest: 6hogXyGw7rsTvXbcIfLTxiWliKQ=
+
+Name: res/drawable-hdpi/biz_tie_top_orig_pic.png
+SHA1-Digest: /xvsogPVfKxKZXkMz2U+jXv2frM=
+
+Name: res/drawable/night_biz_pics_ic_unfav_tp.xml
+SHA1-Digest: Xgvgly14rnrBN3QBAIJeUhS92vg=
+
+Name: res/layout/biz_live_news_livecontent_itemdetail.xml
+SHA1-Digest: OTJFrUAWWO7TUju6rc5ElBCXyIk=
+
+Name: res/drawable/biz_plugin_manage_checkbox_selector.xml
+SHA1-Digest: 0pXsAXZhQyLi/4NmUl3wkfEuo/U=
+
+Name: res/drawable-hdpi/night_biz_score_mall_myprize_arrow.png
+SHA1-Digest: TdTianQp+/EfnunrWFijYrD4VL0=
+
+Name: res/drawable-xhdpi/biz_news_column_edit_btn_bg_normal.png
+SHA1-Digest: fE+cMGXlq4O9r+QmtSaU2RgxFK0=
+
+Name: res/layout/base_pull_list_msg_layout.xml
+SHA1-Digest: hgEMAtqiU27um2ZXhoPVAa+Zgaw=
+
+Name: res/drawable-hdpi/biz_tie_comment_orig_normal.9.png
+SHA1-Digest: 2ioqYdEipBJd6TuNmzQHol+TyXo=
+
+Name: res/drawable-hdpi/big_button_up.9.png
+SHA1-Digest: gPnt9/Y2X3cMNeoQxZ3l5duc/P0=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_ding2_img.png
+SHA1-Digest: efHvXLKDILtzhrl7N/x1auBvLq8=
+
+Name: res/drawable-hdpi/biz_widget_divider.png
+SHA1-Digest: UldTc2a0qwpacpX9mlxsNaEWS+I=
+
+Name: res/drawable-xhdpi/biz_ad_version1_checkobx_unchecked.png
+SHA1-Digest: K0eSE15ddLbcGTLGzREmFzKGTk8=
+
+Name: res/anim/biz_news_slide_top_out.xml
+SHA1-Digest: P/T6DKWyOqPH7tGvad6kltQvTg0=
+
+Name: res/drawable-hdpi/night_biz_news_column_drag_normal.png
+SHA1-Digest: 8xY0sQWUqLfHAoRFd181+PRjZAI=
+
+Name: res/drawable/biz_news_subscribe_tab_selector3.xml
+SHA1-Digest: y+Bfz7/RQmD2VKhN2RPdi7fWRmI=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_daxue.png
+SHA1-Digest: 8oG/LtLegK7nwM037q0Q+53ZU4A=
+
+Name: res/drawable-hdpi/netease_top.png
+SHA1-Digest: JMVH9j/ciQQe5rCevCsit2TTn7c=
+
+Name: res/drawable-hdpi/night_sns_yiliao_icon.png
+SHA1-Digest: q+iXzNrXGsN47Fumnf/uCrXVn7s=
+
+Name: res/drawable-hdpi/base_list_banner_default_icon.png
+SHA1-Digest: 08LEwHOhtboZ5LZmCFx1xXsi14k=
+
+Name: res/drawable/night_biz_news_subscribe_tabwidget_bg.xml
+SHA1-Digest: t96RnwAx11eJpe598mvGjWidpF0=
+
+Name: res/drawable-xhdpi/biz_pc_list_weather_icon.png
+SHA1-Digest: YwbCFMNsX3iIVXvkRMh2axO6k08=
+
+Name: res/layout/biz_ad_show_new_version_layout.xml
+SHA1-Digest: +AX4L9TGW3QnwqhwWyFJvz7b/j0=
+
+Name: res/drawable/night_biz_pics_detailpage_comment.xml
+SHA1-Digest: wY2q7Kv4idsAZEUCy0cWjNkfobc=
+
+Name: assets/down_icon.png
+SHA1-Digest: sxkPgxmA7vfiHAmSQ6Mr0sO+9g4=
+
+Name: res/drawable/base_layout_bg_pressed.xml
+SHA1-Digest: jkQbmmj+Vz0RQmn4VTUF7RWIWZM=
+
+Name: res/drawable-xhdpi/biz_ties_main_back_normal.png
+SHA1-Digest: 869VG8zVN3Yeai970eZVyZ2U1oY=
+
+Name: res/drawable-hdpi/biz_tie_comment_expand_arrow.png
+SHA1-Digest: IZG1oQ5+Yro+CcyNlxgyLs5zejo=
+
+Name: res/drawable-hdpi/base_pull_list_msg_indicator_arrow_up_drawable
+ .png
+SHA1-Digest: 2aiX1vjjnnHoCPnBjXWaaTmKS+E=
+
+Name: res/layout/biz_news_link_layout.xml
+SHA1-Digest: CFTLYHCBApfyIidg9CSuKQarDnE=
+
+Name: res/anim/biz_yearplan_fade_out_slow.xml
+SHA1-Digest: aauP2f1Q93FQ+trXHIMbz6+zrrI=
+
+Name: res/drawable-hdpi/biz_pc_plugin_mail_count.9.png
+SHA1-Digest: yqxB81OROALLQ6GHfK4CE7HCH28=
+
+Name: res/drawable-hdpi/biz_topic_mulvote_submit_bg.9.png
+SHA1-Digest: dc0Xl1POFHRUqcgB7tD1TDC2I/o=
+
+Name: res/drawable/biz_topic_micro_detail_comment_selector.xml
+SHA1-Digest: nBbFQumuAZsVFUZRDXC1ctome8o=
+
+Name: res/drawable-xhdpi/night_base_action_bar_action_city_pressed.png
+SHA1-Digest: +i8sxH5XKD4+kl0O06BiJtknoP0=
+
+Name: assets/download_bg.png
+SHA1-Digest: AKikPMoBuH631p/kexKtzhT1gXs=
+
+Name: res/drawable-xhdpi/biz_news_column_tabpager_indicator_edit_press
+ ed.png
+SHA1-Digest: uVjR6TScCORKoYqZiLyHwegrhGA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: t09yYyLGKi/RJCpasHH7VMzHJBA=
+
+Name: res/layout/base_navi_list_item_for_tab_layout.xml
+SHA1-Digest: +WSB26tBbHSsV4vwE49JUu4xsI8=
+
+Name: res/drawable-hdpi/night_biz_pc_plugin_mail_count.9.png
+SHA1-Digest: 95kkt+cLI1PjY3K9O7Hq6ziaHiY=
+
+Name: res/drawable-hdpi/night_biz_about_netease.png
+SHA1-Digest: moL059RJNoW37Vsab51X0O2uKG0=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_comment.png
+SHA1-Digest: WeX2X24IENX7cOJlj/dn5lI5z/w=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_shenzhen_bg.jpg
+SHA1-Digest: 8KWGm1YlAT2LRjdBHvxiBAk2LeM=
+
+Name: res/drawable-xhdpi/biz_news_column_tabpager_indicator_divider_1.
+ png
+SHA1-Digest: rYzQ0Ycf0uy0HAlsew6lJVL2blY=
+
+Name: res/drawable-hdpi/biz_news_subscribed_item_target_bg.png
+SHA1-Digest: fE9wtoScVUYzAC7w8expqWE4Iao=
+
+Name: res/drawable/night_biz_audio_btn_bg.xml
+SHA1-Digest: /dKPl0crfXu7Te31YeB/hYvbcH0=
+
+Name: assets/night_comment.css
+SHA1-Digest: ATHWn8+Ugav+howE1en+kIglOhA=
+
+Name: res/drawable-hdpi/qiche_selected.png
+SHA1-Digest: JtpVKDITMNASbFO+RIXsBJb3SrQ=
+
+Name: res/drawable-hdpi/biz_pc_other_read_tag.png
+SHA1-Digest: QuL327t83C4O+YMPJldYqw0zOFg=
+
+Name: res/drawable-xhdpi/night_biz_polymetric_main_back_normal.png
+SHA1-Digest: I/33qv1Lpev2359g72DBhzdsnAw=
+
+Name: res/drawable/night_biz_normal_checkbox_selector.xml
+SHA1-Digest: pwT7JG/CsMhpDWDC7LrocJZ7jFo=
+
+Name: res/drawable-hdpi/bottombg.png
+SHA1-Digest: pNf0zzfeTRA6cdJGqoCTeFKpDI8=
+
+Name: res/drawable-xhdpi/biz_audio_play_info_click_layout_bg_pressed.9
+ .png
+SHA1-Digest: BfMuTbfluyH/Y6QOc0AoqfGJQJY=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_focus.png
+SHA1-Digest: eK6Me7GV0tFVo4NBjwPLDuIKACI=
+
+Name: res/drawable/biz_pc_account_login_btn_selector.xml
+SHA1-Digest: rTqVovjUkuR7JNhwmsBdaEqoVM0=
+
+Name: res/drawable-hdpi/biz_score_mall_prize_default_bg.jpg
+SHA1-Digest: +TxAuthQmYc2LpfM8CIZzO3JOmQ=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_reply_write.png
+SHA1-Digest: 7XlMh2P1l7YaYr9QA6rQwu4Pp50=
+
+Name: res/drawable-xhdpi/biz_pread_item_like_drawable_pressed.png
+SHA1-Digest: 5jAq1ZeYIlGcKb/2Q4Pq1GsgX+M=
+
+Name: res/drawable/night_biz_pics_ic_xiegentie_tp.xml
+SHA1-Digest: Szi6Kp+Cc0ckNem23gzFbCtZj1I=
+
+Name: res/layout/biz_setting_account_list_item.xml
+SHA1-Digest: 0tw5sKTqzLVa2rzvW7npo1M+Au4=
+
+Name: assets/netease_default.png
+SHA1-Digest: R348eiyo1TW6MZAuQwtT3rct2VA=
+
+Name: res/drawable-xhdpi/biz_plugin_extra_tools_bg.9.png
+SHA1-Digest: uD28IWKgVrslCeHerOgB1EOjAPY=
+
+Name: res/drawable-hdpi/base_empty_view.png
+SHA1-Digest: TGtgGb8TKZNg67/GEBlR3SDRxj4=
+
+Name: res/layout/biz_pc_score_tasks_item.xml
+SHA1-Digest: 3if0vFh95xdm+LUpV2cR7fQ+7Qs=
+
+Name: res/drawable-hdpi/night_biz_news_column_subscribe_group_item_ico
+ n_up.png
+SHA1-Digest: hbE/9IbFGQjxbefBBeJQ7Wre/XM=
+
+Name: res/drawable-xhdpi/night_biz_ties_main_back_pressed.png
+SHA1-Digest: tfPwj9dGHSK+wBhiRO3CqSgO/lc=
+
+Name: res/drawable/biz_sns_publish_bind.xml
+SHA1-Digest: HWPMUugpBpK+L2SivnYyy3lYVIE=
+
+Name: res/drawable-xhdpi/night_biz_audio_btn_pause.png
+SHA1-Digest: xJ5E94oZQjiD6W3zVmpxFuvXfKk=
+
+Name: assets/img_set_s_flag.png
+SHA1-Digest: 6qcyRt9He0ASua/TNyzivO6NYRI=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_write.png
+SHA1-Digest: y+eRK4tQzKp6jya8GgE4yeu0oMo=
+
+Name: res/drawable-hdpi/biz_score_mall_myprize_arrow.png
+SHA1-Digest: S2YZfEx+UCCxFSV9hAgvzP40ApE=
+
+Name: res/drawable-hdpi/biz_news_column_add_subscribe.png
+SHA1-Digest: E3w2x6JTzEfY+TFeYKdxqhBaLvs=
+
+Name: res/drawable-hdpi/biz_news_subscribe_item_pressed.png
+SHA1-Digest: 93Ft+vzCtFZrxojwf/T8cYAbYJo=
+
+Name: res/layout/base_load_empty_layout.xml
+SHA1-Digest: fPMKEZfRFbwIu2MxMYC9WZCBy8U=
+
+Name: res/drawable-xhdpi/logo.png
+SHA1-Digest: 2vpUrnrOftr8uVK1O4verwptuvk=
+
+Name: res/drawable-hdpi/biz_news_subscribed_item_bg.png
+SHA1-Digest: 9ZM3F+4gPn37TTf+8ySH+Wh5M1c=
+
+Name: AndroidManifest.xml
+SHA1-Digest: lsMpMutgn4j7J1UvGk0x1JZH+Qc=
+
+Name: res/layout/biz_pc_favorit_comment_item.xml
+SHA1-Digest: C1Wht/OPnDHfUhJLOhnVeW4Xy54=
+
+Name: res/drawable/night_biz_pc_account_bg.xml
+SHA1-Digest: XlRZR7N6VIJjZUyZfr/x7sCCMnw=
+
+Name: res/drawable-hdpi/biz_topic_vote_submit_default.png
+SHA1-Digest: 3c+SB2jJIRcPok3/5seQ/EI+yno=
+
+Name: res/drawable-hdpi/biz_weight4x2.png
+SHA1-Digest: xZzAmRiqjurM0ddtpinRKe+IjZs=
+
+Name: res/drawable-hdpi/night_biz_pread_item_bg_pressed.9.png
+SHA1-Digest: do4Dea5um1MmzkMJusU0/FhZT2w=
+
+Name: res/drawable/biz_pread_item_bg_selector.xml
+SHA1-Digest: tsKnm7J+0NmAtxZpw7JnUYLLdZ8=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_child_divider.png
+SHA1-Digest: IGeAP1/WC7k63nX/8zFafNrI5zM=
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+Name: res/drawable/night_base_pull_list_msg_indicator_drawable.xml
+SHA1-Digest: /8L50TP+hNMrfSptAtxibDhdjcM=
+
+Name: res/drawable/night_base_edittext_drawable.xml
+SHA1-Digest: vnZPAfHdpx8j5s3/sntO0SVewYc=
+
+Name: res/drawable-hdpi/night_biz_pc_account_register_btn_pressed.9.pn
+ g
+SHA1-Digest: ZCYSQK+HlVaaXeWGSjcWDuKW1Ek=
+
+Name: res/drawable-xhdpi/night_biz_news_list_tag_live_bg.png
+SHA1-Digest: UyxjVv+uW3jfO3jE2vlJ/LvqNIs=
+
+Name: res/drawable-hdpi/biz_topic_micro_qq_type.png
+SHA1-Digest: iEBrROSqMcU0XU5uQTuSzRtdjsQ=
+
+Name: res/drawable-xhdpi/biz_audio_btn_play_bg_pressed.png
+SHA1-Digest: Ge3DvnmSeOSX//ZkTT1FHtoOsvc=
+
+Name: res/drawable/biz_widget_next_btn_4x1_selector.xml
+SHA1-Digest: mqF89g0eUFw9njLWFPex+zadPaA=
+
+Name: res/drawable-hdpi/night_base_actionbar_bg.png
+SHA1-Digest: +jwZuCNj2Oa9D03jefcAHH2cQrg=
+
+Name: res/drawable-hdpi/biz_account_head_photo_selector_bg.png
+SHA1-Digest: gdY0O+28zbZkRzSJUz6cCgaSJSQ=
+
+Name: res/drawable-xhdpi/biz_pc_score_special_tip_bg.9.png
+SHA1-Digest: 5NsgWsAUvd9ZHmAGHXyV6yc9MlM=
+
+Name: res/drawable/night_base_list_selector.xml
+SHA1-Digest: eYv7WbbeEi6iGJZbSW6GwFKCYzA=
+
+Name: res/layout/biz_plugin_weather_subitem.xml
+SHA1-Digest: BL1sTx7N0m1AkUskBPUkmj8cUNg=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_exprice_icon.png
+SHA1-Digest: nTYB30XooUV/OhYQrlhdj8HJ4n0=
+
+Name: assets/com.tencent.plus.logo.png
+SHA1-Digest: B+1AMe3cF/KE17U2+A9Ol1T9mEA=
+
+Name: res/drawable-hdpi/biz_subscribe_edit_title_bg.png
+SHA1-Digest: j/1fUZWCgvqwGjqoKMwxURd+c/o=
+
+Name: res/drawable-xhdpi/biz_ad_version1_checkobx_checked.png
+SHA1-Digest: iWkIv2iC/sQf+YFp/6w8eRN4uwI=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: XjltJdEB3tvakTn9CN7KwdaNT68=
+
+Name: res/anim/biz_polymeric_slide_in_right.xml
+SHA1-Digest: DFaRlHxRrdFM1gHv+qnHs3VCT/I=
+
+Name: res/drawable/night_biz_sns_publish_send.xml
+SHA1-Digest: 3nKVpTWVDGAMPHG3NAja5iVGE4Y=
+
+Name: res/drawable-hdpi/night_biz_pc_go_split.png
+SHA1-Digest: YRkpJMe3qxo58qnAl1MJuSpGbBI=
+
+Name: res/drawable/biz_audio_btn_play_bg.xml
+SHA1-Digest: ikZ7T9FupGaOrvXcgJDSnPJ36wA=
+
+Name: res/drawable/biz_pc_zone_bg.xml
+SHA1-Digest: QZe+DG7vQhyjDj9SU7nCrJnkhsM=
+
+Name: res/drawable-hdpi/night_app_recommend_item_bg_pressed.9.png
+SHA1-Digest: 2shF7PlgdCCoF1CpWyoJSJMg+dA=
+
+Name: res/layout/biz_sns_select_item.xml
+SHA1-Digest: hHIecl35T1Zzj/dhKTg/rJDPsJU=
+
+Name: res/drawable-sw600dp/biz_tie_comment_top.png
+SHA1-Digest: Yrfc57PY668xN34n2MdTETehQiI=
+
+Name: res/drawable-hdpi/night_biz_sns_select_item_pressed.9.png
+SHA1-Digest: 1PLYKKs2Y4HkYOy99vkdY49cGY4=
+
+Name: res/drawable-hdpi/biz_news_list_other_finance_header_bg_pressed.
+ 9.png
+SHA1-Digest: KhE3qnyQnJ0EP6cD/eM6ekNPyEY=
+
+Name: res/drawable-xhdpi/biz_score_gotomall_btn_pressed.png
+SHA1-Digest: uvX40tk9nrKklyE3mS5vNaKC28c=
+
+Name: res/layout/biz_special_news_list_media.xml
+SHA1-Digest: D4/eAAUQ6CypDqub4XBLtwC93vo=
+
+Name: res/drawable-xhdpi/night_base_main_action_personal_normal.png
+SHA1-Digest: GTugg819ib+kw61B5HQx+fFK504=
+
+Name: res/drawable-hdpi/base_article_bigimage.png
+SHA1-Digest: rzPqy/SxSSwhoUY5w/CzIvQixXI=
+
+Name: res/drawable-hdpi/biz_tie_count_bg.png
+SHA1-Digest: IPIiEIlU+XQsih+VllaNEKw50gQ=
+
+Name: res/layout-sw600dp/biz_news_subscribe_layout.xml
+SHA1-Digest: KbgtTbvNEIgFthS9L+1ijolftKc=
+
+Name: res/drawable/biz_widget_pre_btn_selector.xml
+SHA1-Digest: 6qEDvT25k/8URPhLpzFf6/7/kGs=
+
+Name: res/drawable-xhdpi/biz_subscribe_media_guide_btn.9.png
+SHA1-Digest: /jHY1VEFfm8XRo/Vbk/G9t5cMjw=
+
+Name: res/drawable-hdpi/biz_setting_guide_bg.9.png
+SHA1-Digest: m7kWrK3bFoT6VuCohuQjoR2EsYU=
+
+Name: res/layout/biz_msg_list_item.xml
+SHA1-Digest: MBsRmpb43FfFZWGqnVdwE6CxE1s=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_bg_pressed.9.png
+SHA1-Digest: 6pDVYYW0jLdbVI5yCGwHfXLzSc4=
+
+Name: res/drawable-xhdpi/biz_ad_new_version1_indicator2.png
+SHA1-Digest: ETG7V9K28A52Drtp0WX5y5CL3vw=
+
+Name: res/drawable/night_biz_pread_item_like_bg_selector.xml
+SHA1-Digest: CJy6TYN/C1M4a4MWB3fgefvFt3Y=
+
+Name: lib/armeabi/liblocSDK3.so
+SHA1-Digest: NuOh8tCBweXmZA45ei8NRFWYJUQ=
+
+Name: assets/night_column_item.png
+SHA1-Digest: w3YeRsryCxZRLVCW7Zao+qP6iFo=
+
+Name: res/drawable-hdpi/biz_pc_account_avatar_bg.png
+SHA1-Digest: O5+mQjpzdPSb8wdDaQgYLj85cxs=
+
+Name: res/drawable-hdpi/night_biz_news_detail_back_normal.png
+SHA1-Digest: VhWQ9bzVPt9ox1QykIvSM9LV24o=
+
+Name: res/drawable-xhdpi/night_base_main_action_personal_pressed.png
+SHA1-Digest: Kwi2J+r1ZfIakjz1D6tFv55LtTg=
+
+Name: assets/img/loading9.png
+SHA1-Digest: iWoIYxEtKimQGhQRlJWfM00NaFg=
+
+Name: res/drawable-hdpi/biz_pc_arrow.png
+SHA1-Digest: wIvIFdCBP3/KoQugJJi3uKSywaI=
+
+Name: res/drawable-hdpi/list_divider_line.png
+SHA1-Digest: oSqxt6+CJSdgIxeUwCpUh/H2bLY=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_news_pressed.png
+SHA1-Digest: NcW1rz3pOGh4wQ8dWHJYPG81arI=
+
+Name: res/layout/biz_news_list_header_pager.xml
+SHA1-Digest: MrFA0w2lYY8T7c4+iJI9U/imXko=
+
+Name: res/drawable-hdpi/night_biz_news_detaila_action_bar_bg.png
+SHA1-Digest: 9vI0VQMOZ4jfPul/lJyf1UVTGsg=
+
+Name: res/drawable-hdpi/night_biz_pc_default_small_profile_bg.png
+SHA1-Digest: VesTUuPO6me5Pypr9vqAahEBZgk=
+
+Name: res/drawable-xhdpi/biz_pc_plugin_setting_btn_dark_pressed.png
+SHA1-Digest: Snx0x78yCw2ljQqX/6z5bNwn85Y=
+
+Name: res/drawable-hdpi/biz_tie_comment_tag_bg.9.png
+SHA1-Digest: fNZWNY8FvLuU8hhGfxYtM4LrruQ=
+
+Name: res/drawable/biz_topic_vote_checkbox_selector.xml
+SHA1-Digest: fcLqDzqkbWLzzIgVd8NK5tSnoWg=
+
+Name: res/drawable-hdpi/night_biz_about_logo.png
+SHA1-Digest: 4BrcPQ6EN8/FUtkVpzJJcm84myE=
+
+Name: res/drawable-hdpi/biz_news_newspage_un_collect_icon.png
+SHA1-Digest: tj6EVTcMhx8VA3st5fK1anbeA5A=
+
+Name: res/layout/biz_fb_detail_list_item_layout.xml
+SHA1-Digest: 92XE7OJWpunMb2n2QqP54Usnb6M=
+
+Name: res/drawable-hdpi/shehui_selected.png
+SHA1-Digest: a9MSqXszUwMcxBRqj7xEulcNhwU=
+
+Name: res/drawable/biz_audio_progress_drawable.xml
+SHA1-Digest: npZ2vE8lGSj/BgG/mvlSrAJxNNM=
+
+Name: res/drawable-hdpi/biz_live_news_livrcontent_itemleft_bg.9.PNG
+SHA1-Digest: s4Nd1JrPskjMVhLVAKOYmdGo1kA=
+
+Name: res/drawable-xhdpi/night_biz_local_news_main_back_normal.png
+SHA1-Digest: ylvUHVUjPzaLpD53D+PGjMP88Rk=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_netease_big_type.png
+SHA1-Digest: ez92dSN2g62aPxZhKM2ON6WBiOM=
+
+Name: res/drawable-xhdpi/biz_audio_comment_action_view_bg_normal.png
+SHA1-Digest: 0OKJ3TY56gkvYeEPajOxKxKEgvU=
+
+Name: res/anim/biz_polymeric_icon_rotate.xml
+SHA1-Digest: qAOW4pl0ufPFgAO6Nsn6QJNs7fA=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_fujuzhang.png
+SHA1-Digest: nUSf9SIE/XfqJk0e/oZBX4t+tKQ=
+
+Name: res/drawable-hdpi/night_biz_news_local_weather_fg.9.png
+SHA1-Digest: 60xYslUnjaFPrjIW/SpHrhRqo5Y=
+
+Name: res/drawable-hdpi/night_base_action_bar_main_more_normal.png
+SHA1-Digest: mXIQ2V4/BUK/fVe4Ns75wxZZ16M=
+
+Name: res/drawable-hdpi/night_biz_live_team_default_icon.png
+SHA1-Digest: H6xWhbV28Ohn/sZo4BG1s42Pp84=
+
+Name: res/drawable-xhdpi/biz_pc_account_myprofile_bg.jpg
+SHA1-Digest: TFaWBARRX8/usahOMXhruZqB5lI=
+
+Name: res/layout/base_loadingbar_layout.xml
+SHA1-Digest: X8jEv4q1lTeP4rRZh5Xr+70Yttc=
+
+Name: res/drawable/biz_news_column_edit_bg.xml
+SHA1-Digest: 4bfSi9OYO2nlc/993Yz+ttnEqao=
+
+Name: assets/night_biz_news_newspage_relative_bg.png
+SHA1-Digest: YL4W1DBlCR2zmXn53QCjtCOFZ8c=
+
+Name: res/drawable-hdpi/base_list_selector_disabled.9.png
+SHA1-Digest: N4pxrY//CzQeTPqMUlApq1xAKjk=
+
+Name: res/drawable/night_biz_pc_account_register_btn_selector.xml
+SHA1-Digest: 4HO4RFSylHg5hZ+QbsVrDQKA3wE=
+
+Name: res/drawable-hdpi/night_biz_news_column_edit_container.png
+SHA1-Digest: k7LzK2CEtiZMBjqCioLkWGNO2DM=
+
+Name: res/drawable-xhdpi/night_base_indicator_dot_normal.png
+SHA1-Digest: QQKx/HinBQNyALIiAwl8XcRZZP0=
+
+Name: res/layout/biz_pic_show_layout.xml
+SHA1-Digest: KySgDMNCxH4N9vj1T+87NKDzFAo=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_101_150.png
+SHA1-Digest: X71bdEjC4kKeDqiy/7ZvjzdDGV0=
+
+Name: res/drawable-hdpi/night_biz_score_mall_exchanged.png
+SHA1-Digest: kBDtFl4U2nzTPIoZMo5Y5mlLlno=
+
+Name: res/drawable-hdpi/night_base_action_bar_dropdown_selector_presse
+ d.9.png
+SHA1-Digest: +kbkQ/pXTLNaGO5SASlviGi6LC4=
+
+Name: res/drawable-hdpi/base_action_bar_bg.9.png
+SHA1-Digest: iVAzmC25Uwto74jHtkTBV2YHVsw=
+
+Name: res/drawable-hdpi/biz_plugin_searchnews_search_btn.png
+SHA1-Digest: mSH4JrMVmm75OpGYy6MxY+YyMes=
+
+Name: res/drawable-hdpi/yule_selected.png
+SHA1-Digest: jJMWexgcu/UBK9c7DCbn2oJoELI=
+
+Name: res/xml/update_appwidget_info_4_1.xml
+SHA1-Digest: WOnzUUpxaku8r+l3YYcJI5CMtjM=
+
+Name: res/anim/base_loading_large_anim.xml
+SHA1-Digest: yobXCx+b9F7wEsiCOLhJWekpahM=
+
+Name: res/drawable-sw600dp/biz_pc_recommend_download_normal.png
+SHA1-Digest: GKpwgNjpm3gGvwHAM2UBfOuSmbQ=
+
+Name: res/drawable-hdpi/biz_news_list_tag_special_bg.9.png
+SHA1-Digest: Kh3SxchUq1D6VcWjCYhfH8K36L4=
+
+Name: res/drawable/biz_news_subscribe_tab_selector6.xml
+SHA1-Digest: Ia0kT2wz4M1dCh2ZRtvN0TA7Cac=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_normal_vertical_divider.png
+SHA1-Digest: HaFDCQdiZVD+9p6SfesXUJk3rj4=
+
+Name: res/layout/biz_widget_layout_4_2.xml
+SHA1-Digest: SElNzX1Xv9x2vEh2FnLebraCl7M=
+
+Name: res/drawable-xhdpi/biz_ad_show_new_version_btn_pressed.png
+SHA1-Digest: V5B+jtvb8Y3hs6thZPpY5YDSUVc=
+
+Name: assets/night_small_detailpage_image_border_bg.jpg
+SHA1-Digest: d1D+fpN2bHNp2MsvOszuYtvOE6E=
+
+Name: res/drawable/biz_news_list_other_finance_header_bg_selector.xml
+SHA1-Digest: bBpJ17psaY3ImKFEt1QAFia8+7E=
+
+Name: res/drawable-hdpi/lingyimian_normal.png
+SHA1-Digest: 4g+BNVyBXm7ANsia+IaWYSrXEHI=
+
+Name: res/drawable-hdpi/biz_topic_micro_comment_toolbar_pressed_bg.png
+SHA1-Digest: JvyfauHDXSD/yRFd4ntPCGHSwBs=
+
+Name: res/drawable-hdpi/biz_news_column_edit_finish.png
+SHA1-Digest: MUX8kgnJYXQPrdVfQQ77BRCduUA=
+
+Name: res/layout/biz_pc_score_task_propaganda_user_item.xml
+SHA1-Digest: SM++qe4C0Ghv2++B/FsUEhhJEeg=
+
+Name: res/drawable-hdpi/biz_widget_pre_btn.png
+SHA1-Digest: HIGAr3joEoRzdji41v8bHl6LnE4=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_kezhang.png
+SHA1-Digest: DY/DDL9yYmMfgv/cXXN9Wx3o5lk=
+
+Name: res/drawable-hdpi/night_base_action_bar_back_normal.png
+SHA1-Digest: VhWQ9bzVPt9ox1QykIvSM9LV24o=
+
+Name: res/drawable-hdpi/night_biz_subscribe_left_shadow.png
+SHA1-Digest: q0ziGvby2XgYw34cZA3oLHCrRbI=
+
+Name: res/drawable/base_action_bar_main_more.xml
+SHA1-Digest: yQMNvNN423/VX3aPtOB4dz9lA74=
+
+Name: res/drawable-xhdpi/biz_audio_btn_play_bg_normal.png
+SHA1-Digest: esdGa5mIvC9tAsDtZz2fzaw/GdM=
+
+Name: res/drawable/night_biz_topic_vote_btn_selector.xml
+SHA1-Digest: Q1NbL7ZFPdmFivKAPtWUwu9Bx20=
+
+Name: res/drawable-xhdpi/biz_pc_list_search_icon_dark.png
+SHA1-Digest: Q6mKKxeO870xsyyNyuPCt9ixbu4=
+
+Name: res/drawable-hdpi/biz_radio_pause.png
+SHA1-Digest: CUIiqQARa9GvYVRo8/0VrB/Cy6M=
+
+Name: res/layout/biz_radio_notification_layout.xml
+SHA1-Digest: 6NuwLS4A8z89H5qqD6ndpqF87Gc=
+
+Name: res/drawable/night_biz_news_column_edit_bg.xml
+SHA1-Digest: 4bfSi9OYO2nlc/993Yz+ttnEqao=
+
+Name: res/drawable/biz_pc_myprofile_selector.xml
+SHA1-Digest: 6jqmlJkz7uEIX0RfR5n0P/vJ15k=
+
+Name: res/drawable-hdpi/biz_pc_recommend_download_pressed.png
+SHA1-Digest: VfuxZtMAQfpmcMoO7vnt/ODWaI4=
+
+Name: res/drawable/base_action_bar_icon_background_selector.xml
+SHA1-Digest: +SirkP4qFE8ct6FMAJjQc154ZGU=
+
+Name: res/drawable-hdpi/biz_special_news_header_introduction.png
+SHA1-Digest: 17jmEH4+e51PGyM0nCdYrTkIQj0=
+
+Name: assets/small_play.png
+SHA1-Digest: PS4GYtypHUjebS18J5aB2whp5XU=
+
+Name: res/drawable-hdpi/night_sns_message_icon.png
+SHA1-Digest: N3A1bEIjizbW4YwnVHe5Fss8MFE=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_msg.png
+SHA1-Digest: KwrFbeMyjQYr4p0FJY6u+ZJ4NfA=
+
+Name: res/drawable-xhdpi/night_biz_news_column_tabpager_indicator_edit
+ _bg_normal.9.png
+SHA1-Digest: M4X51F8HKpkRNZ7mEfhypufotKE=
+
+Name: res/drawable/biz_news_detailpage_comment.xml
+SHA1-Digest: j3OYdLfWREK2SN4EwKnE5NAjBF0=
+
+Name: res/drawable-hdpi/biz_main_slide_left_shadow.9.png
+SHA1-Digest: E8viX96dXFZenuppy69EvPhl0xk=
+
+Name: res/drawable-hdpi/biz_subscribe_left_shadow.png
+SHA1-Digest: LluJ3UXlCMw5OMvIu1dmHG5C1gU=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_vote_pressed.png
+SHA1-Digest: q2sKJT9MSO3UA3XF5GYv5KG83vw=
+
+Name: res/layout/biz_news_main_dropdown_list_layout.xml
+SHA1-Digest: EidtMbk9WLzOuchpsj5pqfheItU=
+
+Name: res/layout/biz_pic_show_item_relative.xml
+SHA1-Digest: 8vWtUzhi9pApvxIuYM8ZGGnGczg=
+
+Name: res/layout/biz_news_normal_list_item.xml
+SHA1-Digest: 4DKJEdlrBG+jLI5kr48tiRLcMck=
+
+Name: res/drawable-xhdpi/biz_news_list_ohter_hot_car.png
+SHA1-Digest: DOtQbahHNXvInVIbWBcBgE/jIhs=
+
+Name: res/drawable-hdpi/biz_plugin_searchnews_search_history_img.png
+SHA1-Digest: HPPlwguycR/Tq5fD5vqbJRuFAqY=
+
+Name: res/drawable-hdpi/night_biz_tie_top_orig.png
+SHA1-Digest: za7rYLDXGLKGHlttGaDiLYw1WQc=
+
+Name: res/drawable-hdpi/biz_tie_comment_tool_copy.png
+SHA1-Digest: n9lz/roI2u/CJ6yxoYqnsN+E5eI=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: pbVxFpyiJINjFyXZmR1hHyWqu0Q=
+
+Name: res/drawable-hdpi/biz_topic_micro_detail_replay_img.png
+SHA1-Digest: 0zkgM9mFaG/sSB7+qFshySmK554=
+
+Name: res/drawable/night_biz_local_news_main_back.xml
+SHA1-Digest: EU8qnTKUzgPxqtmxeSWv1L/X2O4=
+
+Name: res/drawable-hdpi/night_base_action_bar_spinner_pressed.9.png
+SHA1-Digest: BPpwsiMxzrqw5HcFW3NTNTVlnZ0=
+
+Name: res/drawable-hdpi/night_noraml_check_on.png
+SHA1-Digest: FZ1vMVXKic+UCRWnUutDJuWdfbs=
+
+Name: res/drawable-hdpi/biz_vote_green.png
+SHA1-Digest: kaCcGu7Eu1sNS6vwFtHFB3ffUBs=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_msg.png
+SHA1-Digest: aSb/ncsRPn4uAA7tmhBWn4QZJmk=
+
+Name: res/drawable-hdpi/biz_news_column_delete_normal.png
+SHA1-Digest: 4pyRmjuiLqiMVw7U8pUL8ZAey9c=
+
+Name: res/layout/biz_ad_show_new_version2_item_layout.xml
+SHA1-Digest: kfEFDbYa4AIyDbEN3ImjUF8Fd7E=
+
+Name: res/drawable-hdpi/night_biz_news_column_subscribe_search_clear.p
+ ng
+SHA1-Digest: +qQv7rLdtzzUpqQl+WORyGH7FzA=
+
+Name: res/drawable-hdpi/sns_weixin_timeline_icon.png
+SHA1-Digest: UtjK84Z9GxYLBqN8aYwVIFTvZ84=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_edit_bg.9.png
+SHA1-Digest: NxzEbdGLDD1JcvcqDOx/018PnGY=
+
+Name: assets/img/small_loading4.png
+SHA1-Digest: +gx1nWQTxTqK6DsXVjnZYkxGztw=
+
+Name: res/drawable-hdpi/biz_tie_top_orig.png
+SHA1-Digest: UKQ5gmdKvfPGz1WpXyCv7YULZ04=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_add.png
+SHA1-Digest: FyVVZpwhU2ZV9gR/nE4cd/h+cBo=
+
+Name: res/drawable-hdpi/biz_news_subscribe_item.png
+SHA1-Digest: RsKT8U9j5/dRm3YXnorMxIUcdE4=
+
+Name: res/drawable-hdpi/night_biz_plugin_searchnews_search_btn.png
+SHA1-Digest: hQ3K8zbtIGMYjj2SwXo4qO0W92I=
+
+Name: res/layout/biz_news_column_subscribe_recommend_first_layout.xml
+SHA1-Digest: G8qVWiPUa6HAtRSyRiIDarAqNHA=
+
+Name: assets/caipiao_images/ssqLogo.png
+SHA1-Digest: 8Ky7DRnQ99ioWujw5nEPLGHt0ug=
+
+Name: res/layout/biz_offline_finish_noti_layout.xml
+SHA1-Digest: oi8y4aet84jRGY+Lm71V4ksoFVY=
+
+Name: res/layout/biz_tie_comment_floor_last.xml
+SHA1-Digest: 0+RDLgG+R1UXv4jPl7+7IeFz/xc=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_sina_type.png
+SHA1-Digest: 86p+3ZemiuIOLvtikfqA7DuHi38=
+
+Name: assets/com.tencent.plus.bar.png
+SHA1-Digest: Uqc6Y8bgiyAUESBhMAg2jzRRLpk=
+
+Name: res/drawable-hdpi/biz_forum_author_icon.png
+SHA1-Digest: woJZa03BDPU9409U3UPRqOLBwfY=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_child_item_last_shad
+ ow.png
+SHA1-Digest: 6MBNnseUPte6ZZoIfOl+dErpGd4=
+
+Name: res/drawable-hdpi/app_recommend_item_bg_pressed.9.png
+SHA1-Digest: zmDyGYgER+wiXfORivsqbmhraj8=
+
+Name: res/layout/biz_news_subscribe_layout.xml
+SHA1-Digest: dWYYbD7nh7SHUd1W4EbksrCoK+Y=
+
+Name: res/drawable-xhdpi/biz_pc_main_kezhang.png
+SHA1-Digest: i4YA5T/KsXrfUKgaNsSwaIH0m2A=
+
+Name: res/drawable-hdpi/biz_pics_ic_back_normal.png
+SHA1-Digest: yt2rCkh5U1FX/LAv48wrGU6by4M=
+
+Name: res/drawable-hdpi/biz_pics_detailpage_comment_normal.9.png
+SHA1-Digest: igQkCtxf28rgAkqe1WIe6Xu82tc=
+
+Name: res/drawable-hdpi/night_biz_pc_recommend_download_pressed.png
+SHA1-Digest: 4q72DqFfgWS8Eyzpg6Ng/F5l2mE=
+
+Name: res/drawable/biz_news_subscribe_tab_selector19.xml
+SHA1-Digest: KTPX/q/qKrYjcI7N3Hv8P9j/AKE=
+
+Name: res/drawable-xhdpi/night_base_indicator_dot_selected.png
+SHA1-Digest: cP7MB4AwddsrlWIn/KcaOFFnA8k=
+
+Name: res/drawable/biz_widget_refresh_btn_selector.xml
+SHA1-Digest: WphZ3+B6g1Xv8BIBEmP1iFwdsuU=
+
+Name: res/drawable-hdpi/icon_toast_fav_bg.png
+SHA1-Digest: EV7dPHIFOV8ZmEhoFtdqj1urFSQ=
+
+Name: res/drawable-hdpi/biz_tie_comment_tool_cancel_collect.png
+SHA1-Digest: qdZ4YTHkYzYNcQUnQyUJxwIs/Ic=
+
+Name: res/drawable-hdpi/night_biz_special_media_bg.9.png
+SHA1-Digest: DQ/Kh+p5z7cSuye0xZzwvWuyxCw=
+
+Name: res/layout/biz_pc_score_special_tip_layout.xml
+SHA1-Digest: LAvJvKF6IQonAQLl7ShM2P25n2c=
+
+Name: res/drawable-xhdpi/night_biz_pc_account_modify_name.png
+SHA1-Digest: Oq11h4V2Fxpgozbgv4uI8O/XxDE=
+
+Name: res/drawable-hdpi/base_bottom_fade_drawable.png
+SHA1-Digest: EUY3isxbVimDEupDZScWz8A2Qdo=
+
+Name: res/drawable-xhdpi/night_biz_pread_item_like_pressed.png
+SHA1-Digest: BgKDGmuyxkJVi9VfA0Hj595ytjQ=
+
+Name: res/drawable-hdpi/biz_widget_refresh_btn_large.png
+SHA1-Digest: VYMKE9dkJQCLqwDMqRvFf/AUP14=
+
+Name: res/drawable/biz_news_subscribe_item_pressed_bitmap.xml
+SHA1-Digest: ZrceWabKbtAhjcyjXsxZuYf0gXE=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_keji.xml
+SHA1-Digest: 6oc/24t0xiq8y12wg1KPimZ+P+E=
+
+Name: res/drawable/night_biz_about_bg.xml
+SHA1-Digest: XgmSvNqObiDcEbH+aEn44maoKMU=
+
+Name: res/anim/biz_setting_guide_show.xml
+SHA1-Digest: gLQndR9KNrAvMabL+Yg6GTj6UWw=
+
+Name: res/layout/biz_plugin_weather_layout.xml
+SHA1-Digest: jOw0QdWkL6C5QqtbiFir9UuEgMk=
+
+Name: res/drawable-hdpi/qiche_normal.png
+SHA1-Digest: lklwfY8ZxKE7LiabUv2LyEesLd8=
+
+Name: res/layout-sw600dp/biz_setting_fragment_layout.xml
+SHA1-Digest: FrxN1Kilng4YPXMcFaDnleo/ur0=
+
+Name: res/drawable-hdpi/biz_topic_micro_detail_replay_pressed_bg.9.png
+SHA1-Digest: 0uOnd1slZaP/RiYg0AUD5Iok2GY=
+
+Name: res/drawable-xhdpi/night_biz_news_main_back_normal.png
+SHA1-Digest: VVK30LBdB9ooLV9kuYdvox4O0n0=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_mail_icon.png
+SHA1-Digest: yYAPGDDaFXpwdjTr9u+C+WFCxNE=
+
+Name: res/drawable-hdpi/biz_account_edit_icon.png
+SHA1-Digest: 1FzDcfB3Ukc1NOnPqkX25JIhWtQ=
+
+Name: res/drawable-xhdpi/night_biz_pics_main_back_pressed.png
+SHA1-Digest: 6RK1sIgZSygh67XN03bmDCD4V/Y=
+
+Name: res/layout/biz_tie_comment_orig_action_view.xml
+SHA1-Digest: mpq1Cxlg5L7D9LJJZlf3hKijXQs=
+
+Name: res/layout/biz_offline_down_noti_layout.xml
+SHA1-Digest: PBopnwGTaYXHfMlP5YN6RmQi7jk=
+
+Name: res/drawable-xhdpi/night_biz_special_conference_item_bg.9.png
+SHA1-Digest: 5uqRHWkE6B+GQcODJj0xXX3jE3Y=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_level_icon.png
+SHA1-Digest: xS2I9GEqlDJuj+y01f0LPdM0Oq8=
+
+Name: res/drawable-xhdpi/biz_ad_new_version1_indicator1.png
+SHA1-Digest: t+Zo+6shx2IGQsdBITCwWrESalg=
+
+Name: res/drawable-xhdpi/biz_pic_set_recommend_icon.png
+SHA1-Digest: UrWQRiZbJjqJTYYnOonYsZZ+SrU=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_beijin_bg.jpg
+SHA1-Digest: XbEd8kaKexSMN7w0r7YIrN0mQCI=
+
+Name: res/drawable-hdpi/night_biz_account_head_selector_qq.png
+SHA1-Digest: UcHlq20X0e957E5qme9RRZo6500=
+
+Name: res/drawable-hdpi/night_biz_news_column_subscribe_actionbar_canc
+ el_normal.png
+SHA1-Digest: WHKW+ftXTGvRWisjDipNWdk+n2M=
+
+Name: res/drawable-xhdpi/base_action_bar_action_city.png
+SHA1-Digest: 0R+eSJcsd6ASw+GtK12MWzoK550=
+
+Name: res/drawable-xhdpi/biz_pc_main_arrow.png
+SHA1-Digest: fFrHt5aIOJ2J4meKdCvu+I/mhcU=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_qing.png
+SHA1-Digest: YP9UpTycsZAc63Rw3dggOm2d3x8=
+
+Name: res/layout/biz_score_mall_prize_item.xml
+SHA1-Digest: 9bbQ74/4suhqu2I29/lFyNvSLVw=
+
+Name: res/layout/base_pull_list_layout.xml
+SHA1-Digest: Ep5uaNBuNKModMdNSxxYgO8gYPk=
+
+Name: res/drawable-hdpi/night_biz_news_subscribe_item.png
+SHA1-Digest: VEii/q/qM9B2PuCMxjWJkBHa5sQ=
+
+Name: res/drawable-hdpi/base_send_pressed.png
+SHA1-Digest: qp/yAdqZtSXUf9aIrUkHzgxG4Pw=
+
+Name: res/drawable-hdpi/biz_tie_comment_tool_support.png
+SHA1-Digest: CWz+TvIzbtlGE+148eKeGeVFlIk=
+
+Name: res/drawable/biz_plugin_manage_normal_bg.xml
+SHA1-Digest: 5s8dlwD6cbA5Mvpqkixrxr6TCBU=
+
+Name: res/layout/biz_special_news_header.xml
+SHA1-Digest: GjXB1VTIBU0HnkS7pYYn4tWqfKs=
+
+Name: res/drawable-hdpi/biz_score_mall_exchanged.png
+SHA1-Digest: zSEepx936+0VDrcp+fDl2XOWqtc=
+
+Name: res/drawable-hdpi/biz_news_detailpage_comment_normal.9.png
+SHA1-Digest: k7VVgzt+mjhf8ujLJeYysBdS33w=
+
+Name: res/layout/biz_vote_item_detail_header.xml
+SHA1-Digest: wusHdYRWgUvMquer8gWKGZDO/cE=
+
+Name: res/drawable-hdpi/biz_news_list_other_finance_header_bg.9.png
+SHA1-Digest: jgHroLX4sivDl606S9Gtjt2fjqg=
+
+Name: res/drawable-hdpi/biz_pc_private_null.png
+SHA1-Digest: P/YqQA5w79+Rsu/mo1RlyctsqKc=
+
+Name: res/drawable-xhdpi/night_base_tabpager_indicator_selected.9.png
+SHA1-Digest: cHblHXws4PshyMnc0shHvuITsUY=
+
+Name: assets/newspage.js
+SHA1-Digest: s8kQDUzlF1Wdw5HP18hCXwkg3T0=
+
+Name: res/drawable/biz_pc_account_bg.xml
+SHA1-Digest: e1Fw13r0Pjd0lFH8s9d19i0LeFg=
+
+Name: res/layout/biz_live_group_no_divider_list_layout.xml
+SHA1-Digest: S/qemz0q1nT3DTtv9T0jfB8K0a0=
+
+Name: res/drawable-hdpi/night_biz_news_list_tag_bg.9.png
+SHA1-Digest: HAvCkbvedeXjWBMqYEC7LUsXCGY=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_msg.png
+SHA1-Digest: z3zzBxwsI77BXww015mcuJH18RM=
+
+Name: res/drawable-xhdpi/biz_pc_myprofile_progress_bg.png
+SHA1-Digest: d+JkVkSdZbdLtoMhBGfegVxMhv4=
+
+Name: res/drawable-hdpi/biz_about_logo.png
+SHA1-Digest: 8mIL+JxI38UBnaWRzQUwuBauqyQ=
+
+Name: res/drawable-hdpi/biz_news_column_recommend_submit.png
+SHA1-Digest: PKPQcwU7hMgZHId448j2qFwOhXY=
+
+Name: res/layout/biz_vote_result_item.xml
+SHA1-Digest: 8m32cKixjK+UybriHjeL+QLH3Pg=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_caijing.xml
+SHA1-Digest: LiqpOcjnM36NcZkD6iUlReWOXqA=
+
+Name: res/layout/phone_main_news_pager_tab_layout.xml
+SHA1-Digest: fLT3Ylgh/3MHHt3NRAg82O5LLW4=
+
+Name: res/layout/base_load_list_layout.xml
+SHA1-Digest: pULLSFveWJ+4ZJuvLH9+MAKsFB8=
+
+Name: res/layout/biz_vote_list_item.xml
+SHA1-Digest: pyrKgza95xqNL05AxeOFwzU8rx4=
+
+Name: res/drawable-hdpi/night_biz_special_news_header_introduction.png
+SHA1-Digest: vdcM/g8dxzRKXiMLnmNTHZfs+E0=
+
+Name: res/drawable-xhdpi/night_biz_subscribe_guide_add.png
+SHA1-Digest: VJ/RNFRXa2oxra6q8X4mouWZoB0=
+
+Name: assets/night_digest_bg.png
+SHA1-Digest: x3KBW82RJKgyJsA8eaof8UQFrC4=
+
+Name: res/drawable-sw600dp/biz_tie_user_avater_bg.png
+SHA1-Digest: H2r1xpLhOrqIf+YAMg3a8Ip8tI4=
+
+Name: assets/img/loading5.png
+SHA1-Digest: GI80c72B/Sss3puL/DNzqTCHcIQ=
+
+Name: res/drawable-hdpi/biz_news_column_edit_bg_pressed.9.png
+SHA1-Digest: uVGVXuOi3LvQx/AOPNJKuTfCZjM=
+
+Name: res/drawable-hdpi/night_biz_pc_account_line.png
+SHA1-Digest: 4JqYIK19B0y6ELj6HZsf4xNZBCk=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_theme.png
+SHA1-Digest: EO8ms9TnJNGO+wq92PL3LfbnNw8=
+
+Name: res/drawable-hdpi/biz_account_head_selector_netease.png
+SHA1-Digest: 1wkTIoEFW4ITZQ8bchV0NYBEusc=
+
+Name: res/drawable-hdpi/night_biz_news_newspage_un_collect_icon.png
+SHA1-Digest: 2lOBbQhDqg+mnN5rr4dQC7amchE=
+
+Name: res/layout/biz_main_media_subscribe_guide.xml
+SHA1-Digest: G1H+ZVdKEJmFXbVO6tzJZbOlLCg=
+
+Name: res/layout/biz_tab_vote_multi_submit_btn.xml
+SHA1-Digest: EETvAr0mfxkrkXd5iyxBHusduLo=
+
+Name: res/drawable-hdpi/night_app_recommend_item_bg.9.png
+SHA1-Digest: oeSuanjXN5ANBwJa5zdifs73FAo=
+
+Name: res/drawable-xhdpi/biz_audio_play_info_click_layout_bg_normal.9.
+ png
+SHA1-Digest: E7CCkHl8uRaYTxgmpFXR5hC3PeE=
+
+Name: res/drawable-hdpi/biz_tie_comment_toolbar_bg.9.png
+SHA1-Digest: uSqjqhun82KAxcCPUYNP1zyYCDI=
+
+Name: res/drawable/biz_audio_btn_show_extra_selector.xml
+SHA1-Digest: 2A3IXwpe1BPCoxJpQP+YhwbmTe4=
+
+Name: res/drawable/biz_pread_item_like_bg_selector.xml
+SHA1-Digest: bJuePuCWn4w43EXjqJmpF2pFl04=
+
+Name: res/drawable-hdpi/biz_radio_list_icon.png
+SHA1-Digest: ETvsf34MycA3DYohWE0oyp5RZKs=
+
+Name: res/drawable-hdpi/sns_weixin_icon.png
+SHA1-Digest: Ulkmj1v98vRI0irBVOK21RqXHas=
+
+Name: assets/weibosdk_dialog_bg.9.png
+SHA1-Digest: WXvo3k+6TIebf1AC+9PbdGgTOF4=
+
+Name: res/drawable-hdpi/biz_pics_menu_line.png
+SHA1-Digest: nyOwVlG1nPaChs5j7ZJ6Qn2HyCs=
+
+Name: res/layout/biz_live_group_no_divider_loading_list_layout.xml
+SHA1-Digest: TF4RkIEtiBzZCQg9kdkYDw53/cw=
+
+Name: res/drawable-hdpi/biz_account_head_pic_selector_bg.png
+SHA1-Digest: buhnOQf/BkyUjGE3kUPRvJrZzrs=
+
+Name: res/layout/biz_pc_account_account_layout.xml
+SHA1-Digest: MnVkdfesyFo6KctqT7xn5MkwsCs=
+
+Name: res/layout/biz_news_subscribe_action_columns.xml
+SHA1-Digest: 8szP1MRtfgVsqAHynxgsrgA/npU=
+
+Name: res/drawable-hdpi/biz_polymeric_default_image.png
+SHA1-Digest: w+aQyxSAOqTFDfA0fPdtRJ4lX9Q=
+
+Name: res/anim/biz_setting_guide_dismiss.xml
+SHA1-Digest: pfB3kyokYfekbSVYeaAu8iP55Fw=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_latest.png
+SHA1-Digest: 6mhgbp6Lb/V9YmqRGGvAIVFo+zY=
+
+Name: res/layout/toast_text_widget.xml
+SHA1-Digest: xXmd5W1pX/RILgTdct1WbIL04FQ=
+
+Name: res/drawable/biz_news_subscribe_item_bitmap.xml
+SHA1-Digest: NGxjWQxlpDMOMLtJo8QSuRrqTFc=
+
+Name: res/drawable-hdpi/biz_fb_bubble_me.9.png
+SHA1-Digest: iJZK/WjI3WcWcQrXhW9YAxwNuEI=
+
+Name: res/drawable-xhdpi/night_biz_news_column_edit_delete_bg.9.png
+SHA1-Digest: L6AwJ+w13y/u740/A8VCnvhQ+mk=
+
+Name: res/layout/biz_news_list_item.xml
+SHA1-Digest: xvDTfAavdhtQnUDpm2ye+2hj/DM=
+
+Name: res/drawable-hdpi/night_biz_pc_account_usr_icon.png
+SHA1-Digest: eWDGOcrCC9NwxFQWVGl36zwDQ/M=
+
+Name: res/layout/biz_news_column_subscribe_recommend.xml
+SHA1-Digest: 7t4FGXb0geHZ7ZVHDSKz8hnec8k=
+
+Name: res/drawable-hdpi/biz_news_subscribed_del.png
+SHA1-Digest: oeky/fG56tIXhcdA4dNBY1x9D5s=
+
+Name: res/drawable-hdpi/base_direction_right.png
+SHA1-Digest: sZVamxzPl2z8pXZkbStbSQEphcw=
+
+Name: res/drawable-hdpi/night_biz_news_column_edit_finish.png
+SHA1-Digest: pzoOCMM1mr9dafxTubnz3M3xoUc=
+
+Name: res/drawable-xhdpi/night_biz_audio_btn_play.png
+SHA1-Digest: O83IkvS7nfCWzkzgGYr4ODHeKbo=
+
+Name: res/drawable-hdpi/biz_font_default_pressed.9.png
+SHA1-Digest: zAjpqdOFITQCB58xT1rNneLxHwc=
+
+Name: res/drawable/night_base_action_bar_action_personal_selector.xml
+SHA1-Digest: XHqWQrjNEuKGWLyN/uH88y8brUk=
+
+Name: res/drawable/night_biz_news_list_other_finance_details_group_ite
+ m_bg_selector.xml
+SHA1-Digest: +RKGlX2yUa7za8wa31livIsGiNQ=
+
+Name: res/drawable-xhdpi/biz_audio_wave_img2.png
+SHA1-Digest: T/uKy7V6HZIv8DCTH2i5U8YBeMY=
+
+Name: assets/img/small_loading7.png
+SHA1-Digest: qYC+Cv0vFXj8NSFwLtos91yjT/o=
+
+Name: res/drawable-hdpi/biz_topic_micro_detail_share_pressed.png
+SHA1-Digest: m9O9x74QV3fXFo6SKqlRhUteIy4=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_bg.9.png
+SHA1-Digest: uqkfnItJLCvJYR2OPrH+LVvAiVQ=
+
+Name: res/layout/biz_vote_list_header.xml
+SHA1-Digest: 23iKnNJVFRLBYQM3yEEBfb1RXr8=
+
+Name: res/drawable-xhdpi/biz_news_recommend_default.jpg
+SHA1-Digest: iMnDqR2Qdsha2Cbj13W9Tw7KbNk=
+
+Name: res/drawable/biz_plugin_manage_normal_checked_selector.xml
+SHA1-Digest: kuvUURibUxvaVyhFWE5YrvXy/mo=
+
+Name: res/drawable-hdpi/biz_sns_publish_pic_tag.png
+SHA1-Digest: fYc3MRH3a1iuhKMQ5yoWEiNBi4E=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_detail_replay_img.png
+SHA1-Digest: JV5FKB/FFd9yi5SW/XALCMpCmFU=
+
+Name: res/drawable-hdpi/biz_about_netease.png
+SHA1-Digest: U06ki8VbNtY18L1EQMUp1rFaaco=
+
+Name: res/drawable-hdpi/night_biz_fb_write_normal.png
+SHA1-Digest: IgOpuROw6Q3qh6hudYIGeUx/CvI=
+
+Name: res/drawable/biz_score_gotomall_btn_selector.xml
+SHA1-Digest: OgMkMUVd9gUmG6+SXCWTerT1Khc=
+
+Name: res/drawable-hdpi/night_sns_yixin_timeline_icon.png
+SHA1-Digest: /ckYN4yFugsnO3zcnKlmm2T+f4g=
+
+Name: res/drawable-hdpi/night_base_empty_view.png
+SHA1-Digest: H3wUnB6KGTx3gf4wSwl3qxwZLBE=
+
+Name: res/layout/biz_vote_main_button.xml
+SHA1-Digest: QorWAsWXiXVnqfKzRuxbN9Vd/R4=
+
+Name: res/drawable-hdpi/biz_pics_ic_unfav_tp.png
+SHA1-Digest: 69Lcw/YSH220rx8UX5v1CiG105A=
+
+Name: res/drawable-hdpi/night_biz_vote_org_arrow.png
+SHA1-Digest: vaHujJISngKhnLT49EuVXZuIQEc=
+
+Name: res/drawable-hdpi/pic_vertical_digest_bg.png
+SHA1-Digest: WeX9CnPSIe9iI8GyEbErxDxPQ8M=
+
+Name: res/drawable-hdpi/base_action_bar_action_more_normal.png
+SHA1-Digest: McIF4RcyfVmbTJlNcrG9zP1ri1Y=
+
+Name: res/drawable-hdpi/night_biz_news_list_other_finance_details_grou
+ p_item_bg.9.png
+SHA1-Digest: vCqDXZLvmzrYYU4HK6UrtaV/tFs=
+
+Name: res/drawable-sw600dp/sns_qq_icon.png
+SHA1-Digest: EveBg8vzDcxQ1r9YJjcW537i+9U=
+
+Name: res/drawable/biz_pc_other_info_item_bg_dark.xml
+SHA1-Digest: EPGX5umWPfxMaivuAQ+AD6OckTE=
+
+Name: res/drawable-xhdpi/biz_audio_wave_img6.png
+SHA1-Digest: uCmPvhDKvAKd5XrXuNbhtuVlKI4=
+
+Name: res/layout/biz_plugin_weather_item.xml
+SHA1-Digest: cGv5wLge8zdqloEx3mCK3dp3se4=
+
+Name: res/xml/update_appwidget_info_4_3.xml
+SHA1-Digest: W0VAOPxNkdaY5fS3RBFV3tWB5y0=
+
+Name: res/drawable-xhdpi/night_base_action_bar_action_search.png
+SHA1-Digest: Vu1c740lxkTyyK/43Izyy9pVaWU=
+
+Name: res/drawable/biz_about_bg.xml
+SHA1-Digest: qnPAOgfJEytwbsXItDM6AhBOG74=
+
+Name: res/drawable-hdpi/biz_pc_list_offline_start.png
+SHA1-Digest: oQ2uRFrWqHEkTIILYghQG6ZH8z8=
+
+Name: res/drawable-hdpi/biz_score_mall_more.png
+SHA1-Digest: DxHa7EUPbmDGE01Te418MUofyK0=
+
+Name: res/layout/phone_main_ugc_layout.xml
+SHA1-Digest: zH2YBIsGMsQaITYDWhFYpOcQhuM=
+
+Name: res/layout/biz_special_news_list_item.xml
+SHA1-Digest: MWhiXhc3rH19IE7rgx2pbvK83Vg=
+
+Name: res/drawable/biz_navigation_tab_local_news_bg.xml
+SHA1-Digest: eI/7l+leC1mWtJVHwiAyDcvnOp8=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_search.png
+SHA1-Digest: BgevIB8VRKmbQvRsUN6yK6LNjiw=
+
+Name: res/drawable-hdpi/biz_tie_comment_tool_orig.png
+SHA1-Digest: s4zizIsKzCDnd3vLY/GXty12oCA=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_floor_bg.9.png
+SHA1-Digest: h99bdJRVp9NwSboBaizVokYl5J8=
+
+Name: res/drawable/biz_pc_profile_selector.xml
+SHA1-Digest: dalgyPdh9y/4zSZh7S7Fnxt2Few=
+
+Name: res/drawable-xhdpi/night_biz_vote_back_pressed.png
+SHA1-Digest: 2wkVr+DJnl/hMBQvyL7ZfVTfc2w=
+
+Name: res/anim/biz_polymeric_slide_out_right.xml
+SHA1-Digest: s0UdmtO6YcvnP+5CFi4DZVtZri4=
+
+Name: res/drawable/biz_news_subscribe_tab_selector5.xml
+SHA1-Digest: jnkha8tMADaycvn/2mp1lpUUTDU=
+
+Name: res/layout/biz_tie_comment_pull_list_msg_layout.xml
+SHA1-Digest: OHQ2kYNt2p7MfxSZRX2CAIe+7+U=
+
+Name: res/layout/biz_news_subscribe_group_item.xml
+SHA1-Digest: fpBI1mRKRctZry3FlOMLEM1CllE=
+
+Name: res/drawable-sw600dp/biz_news_recommend_default.jpg
+SHA1-Digest: PKfE8K/It3megudEpR4DA6sPFNI=
+
+Name: res/drawable-hdpi/night_base_search_edittext_bg.9.png
+SHA1-Digest: 12DOoAg54xNm/NoYD1S7n1E07X4=
+
+Name: assets/night_topic_not_subscribed.png
+SHA1-Digest: 5rFDQGGjHsZ2x1FNub3hWCZ1090=
+
+Name: res/drawable-xhdpi/base_main_action_personal_normal_pressed.png
+SHA1-Digest: mLJGb1NHLu/z68tiSI/l4hOWqGg=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_wu.png
+SHA1-Digest: l+2v6GEq32FwXcCC0bohB8gspRM=
+
+Name: res/drawable-xhdpi/biz_audio_btn_download.png
+SHA1-Digest: j2e0trZdF4yAS6sDgQQy0gnFqeQ=
+
+Name: res/drawable-hdpi/base_loading_large_icon.png
+SHA1-Digest: jsA/KhZEXjVPh6CrCVaP8FN/PrU=
+
+Name: res/drawable-xhdpi/night_biz_ugc_main_back_pressed.png
+SHA1-Digest: z+y4ctb529NdcSjwc2XUh7KThx0=
+
+Name: res/layout/biz_tab_vote_multi_submit_item.xml
+SHA1-Digest: H6RQ3aR/0YxZkpfm/cr19Slx+3U=
+
+Name: res/drawable-hdpi/biz_topic_vote_item_noselected.9.png
+SHA1-Digest: WDvRhvWz8z+s2SgoTkakGtWjXYM=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_offline.png
+SHA1-Digest: LU3N/g9IvG135lGRuAGMWRasmPE=
+
+Name: res/drawable-xhdpi/biz_pread_item_like_pressed.png
+SHA1-Digest: bu+ANN7uZpBBV9813LmToYmYfIw=
+
+Name: res/drawable/night_biz_navigation_tab_ugc.xml
+SHA1-Digest: wbakfv4lcHzb+do/W23O8xFCUIg=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_xiaoxue.png
+SHA1-Digest: 6GxqIKFCww23JfR4CiGnin5i5dE=
+
+Name: res/drawable-hdpi/night_biz_topic_vote_show_org.png
+SHA1-Digest: n31bqwwnPp7gAGWu52e+QvjM9Xo=
+
+Name: res/drawable/biz_push_notification_icon_inf.xml
+SHA1-Digest: 7p4OjrYsMfsikVFU7O6VvcZkKx4=
+
+Name: res/drawable/base_search_edittext_selector.xml
+SHA1-Digest: paIBssn/ypexCzUqH8v7ErN5lPk=
+
+Name: res/layout/biz_news_list_other_finance_header_grid_item.xml
+SHA1-Digest: JJSiHu7TD7mKJN9MRKZgjaPSkpI=
+
+Name: res/drawable-xhdpi/base_action_bar_back_divider.jpg
+SHA1-Digest: 9v0KnFzD4JERxtILpJH/VJ1F2xc=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_dayu.png
+SHA1-Digest: CBJ1En61BtwXqWWhXB7uSdXQs4E=
+
+Name: res/drawable-hdpi/biz_news_list_other_finance_details_group_item
+ _bg.9.png
+SHA1-Digest: jVnKCpdLDyFJmd2G6ppO+2PIaYk=
+
+Name: res/drawable-hdpi/biz_plugin_weather_indicator_popup_bg.png
+SHA1-Digest: MikmXdkovxxDmZDnTFWTQ3pMcpY=
+
+Name: res/drawable-hdpi/biz_topic_mulvote_submit_bg_pressed.9.png
+SHA1-Digest: 8mec/iOY9sg0nUaSVBb7BQJ1aT4=
+
+Name: res/layout/biz_tie_top_item.xml
+SHA1-Digest: Qsj5E1XZybZtwSwmTIjYnPUXw50=
+
+Name: res/drawable-hdpi/night_base_action_bar_main_more_pressed.png
+SHA1-Digest: waWhKyfyh+8r66WmP2/b5KYXj1o=
+
+Name: res/drawable-xhdpi/biz_plugin_extra_tools_share.png
+SHA1-Digest: pM7G4oUjXVTyK4nSk8AR1JJiLq8=
+
+Name: assets/img/small_loading8.png
+SHA1-Digest: EJUbtCGkmuapNP+6D8I3BhpIvPU=
+
+Name: res/layout/phone_main_pic_layout.xml
+SHA1-Digest: ouciVnlGXi5nLmuaHnyekni80cs=
+
+Name: res/drawable-hdpi/biz_topic_micro_detail_replay_bg.9.png
+SHA1-Digest: 3DGWBUYhW7JV7q5Tmomi7NSTauo=
+
+Name: assets/img/small_loading3.png
+SHA1-Digest: MCNaSXYFf3lL0gu+BtrUaJpqpNQ=
+
+Name: res/layout/biz_pc_favorit_picture_item.xml
+SHA1-Digest: EcNoQd7YPYtGm0NDWp/xDfy5D0A=
+
+Name: res/drawable/base_edittext_drawable.xml
+SHA1-Digest: TEKPNvKFzosbfMGW4BAUxk7WvEU=
+
+Name: res/layout/biz_polymeric_tag_fragment.xml
+SHA1-Digest: QWWP13QzVWHqJGvZJnybPk/OQR4=
+
+Name: assets/tablet_land_newspage.html
+SHA1-Digest: VqscDo4ADyMVQdoHNCGilxkLIYc=
+
+Name: res/drawable/night_biz_navigation_tab_news.xml
+SHA1-Digest: y3gfXWuQKJEgGFkqszG1D7j2jsk=
+
+Name: res/drawable-xhdpi/biz_pc_list_weather_yujiaxue.png
+SHA1-Digest: 8d5et+I1JYvUxjlABuXsFRI02D8=
+
+Name: res/drawable-xhdpi/night_biz_pread_item_like_drawable_pressed.pn
+ g
+SHA1-Digest: 1KpHIEsG6cLCv7iUkrbckcCIdFY=
+
+Name: res/drawable/base_action_bar_spinner_bg.xml
+SHA1-Digest: b6UrlM0njVSUQDbACo6HWb8LQSA=
+
+Name: res/drawable-hdpi/sns_qzone_icon.png
+SHA1-Digest: 0oAwd9sWZgSu5WLENgLBIhzeWk8=
+
+Name: res/drawable-xhdpi/night_biz_vote_ytpe.png
+SHA1-Digest: EV3r7rtLLzx3cHe7z40elpJzL8g=
+
+Name: res/layout/base_tabpage_indicator_layout.xml
+SHA1-Digest: 8/8XIQj+svtz5OlaZWrXmYYSDRs=
+
+Name: res/drawable-hdpi/biz_tie_comment_tool_share.png
+SHA1-Digest: oahyd+1xtHD1J7KrJHo2lzGXTDI=
+
+Name: res/layout/biz_pics_list_item.xml
+SHA1-Digest: 3/mS6Fwexuj7a8O7VHwusJG2Er0=
+
+Name: res/layout/base_action_bar_text_action_layout.xml
+SHA1-Digest: 7nDt9jBN3CPXKFttFvuRmCtnSJM=
+
+Name: res/drawable-xhdpi/night_biz_news_column_tabpager_indicator_edit
+ _pressed.png
+SHA1-Digest: p9L1HsOYPWIbpFV9OiRTngiw0dk=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_child_item_first_sha
+ dow.png
+SHA1-Digest: MPXoTJDVvc9NkWjky6EJ6NfifOo=
+
+Name: res/layout/biz_live_news_live_header_layout.xml
+SHA1-Digest: WH0sS7nnaqjeQa9lWpZ8YZbCuW4=
+
+Name: res/drawable/biz_news_subscribe_tab_selector9.xml
+SHA1-Digest: C6CRlnIQtGL84i1mjAlYxmgW1nA=
+
+Name: res/drawable-hdpi/app_recommend_item_bg.9.png
+SHA1-Digest: HWyw8DnY3Olt7EawXfGl9VqjIoI=
+
+Name: res/drawable-hdpi/night_biz_score_mall_more.png
+SHA1-Digest: VWw5sYRHfN8BO6lf5S5iCOvg2qc=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_juzhang.png
+SHA1-Digest: NyPRXbSggCdx1pB74R3L6LVFAOQ=
+
+Name: assets/tablet_newspage.html
+SHA1-Digest: uxG3rR3pU0qnb4nh/3wcAaq9e5o=
+
+Name: res/drawable-hdpi/biz_tie_comment_top.png
+SHA1-Digest: bAhKmBB4qdK8e91mH8ignsOLLWk=
+
+Name: res/drawable-xhdpi/night_biz_pics_main_back_normal.png
+SHA1-Digest: 1nsmc2MtwTUUQkn23pAr1FfxckM=
+
+Name: res/drawable/biz_navigation_tab_ugc_bg.xml
+SHA1-Digest: /ZspXN5AJz7UzZEV/Xi3UKK4qRI=
+
+Name: res/drawable-hdpi/biz_widget_4x1_left.9.png
+SHA1-Digest: 6XkJ0zse43p6YZXNzPZpELreolQ=
+
+Name: res/color/biz_account_score_update_version_color.xml
+SHA1-Digest: Lor0Q7OcBaGSeO87iJOjG+Abbow=
+
+Name: res/drawable-hdpi/caijing_selected.png
+SHA1-Digest: NGYpei8q3IX459eKUgMAJ/aQ/DA=
+
+Name: res/drawable-xhdpi/night_biz_news_list_other_finance_details_arr
+ ow_up.png
+SHA1-Digest: uxr4Q2O0VmtpbUytWrK/+Gl9Is8=
+
+Name: assets/newspage.html
+SHA1-Digest: vK+52W1lt5S+VZOQ2q+ic5V/0XE=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_bg_1.9.png
+SHA1-Digest: e1RcC8nSJ21/UmeJlbAcsu9t1ho=
+
+Name: res/drawable-hdpi/biz_news_huge_pic_download_normal.png
+SHA1-Digest: kqOIU/oV/g3mw2oI9MCmoCxzzps=
+
+Name: res/drawable-hdpi/biz_widget_refresh_btn_selected.png
+SHA1-Digest: FdU0dD9mC8dKrlfqN0+p4jwRS1E=
+
+Name: res/drawable-xhdpi/biz_pread_item_like_normal.png
+SHA1-Digest: e6yx6tJoVLZM65+7RgyWdsbvVjE=
+
+Name: res/layout/biz_plugin_weather_ip_query_city.xml
+SHA1-Digest: K+deOfEqUjExEklpF3TCNvv5g6s=
+
+Name: res/drawable-hdpi/biz_special_media_text_bg.png
+SHA1-Digest: a1rfmQFw1KGJMojlgWSVuNtBVko=
+
+Name: res/drawable-xhdpi/biz_ad_new_version1_img_bg0.jpg
+SHA1-Digest: sSGSPDcSEGmm6DUMNcZYrvTCdeQ=
+
+Name: res/drawable-hdpi/biz_account_location_icon.png
+SHA1-Digest: 0ybRclneYsdgSbcyVWU78iBCapk=
+
+Name: assets/small_detailpage_image_border_bg.jpg
+SHA1-Digest: VAZmgUza/0jAjUImQbXfmZdq+fA=
+
+Name: res/layout/biz_news_column_edit_footer_layout.xml
+SHA1-Digest: L3W1Eh4gSQPJ4O7Qxpsev/98dgI=
+
+Name: res/drawable-xhdpi/biz_pc_account_score_line.png
+SHA1-Digest: pBqVGwXrL/McScXXBbg6+JWWrcE=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_group_item_icon_down
+ .png
+SHA1-Digest: uW602jwUqRoneIE+89HrALaeTtg=
+
+Name: res/drawable/night_biz_sns_select_item_bg.xml
+SHA1-Digest: DDOwTbrrLsLV/AbIH7PLtUv4n9o=
+
+Name: res/drawable-hdpi/reply_frame_divider.png
+SHA1-Digest: 3iL8Mlx7zZ/PsMzz2BhzpoCbe0M=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_weather.png
+SHA1-Digest: SSxY/lm9FV4QeaW08Dd3DuAXUwc=
+
+Name: res/drawable-xhdpi/biz_pc_score_progaganda_how_step1_msg_bg.png
+SHA1-Digest: G8ZSZyP++T7gjEdar0eN42NFfS8=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_group_item_icon_up.p
+ ng
+SHA1-Digest: tOP3MRT9N1bfU6S5Tm2UvTHBfqA=
+
+Name: res/drawable-xhdpi/night_biz_news_column_tabpager_indicator_divi
+ der_0.png
+SHA1-Digest: p1TawFpguCqI9gasFOL26Vtw3wQ=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_checked_pressed.png
+SHA1-Digest: sYeDuuXMZj/H4xf2qdAEpTiFDxE=
+
+Name: res/drawable-hdpi/base_tip_btn_pressed_bg.9.png
+SHA1-Digest: vylidQJdIyeEpng4au9gInMobBI=
+
+Name: res/drawable-hdpi/biz_plugin_weather_sunny.png
+SHA1-Digest: 9EeOq/X/c8kXAyxkp9acqqUUtOg=
+
+Name: assets/img/loading4.png
+SHA1-Digest: hrpS/7Mh0SnUM/WdHOd2nkdbmO4=
+
+Name: assets/detailpage_image_border_bg.jpg
+SHA1-Digest: GRGb5CGxCgyfG1mJbHYUB+JF/WI=
+
+Name: res/layout/biz_forum_list_item_layout.xml
+SHA1-Digest: OMS/QELKgnPJWkvjwBGHgLbypcI=
+
+Name: res/drawable/biz_news_subscribe_tab_selector20.xml
+SHA1-Digest: t1HHLEgfn78akph0SR/pobUG3oA=
+
+Name: res/drawable-hdpi/sns_yiliao_icon.png
+SHA1-Digest: Iowy3baNTHTMlYX7ZQ3GKqLld1g=
+
+Name: res/drawable/base_pull_list_msg_indicator_drawable.xml
+SHA1-Digest: ZLsq+8cJX5Gg9rcngfOOztrtVyg=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_shanghai.jpg
+SHA1-Digest: AjaJpPbPTcAxNsfIxzS8Oj9WjeI=
+
+Name: res/drawable-hdpi/biz_plugin_weather_divider.png
+SHA1-Digest: j3QCbK1+CM5r7tixAS6NFvxmbx4=
+
+Name: res/drawable/biz_news_column_subsic_action_bar_action_recommend_
+ selector.xml
+SHA1-Digest: RXEH6P9gcVj2Z57+mFL8BWeBXxE=
+
+Name: res/drawable-hdpi/biz_widget_tag.png
+SHA1-Digest: J+g7SfPpHj4ga7ulKZxHXpapnf8=
+
+Name: res/drawable-hdpi/biz_offline_icon_success.png
+SHA1-Digest: BxqN/UxAMcx8s/HODe8QqJJouB0=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_normal_divider.png
+SHA1-Digest: Gqv1MV7jegzrwi6Uhr9XORJlCos=
+
+Name: res/drawable/night_biz_news_column_subscribe_add_selector.xml
+SHA1-Digest: g89sGfnDxeC99NyiUQvRExUDQaA=
+
+Name: res/drawable-hdpi/biz_yiyuan_banner.png
+SHA1-Digest: QaAT0gc3xyV4fh5EcHhSibP4Cd4=
+
+Name: res/drawable-hdpi/biz_plugin_searchnews_search_btn_pressed.png
+SHA1-Digest: LJ1BAqSUb6Ni0f60PPVgCJhQDgo=
+
+Name: res/drawable-xhdpi/biz_pc_score_bg_1.9.png
+SHA1-Digest: DjNZPdBWW7Lgkt4ClXs5uIETpO4=
+
+Name: res/drawable-xhdpi/night_biz_news_list_ohter_all_car.png
+SHA1-Digest: p58EkGtKcZMxueK+tG53HrfgpBg=
+
+Name: res/layout/base_action_bar_layout.xml
+SHA1-Digest: XOAt3uVk/nwr/tx9qugblfklsTQ=
+
+Name: res/drawable-hdpi/base_pull_list_msg_indicator_arrow_down_drawab
+ le.png
+SHA1-Digest: LoKadAXpoajxft4Y4G+j8jIxp7g=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_pics_pressed.png
+SHA1-Digest: M+l0mKuAAH+fajQ/WsJD8z4+7ME=
+
+Name: res/drawable-hdpi/base_dropdown_panel_bg.9.png
+SHA1-Digest: sua47z4abIaqd1jSpyUJlt8Xt9g=
+
+Name: res/layout/biz_news_showpic_layout.xml
+SHA1-Digest: vXIzavLkRiu5gy84nF4Vzvo5lIY=
+
+Name: res/drawable-hdpi/biz_accout_update_confirm_normal.png
+SHA1-Digest: hzVqnqzBg32zMYZJpMuRbZq6lik=
+
+Name: res/drawable-hdpi/biz_tie_comment_reply_editbox_bk.9.png
+SHA1-Digest: pKzSpsDvUSg4MR0mL1wBfajWSMA=
+
+Name: res/layout/biz_setting_guide_navi.xml
+SHA1-Digest: AYU5S7BYOusITjERcGBW5OqGb+E=
+
+Name: res/drawable-hdpi/night_base_light_netease_bg.png
+SHA1-Digest: tylLL3Pg+QDZp6bxu9LJeiyTkCk=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_propaganda_how_step1_bg.9.
+ png
+SHA1-Digest: 2DiGz7LmZEh3j9V+LM/ZuSkUwpU=
+
+Name: res/layout/biz_news_list_header.xml
+SHA1-Digest: FpydiA2IIlhNtQAXLNVQ8HbOeds=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_checked.png
+SHA1-Digest: PCBZ1UK3Q8us4QknQ64ITwF1l/Y=
+
+Name: res/layout/biz_tie_mycomment_list_layout.xml
+SHA1-Digest: URMKMkK9Tm+a8QR/j12WIRxffvI=
+
+Name: res/drawable-xhdpi/biz_ad_new_version1_img_bg2.jpg
+SHA1-Digest: igseZp5hsIjePHkFJBn7MgmeM/8=
+
+Name: res/drawable-xhdpi/night_biz_news_column_edit_btn_bg_pressed.png
+SHA1-Digest: 71YeJd2/t3iqVqo8/PleK55wyXU=
+
+Name: res/drawable-xhdpi/biz_pc_go_msg.png
+SHA1-Digest: 12qP2hf9p04aoU09ASSOwNUdsN8=
+
+Name: res/drawable-hdpi/sns_qqfriends_icon.png
+SHA1-Digest: UnfmZqZuPgg/UFNOnkxl5TstlaM=
+
+Name: res/layout/biz_fb_list_item_layout.xml
+SHA1-Digest: mGv14kDE0tdbAieR7Ca7iTGcUkY=
+
+Name: res/drawable/night_biz_ties_main_back.xml
+SHA1-Digest: BDgxhC/do9WitKNxQHP2O/zSixk=
+
+Name: res/drawable-hdpi/night_biz_account_location_icon.png
+SHA1-Digest: DQhy8qenrKmZhRXRZAnwn442gu4=
+
+Name: res/color/night_biz_navigation_item_color.xml
+SHA1-Digest: 2NobMzlrJ57hOomy57+RfdemNS0=
+
+Name: res/drawable-hdpi/night_biz_news_newspage_comment_icon.png
+SHA1-Digest: tpnHYX5xUPYe7xJUbUdUqMcSLqs=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_greater_300.png
+SHA1-Digest: RDMPxj1TX0gf3f94k7wrSve4Dr4=
+
+Name: res/drawable-hdpi/biz_news_column_subsic_ic_ok_pressed.png
+SHA1-Digest: hNO+OMDhLGnZomCStcYsavqhQl8=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_category_bg.png
+SHA1-Digest: 8haaY4zTg1EIKWDnfP20Cqr4ffo=
+
+Name: res/drawable-hdpi/biz_pics_ic_fav_tp.png
+SHA1-Digest: n3iiiAS+o+hedgX88ONL4IDvaes=
+
+Name: res/drawable-hdpi/base_list_pressed.9.png
+SHA1-Digest: AVyWywHVmqUlb40Lr0kWmnyG6x4=
+
+Name: res/anim/biz_ad_image_alpha.xml
+SHA1-Digest: fOKkV92QhIIS9iShuYPbtPX3vSQ=
+
+Name: org/jsoup/nodes/entities-base.properties
+SHA1-Digest: GGECs3/ztDnWbYv+CYzxzkBnoq4=
+
+Name: res/drawable-hdpi/biz_plugin_searchnews_search_tag.png
+SHA1-Digest: IbMAccVoz1MBC2nLNoN+Ttvqywc=
+
+Name: res/layout/biz_news_column_subscribe_recommend_second_layout.xml
+SHA1-Digest: s+d75wERN6b0OTr7CIDHmBYB27Y=
+
+Name: res/drawable-hdpi/night_biz_pc_favorit_comment_content_bg.9.png
+SHA1-Digest: OUsEb70HCNIWK4SKk2kHnCrAiCU=
+
+Name: res/drawable-xhdpi/night_base_action_bar_action_city.png
+SHA1-Digest: 3GLnOQZ81g/qGgdLo0vDMpUWVGw=
+
+Name: res/layout/biz_pc_account_accountwebviewregister.xml
+SHA1-Digest: HvTovESfOIDIRjI+TliYOcIpai8=
+
+Name: res/drawable/biz_plugin_manage_normal_check_selector.xml
+SHA1-Digest: dg/UNi+C2Df7faGquAmmkeo8EIc=
+
+Name: res/drawable-hdpi/base_search_edittext_bg_focused.9.png
+SHA1-Digest: AKf5KZ6E37qhKJE3c4tTDtBDyPk=
+
+Name: assets/column_item.png
+SHA1-Digest: HTeCSViXlpbJmPmg1YHQalsCFo4=
+
+Name: res/drawable-hdpi/biz_news_detailpage_comment_pressed.9.png
+SHA1-Digest: oAzVwWah/AlLP7MlNb5ufZhB/WU=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_local_news_pressed.p
+ ng
+SHA1-Digest: l5r328o2OxhBbo/RVttGEyc/a28=
+
+Name: res/layout/base_progress_dialog_layout.xml
+SHA1-Digest: C37iihShOHRtYNfNNrxqcMBThiU=
+
+Name: res/drawable-hdpi/night_app_recommend_arrow.png
+SHA1-Digest: Z3HPrZdhZg3GTTi8ofJ0zZ0IxwY=
+
+Name: res/drawable/biz_audio_btn_close_extra_bg.xml
+SHA1-Digest: Jtx9pM+fo0noqpuTxOaNEagVuw0=
+
+Name: res/drawable-hdpi/biz_news_detail_back_normal.png
+SHA1-Digest: QtV5utQddKsUrWSDrX4GImhqhSc=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_sina_big_type.png
+SHA1-Digest: 86p+3ZemiuIOLvtikfqA7DuHi38=
+
+Name: res/drawable-xhdpi/biz_pc_score_invite_step1.png
+SHA1-Digest: vLP6q508oG2Xba/fkFPCcOzh278=
+
+Name: res/anim/biz_ad_fade_in_fast.xml
+SHA1-Digest: wfPrKrwCRnejWguWsupcT1+dP7M=
+
+Name: res/drawable-hdpi/biz_tie_comment_toolbar_divider.9.png
+SHA1-Digest: g3rU7Fw/P1dsk0xXzg9/Enizgv8=
+
+Name: res/drawable-hdpi/biz_widget_refresh_4x1_pressd.9.png
+SHA1-Digest: zRZxALEdO4DbWMBnX7Er3Ne5FIE=
+
+Name: res/drawable-xhdpi/biz_pics_main_back_normal.png
+SHA1-Digest: 83Ygz+3QtF3yjdJ9Az5JwqHerd0=
+
+Name: res/anim/base_loading_small_anim.xml
+SHA1-Digest: albJa2A7WLM58DymLVe5ATJBZkA=
+
+Name: res/drawable-hdpi/base_photoitem_default_icon.png
+SHA1-Digest: E2FAQaRA9Mnq31OVyyU911Sl0OI=
+
+Name: res/drawable-hdpi/sns_default_icon.png
+SHA1-Digest: YXRjP2xflheVodzskWCurzY8YY8=
+
+Name: res/drawable-hdpi/biz_pics_set_item_icon.png
+SHA1-Digest: RC5j35rLxpUg1DxGLBtrgV+JHgo=
+
+Name: res/color/night_base_action_bar_overflow_list_item_text.xml
+SHA1-Digest: 7G86N8yfjE6sZZJFedXoOxTDc+s=
+
+Name: res/drawable/night_biz_plugin_manage_checkbox_selector.xml
+SHA1-Digest: JQe0t5oDWHhjHb4IMIZAxHByvQ0=
+
+Name: res/drawable-xhdpi/night_biz_news_list_other_finance_arrow_down.
+ png
+SHA1-Digest: ZqJkRRUH79BGQlNkAK5MWZlrcwY=
+
+Name: res/drawable-hdpi/base_search_edittext_bg.9.png
+SHA1-Digest: uFHpkihGuINTVcGlx4vDUru0V/0=
+
+Name: res/layout/biz_news_list_other_zhongchao.xml
+SHA1-Digest: RowlThft4gUJzwGdgBeOoGVKcwE=
+
+Name: res/drawable-xhdpi/biz_audio_wave_img1.png
+SHA1-Digest: CQ9Bf8apCAqnaz61AqZnFKH7Hdc=
+
+Name: res/layout/biz_plugin_video_play_layout.xml
+SHA1-Digest: nW4e4Enw4jtCYfYl4LS6OqsKKt0=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_recommend_yuanchuang
+ _normal.png
+SHA1-Digest: 1rI+eS7E9qKDV2Sn+uXwIg+x0tM=
+
+Name: res/drawable/base_action_bar_action_more.xml
+SHA1-Digest: G6eGsrGHZWt0pbOUr5/1e9wowX0=
+
+Name: res/drawable-hdpi/biz_topic_micro_detail_header.png
+SHA1-Digest: o29wgVLukx5vB2WTk9c7qUOLFMs=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_search_clear.png
+SHA1-Digest: S4ae308Ciiztd1BP4AcM0uUEbvo=
+
+Name: res/drawable-xhdpi/biz_pc_main_plugin_bg_repeat.jpg
+SHA1-Digest: 1AgnEgBO41fo+zUej+S4V3FSJjY=
+
+Name: res/drawable-hdpi/night_biz_pc_recommend_download_normal.png
+SHA1-Digest: t8MEC6/G+q1r/IGtM3ekA08mwh0=
+
+Name: res/drawable/netease_big_button.xml
+SHA1-Digest: 1iqQTKV6maCfxKBbbwG0kGNmkq0=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_news_normal.png
+SHA1-Digest: 7gcAyO5PusCbqfr44sva191Ljg8=
+
+Name: res/drawable-hdpi/biz_tie_user_avater_bg.png
+SHA1-Digest: /cqG3gqITHUa+LLb0VAjWmaQ5So=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_qiche.xml
+SHA1-Digest: DXxkg2yA+/dm9JNYHDXX8Dt/m54=
+
+Name: res/drawable-hdpi/night_base_list_divider_drawable.png
+SHA1-Digest: yxrcXiH2lQTEcMmrHarR12k9n/g=
+
+Name: res/layout/biz_news_list_other_finance_details_actionbar_refresh
+ .xml
+SHA1-Digest: kbBwWojvUPeyGcJRp28+AAwBZsU=
+
+Name: res/drawable/night_biz_pc_recommend_open_selector.xml
+SHA1-Digest: WfvuosC5KpLFnotO2DR+6Slf+po=
+
+Name: res/layout/biz_news_list_other_finance.xml
+SHA1-Digest: 6Z7KO7yvTESeNLYWiADD73+1u+E=
+
+Name: res/drawable-hdpi/biz_news_list_other_finance_details_divider_dr
+ awable.png
+SHA1-Digest: QqwvOzKNShGCJxvk3vuBG4JdCnE=
+
+Name: res/drawable-hdpi/biz_ad_slogan.png
+SHA1-Digest: QO4rBfwGxXdYdja5DpqQIQekj/0=
+
+Name: res/layout/biz_subscribe_media_recommend_list_item_header.xml
+SHA1-Digest: I67tWKXIR6GkW6gTic21Hd9F9h8=
+
+Name: res/drawable-hdpi/biz_topic_micro_video_cover.png
+SHA1-Digest: U8clYlyUmFfKqMcEU1yQ7A14nPc=
+
+Name: res/drawable-hdpi/biz_vote_yellow.png
+SHA1-Digest: qRluRcIIvgLM7/djgOsyma6MkR0=
+
+Name: res/drawable-hdpi/biz_widget_4x1_left_pressed.9.png
+SHA1-Digest: ncmZAetAD7IUVPfoYVdXxoNLlew=
+
+Name: res/drawable-hdpi/biz_live_news_live_score_bg.9.png
+SHA1-Digest: c//kJLC/+zdcRApyhUbwrhwZxK8=
+
+Name: res/drawable-xhdpi/biz_micro_main_back_normal.png
+SHA1-Digest: soXvEUt4vF/8VAVXADCVl3YyQoI=
+
+Name: assets/gethtmlwidth.html
+SHA1-Digest: ZCLw4F83UivtQmu3gjSbRWn83Ps=
+
+Name: res/drawable-hdpi/biz_account_logout_icon.png
+SHA1-Digest: VeuH1Rs2voo03mWz5r8jKq9nkCw=
+
+Name: res/drawable-xhdpi/biz_audio_btn_show_extra.png
+SHA1-Digest: VPLXHrNXzK4E6SW6v/IuThdTS2s=
+
+Name: res/drawable-xhdpi/night_biz_news_list_other_finance_header_arro
+ w_up.png
+SHA1-Digest: Blkl9F7JwD4IuE6vXPDXEQ6oEcc=
+
+Name: res/drawable-hdpi/biz_sns_weixin_icon4wx.png
+SHA1-Digest: LgPEC/YaW6pAgoyS37uH7wmC9CM=
+
+Name: res/drawable-hdpi/night_biz_pc_account_register_btn_normal.9.png
+SHA1-Digest: eeze4JqhLCcrk8TmbqMYVlx2TKY=
+
+Name: res/drawable-hdpi/night_biz_forum_author_icon.png
+SHA1-Digest: tkeWI9j7R0uvoRKHkSPWnAPjPIM=
+
+Name: res/layout/biz_vote_submit_item.xml
+SHA1-Digest: CGqwzXtT7qabuLg9UqQXwtpkfHw=
+
+Name: res/drawable-hdpi/night_biz_score_mall_prize_default_bg.jpg
+SHA1-Digest: 6SbhOtHqu/P8j2l1hK2QbDm4dgs=
+
+Name: res/drawable-hdpi/biz_font_default.9.png
+SHA1-Digest: BpSsouoWxq9eu0CBtn0zzv+0F+8=
+
+Name: res/drawable-hdpi/shehui_normal.png
+SHA1-Digest: 4QfVnG0lEB5JMV4bW84sVGx0wuI=
+
+Name: res/drawable-xhdpi/night_biz_news_list_tag_timeconsuming.png
+SHA1-Digest: ViyY4s3qILrqvsrK5U7hsvhEYTs=
+
+Name: res/layout/phone_main_micro_layout.xml
+SHA1-Digest: JeXCN0MZEgVWIRzjKbv3C7+4//Q=
+
+Name: res/drawable/biz_radio_pause_selector.xml
+SHA1-Digest: cg+X1lneska5zwrM5Y1AMcEP8XU=
+
+Name: res/drawable/night_biz_navigation_tab_ties.xml
+SHA1-Digest: DTWw/J9RI7kMyFZvrWLYtSdWjJU=
+
+Name: res/drawable/night_biz_news_column_tabpager_indicator_edit.xml
+SHA1-Digest: YTnBNZA6LAsBIgeUB9seOVSKzuE=
+
+Name: res/layout/biz_special_news_list_noimg_item.xml
+SHA1-Digest: vIkLzTBT5sXI4uOnQH5Eb1q+YAs=
+
+Name: res/layout/biz_vote_result_layout.xml
+SHA1-Digest: +5YYcT97MqE7qf11wB9QVH26FxU=
+
+Name: res/drawable-hdpi/night_sns_weixin_icon.png
+SHA1-Digest: bwskkXDJFuHbP52Yf6eO5sEzF8U=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_qq_big_type.png
+SHA1-Digest: eSFAENEkYxBkmAjdRiMl0DyZXJY=
+
+Name: res/drawable-hdpi/night_biz_news_list_tag_video_bg.png
+SHA1-Digest: 1Ot/UceK5rfrG1quyn/99xOtzL4=
+
+Name: res/drawable/biz_font_default_btn_selector.xml
+SHA1-Digest: heYGmiGbEv+2joWU2GFjIHe5mew=
+
+Name: res/layout/biz_plugin_weather_indicator_popup.xml
+SHA1-Digest: qIzBIUyvDD15jBNYO0DLeeD3hcA=
+
+Name: res/drawable-xhdpi/biz_pc_list_theme_icon_day.png
+SHA1-Digest: USdf+Iyq2PjHhS44ZtY9OXC3g4o=
+
+Name: res/drawable/biz_ad_version1_btn_selector.xml
+SHA1-Digest: jLVFpGAn/bOvTaRe6+VFWKL0vW8=
+
+Name: res/drawable-xhdpi/biz_read_main_back_normal.png
+SHA1-Digest: XGZXxklcf1o+DzFumoO76pKtWLU=
+
+Name: res/layout/biz_pc_score_task_invite.xml
+SHA1-Digest: hOxyd/u0j54b2WQmcY5zFhT604c=
+
+Name: res/layout/biz_micro_list_child_layout.xml
+SHA1-Digest: 6Wb+suiY26AcGmP5yhd71AkB49U=
+
+Name: res/drawable-xhdpi/biz_audio_wave_img5.png
+SHA1-Digest: D01z1tQU4qwuFYj5dM8VikbNzvQ=
+
+Name: res/drawable/biz_navigation_tab_voted_bg.xml
+SHA1-Digest: hEzuexHes0qDrzTxUWUDpVHrNW8=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_checked_pressed.png
+SHA1-Digest: a/6MPJ29RD78L+C/UlBARS5FhqY=
+
+Name: res/drawable/base_tabpager_indicator_item_bg.xml
+SHA1-Digest: MEgDghiBeCH+Bp26BdFTma7LQjA=
+
+Name: res/color/night_biz_sns_manager_title.xml
+SHA1-Digest: ho+vKtWvGSYvfqLH/POSMKx7UfE=
+
+Name: res/drawable-xhdpi/biz_account_score_add_show_bg.9.png
+SHA1-Digest: PGKg2wmR79V2o5g7IZjFfB9AQbo=
+
+Name: res/drawable/night_biz_pc_score_list_selector.xml
+SHA1-Digest: 6tQjnC0WI8P44x80jjVYiVnhtyE=
+
+Name: res/drawable-hdpi/night_biz_news_subscribe_action_columns.png
+SHA1-Digest: 9jLTUESoWZ78lRqwhiUU11lGAmg=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_chuzhang.png
+SHA1-Digest: Dib4PFwYiD8B23jb8kyMVsnO0a0=
+
+Name: res/drawable-hdpi/biz_news_column_drag_normal.png
+SHA1-Digest: j5bKPXGeCorHZVlmrIsR4Ni/c5Y=
+
+Name: res/drawable-hdpi/biz_widget_next_btn_select.png
+SHA1-Digest: deVNtS/9guoDPvjy1+lCP4UgJ3M=
+
+Name: res/drawable-hdpi/night_noraml_check_off.png
+SHA1-Digest: 9G/yRIMt3kbVZjWcIExdQx31X4c=
+
+Name: res/layout/phone_main_tie_layout.xml
+SHA1-Digest: CgNARWaMUj22WxlTpM61djxtuJU=
+
+Name: res/drawable-xhdpi/night_biz_pread_item_like_selected.png
+SHA1-Digest: Hw7rw+NcYy+lQcLJmc0p6nLidsk=
+
+Name: res/drawable-xhdpi/biz_pc_main_fukezhang.png
+SHA1-Digest: ZuWsw4zoAJ1yeZURqN86lndWg9o=
+
+Name: res/drawable-sw600dp/base_list_divider_drawable.png
+SHA1-Digest: dPvaXXxgJMMpYHL9/b4DM6vpj6E=
+
+Name: res/drawable/biz_pc_main_plugin_bg.xml
+SHA1-Digest: Pz1sQCqGbsjD7WuPWcYful6W3zI=
+
+Name: res/drawable-hdpi/biz_recommend_netease_icon.png
+SHA1-Digest: nex+mhuKFM7gXKce5wzVthMleY0=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_actionbar_cancel_nor
+ mal.png
+SHA1-Digest: m9XlERENCDtYw3F22atjKLqOS7c=
+
+Name: res/layout/biz_news_column_subscribe_group_item_layout.xml
+SHA1-Digest: JCsKqDrAaZC7Zn5m0eWbXjikwvQ=
+
+Name: res/drawable-hdpi/biz_yiyuan_open.png
+SHA1-Digest: k/fyYNqHXS5y2cJ4eMDnmA38498=
+
+Name: res/drawable-hdpi/biz_micro_detail_devider.9.png
+SHA1-Digest: E0hhaxipFjw3rszgVNSQ2bwIrqE=
+
+Name: res/layout/biz_special_news_header_webview_item.xml
+SHA1-Digest: yXaZNTIBiBRnzstq89D1dpstxCc=
+
+Name: res/drawable-hdpi/night_biz_micro_detail_devider.9.png
+SHA1-Digest: UPk4F3w45g3qWgeIbjC7Jo0mAFU=
+
+Name: res/layout/biz_tie_comment_toolbar_layout.xml
+SHA1-Digest: RehmDzM5SOx2W+VJ0bEh+QaofAc=
+
+Name: res/drawable-hdpi/night_sns_netease_icon.png
+SHA1-Digest: YRY9lHX9j7u67WEOydqmdYPjnho=
+
+Name: res/layout/biz_pic_action_bar_overflow_list_item_layout.xml
+SHA1-Digest: sAmHM3PZWt7k81eI0A9c1PLeo54=
+
+Name: res/drawable-xhdpi/biz_audio_header_img_tag.png
+SHA1-Digest: I51LAI6rRLpTXEGKn1w8T8HGuEs=
+
+Name: res/drawable-hdpi/biz_widget_tag_small.png
+SHA1-Digest: bZ91tHgkhkvY91ISy+8eg9kZ6Ns=
+
+Name: res/drawable-xhdpi/biz_pc_main_item_pressed.9.png
+SHA1-Digest: kRZSYdyRr0LN5MKBuTXaeZVWOus=
+
+Name: res/drawable-xhdpi/biz_score_level_progress.png
+SHA1-Digest: z464B/0ByWoTI0wMm6MngE29wZQ=
+
+Name: res/drawable-xhdpi/biz_pc_list_theme_icon_night_dark.png
+SHA1-Digest: RWHP2sF8ijOI7IC40TelQsHqrmw=
+
+Name: res/drawable-xhdpi/night_biz_news_list_ohter_race_icon.png
+SHA1-Digest: kEubzJpkVpgpmJKLIoTOfv2fXzo=
+
+Name: res/drawable/night_biz_subscribe_media_recommend_item_subscribe_
+ selector.xml
+SHA1-Digest: 5myHmMntYe5LgDb1x+6HTMD9dLE=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_orig_normal.9.png
+SHA1-Digest: aNt4IOwPewP3g2rTmW3R55NlluA=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_keyuan.png
+SHA1-Digest: e69vFUOPgwV3ctS+NG7oRNAbErM=
+
+Name: res/anim/base_slide_right_out.xml
+SHA1-Digest: AVYS9VGQ+5Ut0h6liYTtmVO5n2I=
+
+Name: res/drawable-hdpi/junshi_normal.png
+SHA1-Digest: toLrNTY0XXgaucE/4VwAFE7TDrc=
+
+Name: res/drawable-xhdpi/biz_audio_extra_list_pressed.png
+SHA1-Digest: 1Okqpa9gto/FoYx8aHsm1UQ7Go0=
+
+Name: res/xml/setting.xml
+SHA1-Digest: 0mCokbYYOeQIkEB7pmNJKrH2/PA=
+
+Name: res/anim/biz_news_column_edit_fade_in.xml
+SHA1-Digest: XWJWP5o23HaUGNtAEoAoXCKO/tY=
+
+Name: res/drawable-sw600dp/night_biz_pc_recommend_open_normal.png
+SHA1-Digest: K6zAHgmDb6eZgUfh6yGXenh8JAI=
+
+Name: res/drawable-hdpi/biz_news_list_tag_bg.9.png
+SHA1-Digest: W/rsXF5APam6JpW5kMxS6ze4eHE=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_normal_bg_pressed.png
+SHA1-Digest: 06+gs9ZdNo+xlCVU4z5h3Ihweyg=
+
+Name: res/layout/biz_audio_notification_layout.xml
+SHA1-Digest: JU/S1QgNFmHTqkKMZ2XiISHuKaI=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_51_100.png.png
+SHA1-Digest: sPjmIHeaWegG4ca4ejrLgeAqUkY=
+
+Name: res/drawable-sw600dp/biz_sns_publish_pic_tag.png
+SHA1-Digest: L+DpJY1gSJ6QXeRop5qekLfavXs=
+
+Name: res/drawable-hdpi/biz_offline_icon_failture.png
+SHA1-Digest: TmKXZkT3xod2mwyAxix8jnAyGPo=
+
+Name: res/drawable-hdpi/shouji_normal.png
+SHA1-Digest: SEM/WqQOKdbC+fSYzBYUmakQua4=
+
+Name: res/drawable-xhdpi/biz_pc_list_setting_icon_dark.png
+SHA1-Digest: 1UEiDzzFR39azJR/uw9Aatz7Rx8=
+
+Name: res/layout/biz_pic_loadingbar_layout.xml
+SHA1-Digest: qwpVhGDtJVM2T4JR1H4NBBdKWiI=
+
+Name: res/drawable-hdpi/night_base_action_bar_back_divider.png
+SHA1-Digest: Qk2s8qyFDaz+gjt98IiHI9Svzaw=
+
+Name: res/drawable-hdpi/cover.png
+SHA1-Digest: N+/lIR7Wbuwh4RwijGsUrsqPWo4=
+
+Name: res/drawable-hdpi/biz_news_recommend_indicator2.png
+SHA1-Digest: xVcgNV87zF7ZTui4Q9VYRZhmHQE=
+
+Name: res/drawable-xhdpi/biz_pc_list_theme_icon_day_dark.png
+SHA1-Digest: 03CQPdCU7zk0GgYEKPIMQQ/pI8o=
+
+Name: res/drawable-hdpi/night_biz_pics_set_item_icon.png
+SHA1-Digest: BWy4dxSv7ambxEP4ZWRpTDnfSrA=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_mail.png
+SHA1-Digest: IKkQklONlwibL3aYGTSdueFr3bo=
+
+Name: res/drawable/biz_news_subscribe_item_selector.xml
+SHA1-Digest: zaTiriGEqkUSap0vZQPXDs89F0g=
+
+Name: res/drawable-hdpi/biz_tie_comment_tool_reply.png
+SHA1-Digest: 1j2HSXY4/fKcDDcHJdPcPOOEklc=
+
+Name: res/layout/phone_main_pager_tab_layout.xml
+SHA1-Digest: A5/fI2/yPd7BxYd4wvIxByCq7yE=
+
+Name: res/layout/biz_vote_multi_submit_item.xml
+SHA1-Digest: zTB2jtCwWI8ufyWR6lYq7EuQXEA=
+
+Name: assets/topic_subscribed.png
+SHA1-Digest: 2zwRZ0LhdZyvgkImdwkVkRnx1Ks=
+
+Name: res/drawable-xhdpi/biz_ad_version1_btn_normal.9.png
+SHA1-Digest: yH6aNX75HkLZ4Jo0PPXSTzQ4RUU=
+
+Name: res/drawable-xhdpi/night_biz_news_list_other_finance_header_arro
+ w_down.png
+SHA1-Digest: pOfhXMrw3ebBF/+2+cyLIGRekIs=
+
+Name: res/drawable-hdpi/ic_test.png
+SHA1-Digest: 8OYaWtYRk9PLK40JSOSdDzFIty0=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_default_icon.png
+SHA1-Digest: h07gOkQkgyrr90bEZ8n+M6mZZII=
+
+Name: assets/com.tencent.plus.gray_normal.png
+SHA1-Digest: P6NA2qEQVIJ4nGyUaUEQaY6LYrQ=
+
+Name: res/drawable-hdpi/base_action_bar_main_more_pressed.png
+SHA1-Digest: LEUXWZRwxGv3HP36V7UxIh0ps5A=
+
+Name: res/drawable-xhdpi/biz_news_list_tag_live_bg.png
+SHA1-Digest: NFE8aSmiZC/m93UUGXu055DaUr4=
+
+Name: res/drawable-hdpi/biz_topic_vote_item_selected.9.png
+SHA1-Digest: VpsUCswHcIo/VQUz/pKG7+fOEh8=
+
+Name: res/drawable-xhdpi/biz_pc_account_line.png
+SHA1-Digest: pBqVGwXrL/McScXXBbg6+JWWrcE=
+
+Name: res/layout/biz_pc_plugin_offline_extra_layout.xml
+SHA1-Digest: g4c+ChZOP+eq0jUJNW9o6P1XTR4=
+
+Name: res/drawable-hdpi/biz_sns_publish_send_pressed.png
+SHA1-Digest: vZl3qMU7TG2XBlkWn0taXXVgi/I=
+
+Name: res/drawable-hdpi/news_live_grouptitle_bg.png
+SHA1-Digest: 1A74oLsYlPiYrV3+bIEVCFzNL9w=
+
+Name: res/drawable-hdpi/biz_news_local_weather_fg.9.png
+SHA1-Digest: MlpnQguplmveafk2NYRuDeVeGX8=
+
+Name: res/drawable-sw600dp/sns_sina_icon.png
+SHA1-Digest: Bm9OMCzhIf3NlPwxLQArjhjfsA8=
+
+Name: assets/night_weberror.html
+SHA1-Digest: 37AsMclsARkw1mbXX8ZLSv2Vk5w=
+
+Name: res/drawable-hdpi/biz_subscribe_media_recommend_item_subscribe.p
+ ng
+SHA1-Digest: EXhOPC9gbgyIMROrkb9UCeIjbCg=
+
+Name: res/drawable-hdpi/biz_sns_publish_pic_bg.png
+SHA1-Digest: l3i2u5noHnCVw4uaHPMMtosU1as=
+
+Name: res/drawable-xhdpi/biz_pc_main_prize_icon.png
+SHA1-Digest: qqCVGQNb+fxtCvKJWCC5I9FR04s=
+
+Name: assets/img/loading2.png
+SHA1-Digest: ppdqmuxCNMXk5pmL8KUMHzsBNWc=
+
+Name: res/drawable/night_biz_polymeric_tag_indicator_dots.xml
+SHA1-Digest: YqkCQFRYUDJjDqpoFG5MgXsVUlM=
+
+Name: res/drawable-hdpi/biz_news_specialmedia_default_bg.png
+SHA1-Digest: DmR5xkjXbyiH/u6hhj9730QStIE=
+
+Name: res/layout/toast_widget.xml
+SHA1-Digest: eIhprIBnPL4LaF2G/uxPxvPQF0Y=
+
+Name: res/layout/biz_vote_submit.xml
+SHA1-Digest: S8z7trVO1j+G+0zp7Ow9xWGNiDc=
+
+Name: res/layout/biz_setting_fragment_layout.xml
+SHA1-Digest: +Dg1u9iUk5ejlu/UN49s0ViwWP8=
+
+Name: res/drawable/biz_navigation_tab_pics_bg.xml
+SHA1-Digest: T7ViNijxbKZtkhZIkygHA11oJeo=
+
+Name: res/drawable-hdpi/biz_special_news_cover.png
+SHA1-Digest: MRTYbZeiuCHO9wqPCL9uNtbj0kA=
+
+Name: res/drawable-hdpi/night_biz_news_subscribe_group_divider.png
+SHA1-Digest: HmhvN2mByWXjDESRDjbR2vkQLyA=
+
+Name: res/layout/base_dot_indicator_item.xml
+SHA1-Digest: eew6CAtmnVv5oqzEjoHQCzom9Ck=
+
+Name: res/drawable-hdpi/night_base_action_bar_action_more_pressed.png
+SHA1-Digest: qbfPsMKoD5lQr6pXDluHhAnFQIY=
+
+Name: res/drawable-hdpi/sns_yixin_timeline_icon.png
+SHA1-Digest: AFTi3M0VX9tcfxrYGa/PllWbOzI=
+
+Name: res/drawable-xhdpi/biz_about_bg_component.jpg
+SHA1-Digest: yEnWnVLIXM0Y3zKZ4gNm1OPXYz4=
+
+Name: res/drawable-xhdpi/biz_pc_main_activity_icon.png
+SHA1-Digest: Fe3dnY3VIjGYff7281E5VFytAyI=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_ugc_pressed.png
+SHA1-Digest: 9PMCUUh2/1J1riSKqPdpZIXJ/40=
+
+Name: res/layout/biz_pc_plugin_item_layout.xml
+SHA1-Digest: X4xJ579NUBcc2GY1vEyG3x8VWj8=
+
+Name: res/drawable-hdpi/biz_pc_list_offline_btn_pressed.png
+SHA1-Digest: m/eF7QdBsZtu+eiLxTCt7gmaPhk=
+
+Name: res/drawable-xhdpi/biz_audio_btn_bg_pressed.png
+SHA1-Digest: yXjlOiegK4Mfw9m0ZB65YM6CNcw=
+
+Name: assets/comment.css
+SHA1-Digest: 4EImfZz8mT+l2PtWuRGFXK4CCBs=
+
+Name: res/layout/biz_plugin_searchnews_searchlistview.xml
+SHA1-Digest: cdWevyvWCxrOeVBEzJS91yS+z5U=
+
+Name: res/drawable-hdpi/night_biz_account_edit_icon.png
+SHA1-Digest: w7UeMLHSmwY0+nMhdm2EYgsQY1Q=
+
+Name: res/layout/biz_news_subscribe_usual_listview.xml
+SHA1-Digest: vek9AeJnHkDwfcCHS0SP5Bzaea8=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_weather.png
+SHA1-Digest: gCEFVKv+bzDpgGsHQTS3B8PEGs0=
+
+Name: res/drawable-hdpi/night_biz_subscribe_media_recommend_item_bg_pr
+ essed.9.png
+SHA1-Digest: zGBp+4bZKC78iJpHovkOB3UFI98=
+
+Name: res/drawable-hdpi/base_list_header_default_icon.png
+SHA1-Digest: k+WvWe0fJ34S3qjoj2edsqiASg0=
+
+Name: assets/night_view_more.png
+SHA1-Digest: sTaxxriDTjbLb+vcUAxZrUT3ACs=
+
+Name: assets/night_digest_tag_bg.png
+SHA1-Digest: 3OP/DTwwICsJOncXzgp2/Ir9+m0=
+
+Name: res/drawable-hdpi/biz_yiyuan_download.png
+SHA1-Digest: CFTEmoN5UjtIYGvMm+t+QxUex14=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_ugc.png
+SHA1-Digest: R6Zn7s+mHHRThk0xpUX/QJbxVJM=
+
+Name: res/anim/biz_news_column_edit_fade_out.xml
+SHA1-Digest: /FbOdqlAgTUDj12c/AsbKLww50I=
+
+Name: res/drawable-xhdpi/biz_news_column_edit_btn_back_pressed.png
+SHA1-Digest: J9pG+FdS2JhvF61YRtAY3KHztYg=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_orig_pressed.9.png
+SHA1-Digest: F7Upd4uDkQMxT9mdi3JmrzuP5Bs=
+
+Name: res/drawable-hdpi/biz_tie_comment_reply_fade.9.png
+SHA1-Digest: lYi8Usebd+Xo1wq244AnWfPDil4=
+
+Name: res/drawable/night_biz_pics_main_back.xml
+SHA1-Digest: Wts65WNgQlSlP9+kLD+jj5OsTPc=
+
+Name: res/drawable-hdpi/base_big_img_clickload.png
+SHA1-Digest: CjrlONzubHKlBuJjEMln12X9l2E=
+
+Name: res/drawable-xhdpi/biz_pc_main_score_undone.png
+SHA1-Digest: iygpEJQpHx0DTO7idhROPf3m14Q=
+
+Name: res/drawable-xhdpi/biz_pc_main_money_big_icon.png
+SHA1-Digest: TM1BJxHnQHZL5BI6o4bEGF0LY1Q=
+
+Name: res/drawable-xhdpi/biz_news_column_subscribe_cancel.png
+SHA1-Digest: Hh8DXeRaqisHzSURZconUu00XbY=
+
+Name: res/drawable/night_biz_news_subscribe_item_pressed_bitmap.xml
+SHA1-Digest: 0iBU21FVyO/6qYUNVlWvsc+QSQY=
+
+Name: res/layout/biz_tie_comment_group.xml
+SHA1-Digest: aytlR7OAlOPoMRLVsBjXqoOVpkk=
+
+Name: res/drawable-hdpi/biz_tie_mycomment_empty.png
+SHA1-Digest: YoaHLZBEF7v5gN0kifsN8E5Ki14=
+
+Name: res/drawable-xhdpi/biz_pc_main_divider.png
+SHA1-Digest: S/z9PrT/HgS6Mh9199VL4UOBX90=
+
+Name: res/layout/base_fragment_layout.xml
+SHA1-Digest: BZG+gs7/Yu03B4Ybiu+Qrec3/sI=
+
+Name: res/drawable-hdpi/biz_pics_action_bar_bg.png
+SHA1-Digest: GzarPzwI+uLM7Gi3Gv/I4C3iG7o=
+
+Name: res/drawable-hdpi/night_base_navi_layout_bg.9.png
+SHA1-Digest: FpJR7Gs+VMO0mn6M5kMJL1QkS04=
+
+Name: res/drawable-xhdpi/night_biz_read_main_back_pressed.png
+SHA1-Digest: 9WFEoHxEFXLA2muY8w+h4flvCjE=
+
+Name: res/drawable/biz_pc_plugin_list_theme_icon.xml
+SHA1-Digest: 1XlkeZOvoSKka++raM4fjfthukY=
+
+Name: res/drawable-hdpi/app_recommend_arrow.png
+SHA1-Digest: nzSBhtnzKVfJalj6/0Ghkrf4DPI=
+
+Name: res/drawable/biz_pics_detailpage_comment.xml
+SHA1-Digest: WMVLQZuFYS2gluu4nP/JmWTcOTE=
+
+Name: res/drawable-hdpi/biz_widget_pre_btn_selected.png
+SHA1-Digest: xw8yQqFQ+5mONRcSrzDlh+cVGCA=
+
+Name: res/drawable/night_biz_pc_person_center_layout_bg.xml
+SHA1-Digest: XgmSvNqObiDcEbH+aEn44maoKMU=
+
+Name: res/drawable-hdpi/biz_pc_list_offline_pause.png
+SHA1-Digest: FnL9u6CqO2m3fExtHGnjWDhRIH4=
+
+Name: res/drawable-xhdpi/biz_news_list_other_finance_arrow_down.png
+SHA1-Digest: mXfEuUycRJ5eXkRXCNsc6BCon6M=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_zhongxue.png
+SHA1-Digest: 7dblCGEud4GeEV8RIVoy0ReDhHk=
+
+Name: res/drawable-xhdpi/biz_pc_list_extra_plugin_icon.png
+SHA1-Digest: 5GJefGCRUnB/veFw1JipcXS6bDU=
+
+Name: res/drawable-hdpi/biz_tie_comment_latest.png
+SHA1-Digest: 3NRcR3TLxIYTy4ky1YFlIM75s6U=
+
+Name: res/drawable-xhdpi/biz_vote_selected.png
+SHA1-Digest: 9BaFzR4x6+J3avERdSF0pzqvrWc=
+
+Name: res/drawable-hdpi/night_base_send.png
+SHA1-Digest: tyJChWL7nFG71Zm2GuAcOFNHrvQ=
+
+Name: res/drawable-xhdpi/biz_news_column_edit_btn_bg_pressed.png
+SHA1-Digest: wp+s8RvgDnIUGJ4vHshNBWZ2kD4=
+
+Name: res/layout/biz_fb_list_layout.xml
+SHA1-Digest: Lz2rNRyWUSV8wemk6bQFyc2pW+w=
+
+Name: res/drawable-hdpi/night_sns_yixin_icon.png
+SHA1-Digest: lsjlZdDSf7TmuW3BQJflRFjc4u8=
+
+Name: res/drawable/biz_sns_publish_send.xml
+SHA1-Digest: nJIGUJQJmyjpvgYENHmM2XSGlU4=
+
+Name: res/layout/biz_vote_list_item_layout.xml
+SHA1-Digest: AwfZcxm19sNLB6mhuoDMF1mXNhE=
+
+Name: res/drawable-hdpi/biz_special_media_bg.9.png
+SHA1-Digest: WJfuL73fnV/EHlsPpAlyhT3Qzg4=
+
+Name: res/drawable-xhdpi/biz_pc_main_setting_icon.png
+SHA1-Digest: CKeESld+Ch42nhn5m0G6fq3mm1k=
+
+Name: res/layout/biz_polymeric_item_2.xml
+SHA1-Digest: m254hrHec4jJFqkWdFiVOmXBDdk=
+
+Name: res/drawable-xhdpi/biz_pc_score_invite_step2.png
+SHA1-Digest: PGrqgJhcnN60A3434dMyV+qgs8A=
+
+Name: res/drawable-hdpi/night_sns_qqfriends_icon.png
+SHA1-Digest: 3kTBE8POSpfJeYReDT94MA/NbP4=
+
+Name: res/drawable-xhdpi/biz_pc_score_bg_2.9.png
+SHA1-Digest: dO/0S5IiHX23vTqqslP0/q+Kljc=
+
+Name: res/layout/biz_micro_list_group_layout.xml
+SHA1-Digest: iAkoC60cgptwPXtlE8i4p35mL1g=
+
+Name: assets/night_detailpage_image_border_bg.jpg
+SHA1-Digest: f4TgJcs8FK6p8KEuPO1SEF+4WtQ=
+
+Name: assets/multivote.png
+SHA1-Digest: XHmVL9IA0q9MmJyPikOME83LMTQ=
+
+Name: res/drawable/biz_audio_comment_action_view_bg.xml
+SHA1-Digest: 8coWiNn1SaGMjzLzP9zbPcNPmzQ=
+
+Name: res/drawable/biz_pc_plugin_list_theme_icon_dark.xml
+SHA1-Digest: 9q8hpDasN6S4h0O4iazfAmfK1Hc=
+
+Name: res/drawable-hdpi/biz_yiyuan_cancel.png
+SHA1-Digest: 4CRvPyAPI+2Mwu1x4T9sk4Fm+BQ=
+
+Name: res/drawable-xhdpi/night_biz_audio_btn_play_bg_pressed.png
+SHA1-Digest: QA4I0VgdTyUC9WGf5xce2bh4jMg=
+
+Name: res/layout/test_viewpager_layout.xml
+SHA1-Digest: 7DzqbWEZLrYju7wZVF1aiTiwtpo=
+
+Name: res/drawable-xhdpi/biz_pc_go_favor.png
+SHA1-Digest: eg61HGicKPgMOiDudG5xyaqv90I=
+
+Name: res/drawable-hdpi/biz_pc_list_offline_cancel.png
+SHA1-Digest: jfTEROE9PNaA0Acvlo6HiXjtucY=
+
+Name: res/drawable-xhdpi/night_biz_news_column_edit_btn_bg_normal.png
+SHA1-Digest: j9qMiYWchHFiR1ZCGpEuPeKcaZI=
+
+Name: res/drawable-hdpi/night_biz_topic_micro_netease_type.png
+SHA1-Digest: ez92dSN2g62aPxZhKM2ON6WBiOM=
+
+Name: res/drawable-hdpi/night_biz_main_tab_divider.png
+SHA1-Digest: il5bLKmdnHPlZpQTGOZ4NzZgHbA=
+
+Name: res/drawable/biz_topic_micro_action_trasmit_selector.xml
+SHA1-Digest: F0FXoW8CVfxpQFOiTU5FJvuRlKY=
+
+Name: res/drawable-xhdpi/night_biz_account_score_add_show.png
+SHA1-Digest: J62uhw5GH1fMA/z4aDT4OxifxZM=
+
+Name: res/drawable-hdpi/biz_news_column_delete_checked.png
+SHA1-Digest: 2j3S09U/rYsEWBmxXpLKXUidDGk=
+
+Name: res/layout/biz_live_news_live_header_layout_scores_item.xml
+SHA1-Digest: YzveiDhbKDKjOcLfWMVTVa/DU5M=
+
+Name: res/anim/base_slide_left_in.xml
+SHA1-Digest: ipqvVcYO7t6KQo7T1UJspJWrSbw=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_micro_pressed.png
+SHA1-Digest: G+HggZnBCu8QctngVNnuvbuNqyc=
+
+Name: res/anim/vote_percent.xml
+SHA1-Digest: 8AEYN1eVOvacw+uweU+3/1/GKQ4=
+
+Name: res/drawable-hdpi/biz_news_detaila_action_bar_bg.png
+SHA1-Digest: 9YwYOnZ8JhRhIPlmCRwalCT/xtI=
+
+Name: res/drawable/biz_navigation_tab_micro_bg.xml
+SHA1-Digest: 9FkFfD1MuOneo1rcmDrezyagXuw=
+
+Name: res/drawable-hdpi/biz_pics_action_bar_action_more_pressed.png
+SHA1-Digest: SOlh939uryt3RyjcliwQXYWHtFI=
+
+Name: res/drawable-hdpi/biz_vote_bule.png
+SHA1-Digest: AC5xEFjWo4Xt4JL8tPt/Tej79m4=
+
+Name: res/layout/biz_topic_micro_list_layout.xml
+SHA1-Digest: F/yMwGPp+IydsppmKHGPdQxJq9g=
+
+Name: res/drawable/biz_pc_recommend_open_selector.xml
+SHA1-Digest: jeGB/QrYCw8VW6Soflr/9tHd2QE=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_tedabaoyu.png
+SHA1-Digest: Qbm9pckz7PD1ioAMFPWVLtLFPiY=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_category_bg.png
+SHA1-Digest: iQNCEugw35NyTikC2SQxqzpYqqI=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_tiyu.xml
+SHA1-Digest: dLhAXLsLUMMkzBY/BXJ+4b0G3XY=
+
+Name: res/drawable-xhdpi/biz_pc_plugin_prompt.png
+SHA1-Digest: P7LYTFV9dxbtNs1Dtk3660RA0N0=
+
+Name: res/drawable/biz_audio_extra_list_selector.xml
+SHA1-Digest: mEfZNpzjYsGoqen17gAxJnX3lCk=
+
+Name: res/drawable-xhdpi/night_biz_news_main_back_pressed.png
+SHA1-Digest: mPtwuvzZNajfNY0b3Z5QkGIG8TQ=
+
+Name: res/xml/update_appwidget_info_4_4.xml
+SHA1-Digest: /raJtq1lQIlhI/4Y8dGFc/rHHYE=
+
+Name: res/layout/biz_account_myprofile_head_selector.xml
+SHA1-Digest: 3pNUJ3lFKaZ/42JNhaX0xpwURVY=
+
+Name: res/drawable/base_list_selector.xml
+SHA1-Digest: 50CHE36aag38WRDE7s0IhpPLHHI=
+
+Name: res/drawable-hdpi/biz_pic_light_netease_bg.png
+SHA1-Digest: ZUjy8VJnkpEd4JMVJQB0IHd+ICs=
+
+Name: res/drawable-hdpi/biz_pread_item_bg.9.png
+SHA1-Digest: yo9MMBY3wCeYfWC06CME/E3GHds=
+
+Name: res/drawable-xhdpi/biz_news_column_subscribe_add.png
+SHA1-Digest: Z0yY/oOkuzH2cU02DqQMjm8T1oI=
+
+Name: res/drawable-xhdpi/biz_pread_adapter_bg_default.png
+SHA1-Digest: iY7w+YfbRICTolhEfWxj1KtCyik=
+
+Name: assets/img/loading1.png
+SHA1-Digest: +atT3qZOm9IjdgH1PBSdKgRsMI4=
+
+Name: res/drawable-hdpi/biz_widget_refresh_btn_selected_large.png
+SHA1-Digest: PWgVHYAqcoidILS2+/U0p1HmmCI=
+
+Name: res/drawable-hdpi/biz_account_head_selector_bg.png
+SHA1-Digest: KKIM5aqIzM6Se6oVVSmun9Cy5cg=
+
+Name: assets/caipiao_images/quan.png
+SHA1-Digest: 6JlMFoEKjVilRtFK75Bew2xW3Jo=
+
+Name: res/drawable-hdpi/biz_polymeric_dot_normal.png
+SHA1-Digest: BLehNlxUE/LBFauDk2BOwEsOg3U=
+
+Name: res/drawable-hdpi/night_biz_pc_other_tag.png
+SHA1-Digest: Zu4iGIACZdcjbx+q+4yW/CuMu/Y=
+
+Name: res/drawable/biz_news_subscribe_tab_selector4.xml
+SHA1-Digest: na/4vOJDPipJd4JAnOBmuBGXXdM=
+
+Name: assets/line.png
+SHA1-Digest: dRcdWRnJPwL8kceQVuto877SW6E=
+
+Name: res/layout/biz_version_download_notify.xml
+SHA1-Digest: th2s4RaU9FkxGV/duRntiOU6D4I=
+
+Name: res/drawable/night_biz_person_center_list_selector.xml
+SHA1-Digest: 4yBpcQsrfSa0GU617jTkXwfMtBo=
+
+Name: res/drawable-hdpi/biz_yiyuan_list_subitem_bg.9.png
+SHA1-Digest: IrZRsz7S3fvT8WBahj9Pn+/7iEA=
+
+Name: res/drawable-hdpi/night_biz_news_detailpage_comment_normal.9.png
+SHA1-Digest: 4/JERSQxstgEb0NHQfdXYuJR3Fc=
+
+Name: res/layout/biz_news_column_subscribe_child_item_layout.xml
+SHA1-Digest: F03c4MT27PimrcezcGyPACVEvek=
+
+Name: res/layout/base_listpopupwindow_dropdown_list_layout.xml
+SHA1-Digest: VDeR0X0WQ9nQP+PlLyPAd4c0KJY=
+
+Name: res/drawable-hdpi/night_sns_qzone_icon.png
+SHA1-Digest: sh9wz0XwU6cp33NlCvFDmCJm+lA=
+
+Name: res/drawable-hdpi/night_biz_subscribe_media_recommend_item_subsc
+ ribe_add.png
+SHA1-Digest: wGj7/6lGWafbTeZmVtngveQ8vz4=
+
+Name: res/color/biz_sns_manager_title.xml
+SHA1-Digest: 6OOolZG7Ygq+okSKnaXqap9qkAs=
+
+Name: res/drawable/biz_news_column_edit_btn_bg.xml
+SHA1-Digest: ujYVJ+bdzAJzGVghdcPOhTSTJYc=
+
+Name: res/drawable/base_tip_btn_selector.xml
+SHA1-Digest: /T7260hghygyicdqTn9+ZpvienU=
+
+Name: res/drawable-hdpi/night_biz_fb_write_pressed.png
+SHA1-Digest: kRUtZDXUDXg9K5cSR42uddpuM6I=
+
+Name: res/drawable-hdpi/base_drawable_view_bg.jpg
+SHA1-Digest: UbKyF1IeKJFrr+A4XgkQJGC35/g=
+
+Name: res/drawable-hdpi/biz_news_subscribe_divider.png
+SHA1-Digest: GLtvnEqrH1rJJp7GifOkj6SBA2Q=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_collection.png
+SHA1-Digest: MCyQc7i1cVCNRt9O/3oMYh3TTy0=
+
+Name: res/drawable-hdpi/noraml_check_on.png
+SHA1-Digest: CVyxwfRBELnhd29TZDe5XuYOnEY=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_yin.png
+SHA1-Digest: q9kQ0aunJriq+YD1rO3Gy4Cc8Z0=
+
+Name: res/layout/biz_news_column_subscribe_list_item.xml
+SHA1-Digest: /wADd18ZLjXqvWBpUPL/ZwEC0mQ=
+
+Name: res/drawable-xhdpi/biz_audio_play_info_divider.png
+SHA1-Digest: 7GJkXCN/x3eVQgrSScJ3kjS6Dig=
+
+Name: res/drawable/biz_news_list_other_finance_details_group_item_bg_s
+ elector.xml
+SHA1-Digest: SJaNiphQLQMw29ubfDhOYDWDlgo=
+
+Name: res/drawable-hdpi/biz_news_header_title_bg.9.png
+SHA1-Digest: z5yqD3xYJCYZYWA25v+uJjlGLLg=
+
+Name: res/drawable/biz_news_subscribe_tab_selector12.xml
+SHA1-Digest: syIimnojadIWU/HO2Oalq0qflys=
+
+Name: res/drawable-xhdpi/biz_pc_plugin_line_dark.jpg
+SHA1-Digest: okctZ/LLQACHPbw20EbqBrYHGrA=
+
+Name: res/drawable-hdpi/biz_person_center_list_selector_pressed.9.png
+SHA1-Digest: th3PCQ+Vx9VZ0DE8wDkSDMlaDDU=
+
+Name: res/layout/base_alert_dialog_list_item_layout.xml
+SHA1-Digest: fjP67c3WKF5/YEee0J1KYDVfkt4=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_shuoji.xml
+SHA1-Digest: tRmD73Uw1Ua3X1fFd01Qt1K9KB4=
+
+Name: res/layout/biz_tab_vote_submit_item.xml
+SHA1-Digest: RiTytrYF/7I25hMTmYMu5j3olzs=
+
+Name: res/drawable-xhdpi/biz_pc_main_keyuan.png
+SHA1-Digest: SYm9TuVytboYeGEPqNLvZmTLL/A=
+
+Name: assets/com.tencent.plus.blue_disable.png
+SHA1-Digest: KwQ2SLR32W8k+uF420pUXoLLAto=
+
+Name: res/drawable-hdpi/night_biz_live_news_live_score_bg.png
+SHA1-Digest: Wu+qff7SDzAJoLIlNkGrAvTP940=
+
+Name: res/drawable-hdpi/night_sns_email_icon.png
+SHA1-Digest: iJHheiRXKmkXxZZlDmt3KHe7a4w=
+
+Name: res/drawable-hdpi/biz_pc_list_offline_process.9.png
+SHA1-Digest: xaly4Ra8lnz/bwbxCt+lwugfllE=
+
+Name: res/drawable/night_base_tabpager_indicator_item_bg.xml
+SHA1-Digest: dExVxr1RposSpS7VBznmtMR9CPU=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_search.png
+SHA1-Digest: 6hgNSVNr67ne+iqD5cDV/ZeIwFY=
+
+Name: res/layout/base_webview_layout.xml
+SHA1-Digest: PN2BEFbCHfSFu/F2SCLmlfVfmQM=
+
+Name: res/layout/biz_pic_show_item.xml
+SHA1-Digest: +Bb4RWVVXYuX9JGZl3s9D30GS1s=
+
+Name: res/layout/biz_tie_comment_list_item.xml
+SHA1-Digest: h4H+iJWL5lNwBIzBQRSdhVZ7oqA=
+
+Name: res/drawable-xhdpi/base_indicator_dot_normal.png
+SHA1-Digest: SPenLm2KHqoI8ifi2rq73RHCaO4=
+
+Name: res/anim/base_slide_up_in.xml
+SHA1-Digest: HpXtV2LvT1wlrNvnm/GLdtLoxRg=
+
+Name: res/drawable-xhdpi/biz_audio_wave_img0.png
+SHA1-Digest: o2RPfXF/zH6ySG8QM5WVrK0XAWU=
+
+Name: res/drawable-hdpi/biz_news_subscribe_action_columns.png
+SHA1-Digest: QXX6LZ5dgfL693MHR90qxL86ESg=
+
+Name: res/drawable-hdpi/night_biz_news_column_subscribe_actionbar_canc
+ el_pressed.png
+SHA1-Digest: oLzv/YKtnoSHxo7Dy/LkrLpqt4o=
+
+Name: res/drawable-hdpi/biz_widget_next_btn_large.png
+SHA1-Digest: xK8t0TP9A5rqyurX7Dk5nqZxKCM=
+
+Name: res/drawable-hdpi/biz_tie_user_avater_default.png
+SHA1-Digest: 6RnBz7qCF4cjmZy9eAbkMu4LeoY=
+
+Name: res/drawable-xhdpi/biz_main_ad_hide_arrow.png
+SHA1-Digest: kYZA5gAQfoZz1GpdeG72b+OD8o0=
+
+Name: res/drawable-hdpi/night_sns_weixin_timeline_icon.png
+SHA1-Digest: 4gntM0ocLmbhxhXu8mHPkfrwSnI=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_dabaoyu.png
+SHA1-Digest: jISFauZRCNriR/haWmtXns4ulQI=
+
+Name: res/drawable/base_indicator_dots.xml
+SHA1-Digest: 5eMP189hgllLrpW8Y3yMa399Nrg=
+
+Name: res/drawable-xhdpi/night_biz_news_column_tabpager_indicator_divi
+ der_1.png
+SHA1-Digest: WAPGgORCIlOCs7HEiOk+OEr4OFA=
+
+Name: res/drawable/biz_subscribe_media_recommend_item_subscribe_select
+ or.xml
+SHA1-Digest: pgL/dcSuPJKzTyPT61IROm6AVoE=
+
+Name: res/drawable-hdpi/night_base_action_bar_dropdown_list_divider.pn
+ g
+SHA1-Digest: GgaRP/5zYRbbWhP6LsEvxDhJrrY=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_junshi.xml
+SHA1-Digest: Dx8QRUogySNOTc6yxFJE6T8VWFY=
+
+Name: res/drawable-hdpi/biz_pc_account_head_selector_split_bg.png
+SHA1-Digest: P2XLoJSnbhwQ9w7TtTVwyY8NUHM=
+
+Name: res/drawable/biz_person_center_list_selector.xml
+SHA1-Digest: 50CHE36aag38WRDE7s0IhpPLHHI=
+
+Name: res/drawable-hdpi/night_base_checkobx_open.png
+SHA1-Digest: VCM8JWLGgupWQZcOYvM6fLGjSkQ=
+
+Name: res/drawable-xhdpi/biz_ad_checkobx_unchecked.png
+SHA1-Digest: DzS+vUs+m8D5bGG0DVAyTZPiC0A=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_local_news_normal.pn
+ g
+SHA1-Digest: xsK1e4KB8dtzHy4FbR/aKMAO7Ks=
+
+Name: res/drawable-xhdpi/night_base_tabpager_indicator_bg.png
+SHA1-Digest: 5Iw4QoA/40pjGJnoDaF4gG3HAEk=
+
+Name: res/drawable-hdpi/biz_fb_read.png
+SHA1-Digest: Xxjma7SqFdWEAKUpzoIbnQUpsT0=
+
+Name: res/drawable/night_biz_fb_write_drawable.xml
+SHA1-Digest: kvvz1OL6sPqHt3mAbRESY2mGAAk=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_mail.png
+SHA1-Digest: VbSCX6iIOFDeeF+pHHrcAWRpqXs=
+
+Name: res/drawable/night_biz_news_column_drag.xml
+SHA1-Digest: e5Mh55si0PF7BaFS9LDvst9H6CQ=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_vote_img.png
+SHA1-Digest: aWmGPhlo9mXVospqI8SQF6NanlM=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_reply_bg.9.png
+SHA1-Digest: OUsEb70HCNIWK4SKk2kHnCrAiCU=
+
+Name: res/drawable-hdpi/biz_widget_bg.9.png
+SHA1-Digest: 5DYrW9jrD4rE9dbk7Dm7jCT7b9o=
+
+Name: res/drawable-hdpi/biz_plugin_weather_selectcity_empty.png
+SHA1-Digest: Ocv37oiaWmWjthhiC1okoDyCQEg=
+
+Name: res/layout/biz_vote_item_detail.xml
+SHA1-Digest: 4SBP6fDJ0MjbpxUYMMQ4GOMGFOo=
+
+Name: res/layout/biz_news_column_tablet_list_item.xml
+SHA1-Digest: /tmzUm8n6OWgUdLH5w2F08hhICs=
+
+Name: res/drawable-hdpi/icon_toast_unfav_bg.png
+SHA1-Digest: X/3Eluwd6uiacSZPdW2RTpPt7Ps=
+
+Name: lib/armeabi/librandom.so
+SHA1-Digest: 473vq1nrIVZt/27RdmlyK3fdTHc=
+
+Name: res/drawable-hdpi/biz_pics_ic_share_tp.png
+SHA1-Digest: 5Eiy4zODp5fHdFhJVyiAcS3okCU=
+
+Name: res/drawable-hdpi/biz_yiyuan_update.png
+SHA1-Digest: cNtvzPfbI0M89kHyHc+q9mmj0Ao=
+
+Name: res/layout/biz_plugin_weather.xml
+SHA1-Digest: KjNAzNDw9AGXtkTIgDLgKD6lU4E=
+
+Name: res/drawable/biz_news_subscribe_tab_selector17.xml
+SHA1-Digest: +Pn2WET0n8/4oUDX+jNF2bgD8Mw=
+
+Name: res/drawable-xhdpi/biz_news_list_ohter_notice_icon.png
+SHA1-Digest: 6hogXyGw7rsTvXbcIfLTxiWliKQ=
+
+Name: res/drawable/night_biz_navigation_tab_pics.xml
+SHA1-Digest: 7C3mp9nfl0dSJZwE9peBX/s978A=
+
+Name: assets/img/loading0.png
+SHA1-Digest: kFnPcAtIN+ne/cZcmP7CqytNOzA=
+
+Name: res/layout/tablet_main_news_layout.xml
+SHA1-Digest: /kbdahBaLYp7Z0JLj2PDr/oTN4M=
+
+Name: res/drawable-hdpi/night_biz_pc_account_login_btn_normal.9.png
+SHA1-Digest: WfFg2C+QvDl3MlmMJ8cIqvSFvAk=
+
+Name: res/drawable-hdpi/biz_subscribe_media_recommend_item_bg_pressed.
+ 9.png
+SHA1-Digest: dpfkdbH4y0bFc+RrcUXzJi6Oi5c=
+
+Name: res/drawable-hdpi/biz_topic_micro_child_divider.png
+SHA1-Digest: 3RkJU2lFFL1gQE8vmENWEwHFl1E=
+
+Name: res/drawable-xhdpi/biz_news_column_tabpager_indicator_edit_norma
+ l.png
+SHA1-Digest: SaAGYgfOeSKUIez/VNmIvHkHXvw=
+
+Name: res/drawable-xhdpi/biz_ad_new_version1_img_bg1.jpg
+SHA1-Digest: nhpuRFvd2gPap6oIfpBZVV+oBnY=
+
+Name: res/drawable-xhdpi/biz_pc_myprofile_progress_bg_2.png
+SHA1-Digest: xYW5q4Z7LMz4mSiuzrQ3cEFqrlM=
+
+Name: res/drawable-hdpi/base_action_bar_dropdown_list_divider.png
+SHA1-Digest: bKxVOOPV9BvSR+VBndM4RYmTKVg=
+
+Name: res/layout-sw600dp/biz_main_media_subscribe_guide.xml
+SHA1-Digest: 3e2Jj+JZ58Pi2Ifg2Kc6Lp54N8M=
+
+Name: res/drawable/night_biz_subscribe_media_guide_btn_selector.xml
+SHA1-Digest: SmsAWEb9uJw9IctOyFN9rR9nMu0=
+
+Name: res/drawable-sw600dp/biz_sns_publish_pic_bg.png
+SHA1-Digest: uOxCnBK+TV6XhBSb970xqxADaOk=
+
+Name: res/drawable-xhdpi/base_action_bar_share.png
+SHA1-Digest: 6Up+OaekXndxAV+LMaH5AuOVWWQ=
+
+Name: res/drawable/night_biz_font_default_btn_selector.xml
+SHA1-Digest: bO4P9bSBoEwUTi01fm5Ekciq3bY=
+
+Name: res/drawable-hdpi/biz_pc_go_split.png
+SHA1-Digest: gy4pCO5/fHa24DdbIY/1I6hVSko=
+
+Name: res/drawable-xhdpi/biz_pc_plugin_setting_btn_dark_normal.png
+SHA1-Digest: nuUJxiKKSjmhPGo/qUFiwkM/cCk=
+
+Name: res/layout/biz_plugin_weather_select_city.xml
+SHA1-Digest: giUB5RUFKZky0kJuCaKtleQAWOY=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_shachenbao.png
+SHA1-Digest: GN+zSBj4eboYRjYMoabtKIlzHsw=
+
+Name: res/drawable-hdpi/biz_topic_vote_show_org.png
+SHA1-Digest: 8arRcKn3euvd4m0ApaRKuah+5hw=
+
+Name: res/drawable-hdpi/biz_news_column_subsic_ic_ok_normal.png
+SHA1-Digest: oaITYJy2V+LvmnYP+p+wwb7RI3o=
+
+Name: res/drawable-hdpi/sns_sina_icon.png
+SHA1-Digest: 4VPb9O5L4AEn4nncrE+LpRHTuHY=
+
+Name: res/drawable-xhdpi/biz_audio_btn_download_disabled.png
+SHA1-Digest: oJeRdO+7tZA+Q5sbMYuTJF3W2nE=
+
+Name: assets/values/dimens.xml
+SHA1-Digest: 1YKCbh8KMpcKzAI+VsB7t6mrxIA=
+
+Name: res/drawable/biz_normal_checkbox_selector.xml
+SHA1-Digest: JmnP9LFnG61LlSMaEEBzi/yWT7Q=
+
+Name: res/drawable-hdpi/biz_news_newspage_collect_icon.png
+SHA1-Digest: Pmmpz7c2I188EHzyUvQib2zGA4Y=
+
+Name: res/drawable-xhdpi/biz_main_ad_show_arrow.png
+SHA1-Digest: +qxsX/S2Z/V5l1ohutVo1O8nlyA=
+
+Name: res/drawable-hdpi/base_navi_side_shadow.png
+SHA1-Digest: qGKqFMxTa3zV5UPZDxeOp50wYZI=
+
+Name: res/drawable-xhdpi/night_biz_pread_item_like_drawable_selected.p
+ ng
+SHA1-Digest: /D3hDT+CVmfYFTwPpioN3ehzmwI=
+
+Name: assets/com.tencent.plus.ic_success.png
+SHA1-Digest: nfo99+6yphuEgBIZu6+cg0j1+3k=
+
+Name: res/drawable-xhdpi/biz_pc_score_propaganda_how_step2_bg.9.png
+SHA1-Digest: 1S4GpLXS0jA1I46kO9YsrKsMeeI=
+
+Name: res/drawable-xhdpi/biz_subscribe_media_guide_btn_pressed.9.png
+SHA1-Digest: uRYjC4BIbDfvmXRvNHY8RR/XfxE=
+
+Name: res/layout/biz_account_myprofile_head_selector_item.xml
+SHA1-Digest: xS8u3XoILW2GDwVayjePOWTLp8Y=
+
+Name: res/drawable-hdpi/image_edit_bk.png
+SHA1-Digest: J8zQiliYqcQD3YHgayVn2Saj/gk=
+
+Name: res/drawable-xhdpi/night_biz_pread_item_like_drawable_normal.png
+SHA1-Digest: 9/IAzmqZgL+Lk43ab3zDiB/BtAE=
+
+Name: org/jsoup/nodes/entities-full.properties
+SHA1-Digest: AFSgQ5iKN+T46TMZbysEx2T32t8=
+
+Name: res/drawable-hdpi/biz_setting_guide_slide.png
+SHA1-Digest: 6w52MgYWV0gEHiUSlvVAss/3Ykk=
+
+Name: res/color/night_biz_pread_item_like_text_selector.xml
+SHA1-Digest: U2Y58XQv1frH0RRgG5PguVFjgrg=
+
+Name: assets/topic_not_subscribed.png
+SHA1-Digest: PXaCoKKyVjoQ1lelPNROSvWHqXU=
+
+Name: res/drawable-hdpi/night_biz_fb_bubble_he.9.png
+SHA1-Digest: cgmqtgJoXA/x/wWdUAsI6sf0maw=
+
+Name: res/drawable-hdpi/sns_yixin_icon.png
+SHA1-Digest: v9Uo51lhTdwNxFhFHprVzppKH5E=
+
+Name: assets/img/loading6.png
+SHA1-Digest: YWoNUkg6z9J4qu/C+DxmfhflRwc=
+
+Name: res/drawable/night_base_action_bar_spinner_bg.xml
+SHA1-Digest: lxntb3iHrfVnMo7JMInuttv1p00=
+
+Name: res/drawable/night_base_checkbox_selector.xml
+SHA1-Digest: zIO0b9ReoQjJasPHHaOy11LNRH8=
+
+Name: res/drawable-hdpi/biz_setting_guide_gesture_left.png
+SHA1-Digest: g6DhEKl578r8lRMagX8SrJwQwRs=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_mail.png
+SHA1-Digest: 3mzwPLw9Ojt9FyhqUgmeG6Jl6f4=
+
+Name: res/drawable-hdpi/caijing_normal.png
+SHA1-Digest: nGWo9Qf0jQ1AefxlYjjBEbiBVFI=
+
+Name: res/drawable-xhdpi/biz_ad_version1_btn_pressed.9.png
+SHA1-Digest: uxiThiC3oYwpBb+if+LKaC3radY=
+
+Name: res/drawable/night_base_action_bar_action_more.xml
+SHA1-Digest: sHUqnVWb5gSRbC0JK8v9oTeAK8s=
+
+Name: res/drawable-xhdpi/biz_pc_list_offline_icon_dark.png
+SHA1-Digest: jXfslPzoJQOai5WFopdtcDRd6IE=
+
+Name: res/drawable-hdpi/biz_topic_micro_qq_big_type.png
+SHA1-Digest: efu7TiakIijEy5CCxAl84RPkXAE=
+
+Name: res/drawable-xhdpi/biz_navigation_tab_local_news.png
+SHA1-Digest: MAvLTAgis8GCEocPXMFdpShwUh0=
+
+Name: res/drawable-hdpi/night_sns_ydnote_icon.png
+SHA1-Digest: cYSK2KjckOonVnhY9ctYN7VChHM=
+
+Name: res/drawable-hdpi/night_biz_subscribe_edit_revoke_bg.png
+SHA1-Digest: JDW0QiDFU5csNsH07jbjzcRUfH8=
+
+Name: res/drawable/biz_ad_checkbox_selector.xml
+SHA1-Digest: tZmLOs3J6oRpmnJNVHfPb4b1lEA=
+
+Name: res/layout/biz_plugin_searchnews_search_news.xml
+SHA1-Digest: l9mimfY4E3MW4DjFUOQhrUvr2Lk=
+
+Name: res/anim/base_slide_right_in.xml
+SHA1-Digest: 4PaDirWLJHSyZ+JCTJVzPp4lS4M=
+
+Name: res/drawable-hdpi/biz_pic_words_bg.png
+SHA1-Digest: 1zOvyBsI+p2prYc+WqjITNFVZr8=
+
+Name: res/drawable-hdpi/biz_subscribe_media_recommend_item_subscribe_u
+ nable.png
+SHA1-Digest: jUJExvdwR6Tyge0RIhNtA6eRRqA=
+
+Name: res/drawable-xhdpi/base_action_bar_icon_background_pressed.9.png
+SHA1-Digest: VI7PnD30TDIuDFQKe+Hhr3a6mxI=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_theme_icon_night.png
+SHA1-Digest: IVhY9TYNLEUYrEJ8AgOuYJcIeEM=
+
+Name: res/drawable-xhdpi/night_biz_pc_account_content.jpg
+SHA1-Digest: BjJEuPlJkdL8EjJWO+CyS7U7bm8=
+
+Name: res/drawable/biz_polymeric_tag_indicator_dots.xml
+SHA1-Digest: YqkCQFRYUDJjDqpoFG5MgXsVUlM=
+
+Name: res/drawable-hdpi/night_biz_pic_item_bg.9.png
+SHA1-Digest: AxoO31Zr0dKVQsguhFjLpVmyrLQ=
+
+Name: res/drawable-hdpi/night_biz_news_detailpage_comment_pressed.9.pn
+ g
+SHA1-Digest: v69zBypT5Maf5pFR0tE6pxJJ7mk=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_progaganda_how_step1_msg_b
+ g.png
+SHA1-Digest: HhCuQrz5mKDpiPpIcHw19cNvDV4=
+
+Name: classes.dex
+SHA1-Digest: 8a//OZlmdPSF0VNywNEV88XQ9es=
+
+Name: res/drawable-xhdpi/night_biz_vote_back.png
+SHA1-Digest: kSoI0l4vumuqavv0ByrpkeNDMZU=
+
+Name: res/drawable-hdpi/biz_widget_pre_btn_large.png
+SHA1-Digest: yS3UgNtXB3Gvz4Tu+b6B38RzJqY=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_invite_step1.png
+SHA1-Digest: sjyOg3YeYsnzAENFVvuGKDcKnDA=
+
+Name: res/layout/biz_vote_tab_item.xml
+SHA1-Digest: ZPfvaJCx7A0iW8Y5tpFonMkCnXY=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_theme_icon_day.png
+SHA1-Digest: fA5LVCkT5wHDUhj561snX8DwG60=
+
+Name: res/layout/base_load_more_layout.xml
+SHA1-Digest: 9dj3yzWsyYK9SWGmnh3bZyHB/vA=
+
+Name: res/layout/tablet_main_layout.xml
+SHA1-Digest: V3jm7edcLYVlqJg++2TJfwEIgk8=
+
+Name: res/drawable/biz_navigation_tab_focus_bg.xml
+SHA1-Digest: 0huyLOrnMJozS+Kygbfl75q9LbA=
+
+Name: res/drawable-hdpi/biz_pc_account_register_btn_pressed.9.png
+SHA1-Digest: obUsvM/6v8CHsZBPFfW6IqI4fTM=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_theme.png
+SHA1-Digest: nODQmI7w/cnG5cvjKlcJ7mELlfs=
+
+Name: res/drawable/night_biz_news_detailpage_comment.xml
+SHA1-Digest: H0Mok3sjYaXdxT/Tu0GkpHiDgeg=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_search_icon.png
+SHA1-Digest: ApEByrSXvgJBLSCK5Dt5cZ3pPlo=
+
+Name: res/drawable/biz_sns_select_item_bg.xml
+SHA1-Digest: o3ztsFrkwQap25mlPZAG/7ASoZ0=
+
+Name: res/drawable-hdpi/night_biz_news_column_subscribe_group_item_ico
+ n_down.png
+SHA1-Digest: PLMZb8AlajQhHTF2phHoLuf/no0=
+
+Name: res/drawable-xhdpi/biz_pc_list_theme_icon_night.png
+SHA1-Digest: ZdTjQNmu9LoFRs6m3F8OLU2pMjQ=
+
+Name: res/drawable-hdpi/base_tip_btn_normal_bg.9.png
+SHA1-Digest: e866dpyiX1dTryqocU0tGWL0b/o=
+
+Name: res/drawable-hdpi/biz_pc_favorit_comment_content_bg.9.png
+SHA1-Digest: 1extO7UB/oLDPUmjLD3w68z6oJE=
+
+Name: res/drawable-hdpi/biz_tie_comment_hot.png
+SHA1-Digest: o00VoQ9UswoXVYpmJZjLpj6k0Gk=
+
+Name: res/layout/biz_subscribe_search_layout.xml
+SHA1-Digest: iK7quTsM1WMHnKGdmCGM6tCc+u0=
+
+Name: res/layout/biz_news_list_other_finance_adapter_group_item.xml
+SHA1-Digest: yj1cVXo1jmJel/O+WPLXu61ue7k=
+
+Name: res/drawable-hdpi/biz_radio_play_pressed.png
+SHA1-Digest: EkdkhD3QHqnB9nFBfevDzg9FVzM=
+
+Name: res/layout/biz_ad_layout.xml
+SHA1-Digest: gyHfHfIxwbV2o9w5Ch7V9nh0G9w=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_search_icon.png
+SHA1-Digest: rMhiBF22VXUuOtGX/vJU9TV5QjM=
+
+Name: res/drawable-xhdpi/biz_pc_list_polymetric_icon.png
+SHA1-Digest: NOJI6OWzy9icoQA8Jqiq/coKJUk=
+
+Name: res/drawable/night_base_layout_bg.xml
+SHA1-Digest: fGhkiKGBkW6oAQEFqdgDdLLADLQ=
+
+Name: res/drawable/biz_pc_score_list_selector.xml
+SHA1-Digest: WXSx3tWD7C6jrsqnq2Z7ngYNi3Y=
+
+Name: res/drawable-hdpi/night_biz_topic_mulvote_submit_bg_pressed.9.pn
+ g
+SHA1-Digest: heIKVZA1eAdoMAtwFJqE+2HmR/Q=
+
+Name: res/drawable/biz_news_column_delete.xml
+SHA1-Digest: ocOYGBckAwm5HTwma0cN3oDZZMc=
+
+Name: res/drawable-hdpi/biz_subscribe_media_list_header_default.jpg
+SHA1-Digest: DdrbNXozhRBifip+LZJdT2bu0DQ=
+
+Name: res/drawable-xhdpi/biz_news_list_other_finance_header_arrow_up.p
+ ng
+SHA1-Digest: bwYSO1AH0sO0I8GlqaIG3XjD+C0=
+
+Name: res/drawable-hdpi/noraml_check_off.png
+SHA1-Digest: Ojd9K5uYJdOk9G8jBCh8RZTsbQs=
+
+Name: res/drawable-hdpi/night_base_menu_dropdown_panel.9.png
+SHA1-Digest: rr0VTOb5gR9H1Pd+UaudSYMpN8w=
+
+Name: res/drawable-hdpi/biz_news_newspage_share_icon.png
+SHA1-Digest: 3LQHdvDokvLOIDIDKx7E0hB7D1A=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_search.png
+SHA1-Digest: Z3WOQXK4QHEk3wjH/yEOM4tNk/4=
+
+Name: res/drawable-hdpi/pic_menu_split.png
+SHA1-Digest: TBFjc91mpt57oiZLIJrM8sqhc4s=
+
+Name: res/drawable-xhdpi/base_action_bar_action_search.png
+SHA1-Digest: 2/SAKG1m3QSGMauBzWBuUg7Bzec=
+
+Name: res/drawable-xhdpi/night_biz_pread_item_like_normal.png
+SHA1-Digest: vla6R6pJppARn59h3uHqXLqvDvo=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_write_img.png
+SHA1-Digest: JnQ0yYcYtqDSz/8euXSXv3xjzT0=
+
+Name: res/drawable/biz_pc_recommend_download_selector.xml
+SHA1-Digest: b8B9yxHIVL/zdEssaQbGz4qxxXo=
+
+Name: res/drawable-hdpi/night_biz_tie_comment_expand_arrow.png
+SHA1-Digest: 4kdSzyZK9AYB5OPSL2v75aJmh9M=
+
+Name: res/drawable/base_navi_layout_bg.xml
+SHA1-Digest: Z8FjZaUrGGKVDq2cKcXHEC09zHA=
+
+Name: res/drawable/biz_pics_action_bar_action_more.xml
+SHA1-Digest: BjSAdd4wr3kk12x3aw3BT4czGQM=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_bg.9.png
+SHA1-Digest: ho9t03ZugUt+bNRx1BSXRw4WeR8=
+
+Name: res/drawable-hdpi/night_biz_pc_account_pwd_icon.png
+SHA1-Digest: FGlhgZ6RSd83KRxAIsoZEmjlqjU=
+
+Name: assets/com.tencent.plus.ic_error.png
+SHA1-Digest: HisWESn8PSVNnjhjfsbMtsajomo=
+
+Name: res/drawable/biz_pic_menu_list_selector.xml
+SHA1-Digest: 4HV30DEkgkc5sKo7rogX3K4c7O4=
+
+Name: res/drawable-hdpi/biz_topic_vote_before.png
+SHA1-Digest: +ISdivuCbNwhQLDqOIqziIVg58A=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_fukezhang.png
+SHA1-Digest: oRev0PFw7F1UI7Towvigo1Pkmgc=
+
+Name: res/drawable-hdpi/night_biz_news_subscribe_item_pressed.png
+SHA1-Digest: ssU8x3Gv/aOu+dd5oworJbxq8W0=
+
+Name: res/drawable-hdpi/default_album_identify.jpg
+SHA1-Digest: TVaGyGHn68lj0qrJJeU4EEQCLIQ=
+
+Name: res/drawable-xhdpi/night_biz_local_news_main_back_pressed.png
+SHA1-Digest: f7JAIMcfm3tSVBi0smPejZW/9y4=
+
+Name: res/drawable/night_biz_pics_ic_fav_tp.xml
+SHA1-Digest: ReaJ9bNqPQYoV5x7wBcuTUCF6J8=
+
+Name: res/layout/biz_radio_small_notification_layout.xml
+SHA1-Digest: Y4m82ezxjVmGku/hKnL4kTaLhAw=
+
+Name: res/anim/biz_news_scale_in_out.xml
+SHA1-Digest: aHpj+FUcWAvTaKFuGjVu/lEAPss=
+
+Name: res/drawable-xhdpi/biz_audio_listen_tag.png
+SHA1-Digest: o6ylj6TvfHtPF7lokjfInhLjNDw=
+
+Name: res/drawable/biz_news_subscribe_tab_selector7.xml
+SHA1-Digest: OPnWmTmpmSOvpUG+vcn+1/Zja/M=
+
+Name: res/drawable-xhdpi/biz_audio_progress_handle.png
+SHA1-Digest: SkUKPcO0w/i8XFWPE0hUXN4ncyg=
+
+Name: res/anim/biz_polymeric_slide_in_left.xml
+SHA1-Digest: vsJCNnCahRb5WATbT6fmFJcvVcQ=
+
+Name: res/drawable-hdpi/night_biz_news_column_subscribe_child_item_fir
+ st_shadow.png
+SHA1-Digest: IRdZbQFhwGsKCOyoGH+AjuznGEk=
+
+Name: res/drawable-hdpi/biz_app_recommend_item_icon.png
+SHA1-Digest: 5tTuq/48w7gzkMi5xzvr4Ctp1+4=
+
+Name: res/drawable-hdpi/biz_vote_org_arrow.png
+SHA1-Digest: d80Dtb9mHkSD5Zd20sXTCT4RYK4=
+
+Name: res/drawable-hdpi/night_biz_special_media_title_bg.png.png
+SHA1-Digest: RkhsyeteXcsJ1ChU60qhsSODdmY=
+
+Name: res/drawable-xhdpi/night_biz_pc_account_myprofile_bg.jpg
+SHA1-Digest: 4nmDQUuQ+v3qtW2nr1R4gHYvPpM=
+
+Name: res/anim/base_slide_left_out.xml
+SHA1-Digest: fwfVwM/j6YZNWEFV9QUvTwys/3I=
+
+Name: res/drawable/biz_radio_play_selector.xml
+SHA1-Digest: 3xNmgFpNQFOWSvZANExxoCsyPOQ=
+
+Name: res/drawable-hdpi/night_base_layout_bg_pressed.9.png
+SHA1-Digest: FaCfG1yi6dTfE9jM22SRewPAK2k=
+
+Name: res/anim/fade_in_fast.xml
+SHA1-Digest: gLQndR9KNrAvMabL+Yg6GTj6UWw=
+
+Name: res/layout/biz_news_local_weather_layout.xml
+SHA1-Digest: /aRIF0M59WfLnL8cAaho4e6JMfI=
+
+Name: res/drawable/biz_news_subscribe_tab_selector8.xml
+SHA1-Digest: zdTuv9wstuIEMZewtJmPmeY8VsM=
+
+Name: assets/img/loading3.png
+SHA1-Digest: C4Pv2REht4DowDFTEUcoP67wbEE=
+
+Name: res/drawable-hdpi/biz_fb_bubble_he.9.png
+SHA1-Digest: iMm8DJfLKOvjJNVElUjagKrUV4o=
+
+Name: res/drawable-hdpi/biz_news_recommend_indicator1.png
+SHA1-Digest: eBp+zNMUh6qxjKCs+Rab/wUPpGQ=
+
+Name: res/anim/vote_add.xml
+SHA1-Digest: Po9xeacm+w80jxPxW9fT4jvip3M=
+
+Name: res/drawable-hdpi/night_biz_navigation_tab_bg_pressed.9.png
+SHA1-Digest: 82g75zc/Q++tuE8/g7HXN58pyKo=
+
+Name: res/drawable-xhdpi/biz_pc_main_info_profile_avatar_bg_dark.png
+SHA1-Digest: qDtBHduaWi3imqJnTdMi7Z6FlTE=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_invite_step3.png
+SHA1-Digest: kyHqYUOqqiTSX+yb0laDf4pk4gs=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_yujiaxue.png
+SHA1-Digest: ugVeBpvr9O9UDCi6hfhZq+E42fQ=
+
+Name: res/drawable-hdpi/biz_pc_account_register_btn_normal.9.png
+SHA1-Digest: oAjSpMIaJWJw50e/mHFXN6vWbZ4=
+
+Name: res/drawable-hdpi/night_biz_account_logout_icon.png
+SHA1-Digest: X6+sz6Jq/ufILJ4HZlwR6dlQ0dg=
+
+Name: res/drawable-hdpi/night_biz_polymeric_dot_selected.png
+SHA1-Digest: z/9xTDYXUpbza0aNjCxokZNjch8=
+
+Name: res/drawable-hdpi/night_biz_account_head_selector_renren.png
+SHA1-Digest: 6k1wrvA0uFIevEsxFpG3LWdVEvA=
+
+Name: res/drawable/night_biz_pics_ic_share_tp.xml
+SHA1-Digest: DFL/cnXh/UdH/iaRMHNNro8rXrU=
+
+Name: res/drawable-hdpi/biz_pic_item_bg.9.png
+SHA1-Digest: 6OO3KxVr5jE6dP6DXUSmUxiDwwI=
+
+Name: res/drawable-xhdpi/night_biz_news_column_subscribe_cancel.png
+SHA1-Digest: zpRdpO4cWOMmSiw6cfj8m9XIPJg=
+
+Name: res/drawable-hdpi/biz_micro_transmit_icon.png
+SHA1-Digest: oN0/jdsYnPG9agSAG6VaEychKY8=
+
+Name: res/drawable-hdpi/keji_selected.png
+SHA1-Digest: 13dn09u0pwMWK21BNsIkzsxS5U8=
+
+Name: res/drawable/night_news_column_edit_bg.xml
+SHA1-Digest: nv8aFA7tru+2Hevt4NX8pCvVFw8=
+
+Name: res/drawable-hdpi/biz_radio_play.png
+SHA1-Digest: CzxOgWTODaW7foeUifX6eaR4fLE=
+
+Name: res/drawable-hdpi/base_checkobx_close.png
+SHA1-Digest: ORcwJJlRJ0axutIKudKutQ1fF1o=
+
+Name: res/drawable-hdpi/biz_pc_other_new_tag.9.png
+SHA1-Digest: UVGMA4JnsdhsStp75L7ruDrP7+A=
+
+Name: res/drawable-xhdpi/biz_pc_list_mail_icon_dark.png
+SHA1-Digest: h2Q2ugfeuOBv5Y03E2l2emw3qgQ=
+
+Name: res/drawable-hdpi/night_biz_pc_plugin_line.png
+SHA1-Digest: wh4BgRsDtXZaz3UmkX7kDz27Vgk=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_polymetric_icon.png
+SHA1-Digest: aIzp2WQN+7TbG4U0x7Gi1EbrQDM=
+
+Name: res/drawable-xhdpi/night_biz_news_list_ohter_hot_car.png
+SHA1-Digest: ibNLErfB+FWf5rKjWnKKLJCN89E=
+
+Name: res/drawable-hdpi/base_list_divider_drawable.png
+SHA1-Digest: QqwvOzKNShGCJxvk3vuBG4JdCnE=
+
+Name: res/drawable-xhdpi/biz_news_column_edit_delete.png
+SHA1-Digest: oyU+ygn75dRVQyw1Mjc0sJx+Kvo=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_duoyun.png
+SHA1-Digest: /wLO/Q+zMJzNgTCjD28JdUfeB+E=
+
+Name: res/drawable-hdpi/night_biz_news_subscribe_divider.png
+SHA1-Digest: b8cDGrqqQAnT0aIIzEhg6NaJpTY=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_pm_bg.9.png
+SHA1-Digest: 0eDwcK0OSpnheA6jcMyCC6pbRVg=
+
+Name: res/drawable-hdpi/night_biz_news_column_add_subscribe.png
+SHA1-Digest: 32t1BraKz257h5w8G46tODEUm3w=
+
+Name: res/drawable/night_biz_news_subscribe_item_selector.xml
+SHA1-Digest: dt8U3SwrF0Vtx5c+AGmlD38ulKk=
+
+Name: res/anim/fade_out_slow.xml
+SHA1-Digest: vDXdFjhADydOkLMkV1H+gc3Wqs4=
+
+Name: res/drawable-hdpi/biz_pics_action_bar_action_more_normal.png
+SHA1-Digest: OdInnlJUaJwtVwRDUcHb5Y+jq8A=
+
+Name: res/drawable-hdpi/biz_news_huge_pic_download_pressed.png
+SHA1-Digest: VpEc9fJTUZUbrhCgxQgXm47Pu9w=
+
+Name: res/layout/biz_news_list_other_car.xml
+SHA1-Digest: lwwtaIcWU/RHuIVkzmG1y2Lv9+Y=
+
+Name: res/layout/biz_pc_main_layout.xml
+SHA1-Digest: VdycOlSc1lcb3dU3awjgivkE97g=
+
+Name: res/drawable/biz_topic_vote_btn_selector.xml
+SHA1-Digest: pAZ50IfI3iMByOK/npN+NdCkolw=
+
+Name: res/drawable-hdpi/biz_pic_wait_down_img.png
+SHA1-Digest: 9+jgBD87m7ztcAOevxXb43WO+2M=
+
+Name: res/drawable/biz_news_subscribe_tab_selector11.xml
+SHA1-Digest: aysyx+oRWLdwcxwKz5crTZq8idg=
+
+Name: res/drawable-xhdpi/biz_pc_main_fuchuzhang.png
+SHA1-Digest: YhUjXyP273jR42vn5wp8zP3XJpE=
+
+Name: res/drawable/night_biz_vote_back_selector.xml
+SHA1-Digest: IwNqk+73iw9y+P3eGPZyXq2lid4=
+
+Name: res/drawable/biz_news_column_subscribe_recommend_yule.xml
+SHA1-Digest: 8pFPvEHijYnkGzSWgMDMkvwI5ik=
+
+Name: res/drawable-hdpi/base_up_shadow.png
+SHA1-Digest: TVawsD06iRkVcovi5crC6FNpYRg=
+
+Name: assets/night_blank.html
+SHA1-Digest: xmsvqbcZk9X2GjBhUs2SikQM9Zo=
+
+Name: assets/caipiao_images/ssqlogo2.png
+SHA1-Digest: Ml0kTKrD5TwfmiltqZxm2BySx5o=
+
+Name: res/drawable-xhdpi/biz_special_conference_item_bg.9.png
+SHA1-Digest: DePDW51ksC/rPINLkWK3GkVNvLk=
+
+Name: res/drawable/biz_pc_list_offline_selector.xml
+SHA1-Digest: gVxWR72krqFH8tNOtmZSPfQmpxA=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_list_child_divider_d
+ rawable.png
+SHA1-Digest: eSjz8pwK09m1GEa59qHX9e3hhlE=
+
+Name: res/drawable-hdpi/night_biz_news_newspage_font_icon.png
+SHA1-Digest: Sw7PfyLcyJ48dGg9St3yytahNdc=
+
+Name: res/drawable/night_biz_audio_btn_play_bg.xml
+SHA1-Digest: q7/Gi6PmoHYhYyrWQPWKJvTS7NU=
+
+Name: assets/big_play.png
+SHA1-Digest: pC4mM48QHbCsvJ3nGBScChunLfk=
+
+Name: res/layout/biz_micro_transmit_layout.xml
+SHA1-Digest: Q/25a5UMe05FRDlwigE9bmaG99U=
+
+Name: res/drawable-hdpi/night_biz_pc_person_center_drawable_view_bg.pn
+ g
+SHA1-Digest: j7LqIKxMOvvxnGTrwEuT09ZbyME=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_detail_write_img.png
+SHA1-Digest: JwD7uZ0/laBRA48yRRymZIjFwK0=
+
+Name: res/drawable-hdpi/night_biz_news_list_ohter_race_icon.png
+SHA1-Digest: A8dBWpRzRxDEcgB0jtgw4KjM5ug=
+
+Name: res/layout/base_pull_load_list_layout.xml
+SHA1-Digest: 5VqQpfQ21o9yG/KZ0TTUU9KyW9Y=
+
+Name: res/drawable-hdpi/biz_yiyuan_subitem_img_bg.9.png
+SHA1-Digest: JwIa/crq2nZ0vf56RWlsfX38Qyg=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_shanghai_bg.jpg
+SHA1-Digest: Br98mfrvyNtDdHNn+g57zTrLwtk=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_0_50.png
+SHA1-Digest: qsMzi6aCdX58kIIuNJMXMkdic28=
+
+Name: res/drawable-hdpi/base_action_bar_main_more_normal.png
+SHA1-Digest: NRwBWiNdDZk3M8TEj0z94tCs5f0=
+
+Name: res/layout/biz_widget_layout_4_1.xml
+SHA1-Digest: zC0CTSzX0dM2iFgaqeI0jdrDXFs=
+
+Name: res/drawable-xhdpi/night_biz_navigation_tab_vote_normal.png
+SHA1-Digest: jH9BHQatCHfBA6yYKxh1CU59jUA=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_invite_step2.png
+SHA1-Digest: t7Opys6IXErlx0vYdmmk2CyzROQ=
+
+Name: res/drawable-hdpi/base_action_bar_shadow.9.png
+SHA1-Digest: WHTe13hdieWefciayt0eC7aVqlg=
+
+Name: res/drawable-hdpi/night_base_drawable_view_bg.9.png
+SHA1-Digest: POWqzvaU1mmeNx+0UorNOmtITtc=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 7d/YmUZAXd4xcxP75HHKDgh+ePs=
+
+Name: res/drawable-hdpi/night_biz_account_head_selector_netease.png
+SHA1-Digest: UmSBqTXsXd/BT9zn2ynZ3GV/aKc=
+
+Name: res/drawable-xhdpi/biz_news_local_weather_bg.jpg
+SHA1-Digest: nV1OrusKiNSMCtskS8VdqtEzTfA=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_check_pressed.png
+SHA1-Digest: 3DZyBBj4agDyR3Xt5VeAOy0WVck=
+
+Name: assets/com.tencent.plus.blue_down.png
+SHA1-Digest: P5pLNnim3nMuEA2ZM1/RdQsqIUY=
+
+Name: res/drawable-xhdpi/biz_audio_btn_cancel_download.png
+SHA1-Digest: jsw+3S6NOhrnmSMAF6uyLGvNSwc=
+
+Name: cfg/ts.tab
+SHA1-Digest: qLn+kMUI+LoZhY9xjiIminMVnio=
+
+Name: assets/biz_news_newspage_relative_bg.png
+SHA1-Digest: 0SWYyylKdMJJSaCurlU0kZ4KdzY=
+
+Name: res/drawable-hdpi/base_action_bar_action_more_pressed.png
+SHA1-Digest: HXr2m/VgQZp/HYnu9wPTBu6Y0N8=
+
+Name: res/drawable-hdpi/night_base_pull_list_msg_indicator_arrow_down_
+ drawable.png
+SHA1-Digest: +d11uX+EY/p8KVbigbYKGConxXY=
+
+Name: res/drawable-hdpi/biz_pc_account_usr_icon.png
+SHA1-Digest: YzqU6WSxTgI8A4PGcgXdDKHyHUY=
+
+Name: res/drawable-hdpi/tiyue_normal.png
+SHA1-Digest: jekfCzAAf+Bj3jp0EwkgYlgKM+g=
+
+Name: res/drawable/night_biz_micro_main_back.xml
+SHA1-Digest: uZLoJaJI4DM1iM1kdZKr+gCt2mI=
+
+Name: res/drawable-sw600dp/sns_weixin_timeline_icon.png
+SHA1-Digest: SCEjhGIrHlN9JxbvRxsEibSwrcA=
+
+Name: res/layout/biz_yiyuan_list_sub_item.xml
+SHA1-Digest: 76RQU3ciR1Jl+hSvCzNT4a7LpiQ=
+
+Name: res/drawable-hdpi/start_experience_normal.9.png
+SHA1-Digest: K3Yd9cTQzHuBY+1vzDXhOSWPVO4=
+
+Name: res/drawable-xhdpi/biz_pc_offline_processbar_bg.9.png
+SHA1-Digest: sWgT6sCUC1hZFPB5JKMWDXhMGCg=
+
+Name: res/drawable-xhdpi/biz_vote_unselected.png
+SHA1-Digest: FKIJpHCkqHsZpOgTv/GMMqfCK0Q=
+
+Name: res/drawable-hdpi/biz_tie_comment_orig_pressed.9.png
+SHA1-Digest: r2C8M+z42k0fACSkydeO2lTIJPA=
+
+Name: res/drawable/base_action_bar_dropdown_selector.xml
+SHA1-Digest: 50CHE36aag38WRDE7s0IhpPLHHI=
+
+Name: res/drawable/biz_widget_next_btn_selector.xml
+SHA1-Digest: BkBlrPKF974MsGEJjO9rgPvC3zw=
+
+Name: res/drawable-xhdpi/biz_setting_guide_arrow.png
+SHA1-Digest: qk4F2tFVRdrbB//YxVTvCrC/eqs=
+
+Name: res/drawable-hdpi/biz_pc_list_offline_btn.png
+SHA1-Digest: sRrsab3a8SNn2Opcsel55KPRY8w=
+
+Name: res/drawable-xhdpi/biz_pc_score_detail_share_img.png
+SHA1-Digest: wFQB+wng24N5a3NaZUWertBoXX4=
+
+Name: res/drawable-xhdpi/night_biz_news_column_subscribe_add_pressed.p
+ ng
+SHA1-Digest: gbRnyXKl3A35DYf9pWiOdIqF+Co=
+
+Name: res/drawable/biz_audio_btn_bg.xml
+SHA1-Digest: Tl+y7BdHTsMWJdWhptU4l2QDhd4=
+
+Name: res/drawable-xhdpi/biz_pc_list_setting_icon.png
+SHA1-Digest: fBYTefEHixj3WBYgDTitQpehwbM=
+
+Name: res/drawable-hdpi/biz_pc_account_login_btn_pressed.9.png
+SHA1-Digest: 6iV9U0CN1B+WK1p9c2BVgyPpSCM=
+
+Name: res/drawable-sw600dp/sns_email_icon.png
+SHA1-Digest: iHPnSVzKQ3vf0DNoMllSPFUIY+I=
+
+Name: res/drawable-hdpi/biz_news_column_edit.png
+SHA1-Digest: QturUOjZPbmCa9d4Xj0fQOTIy6w=
+
+Name: res/drawable-hdpi/biz_widget_refresh_btn.png
+SHA1-Digest: YzG1QANEDYfYCYi1vQw+08OU2NA=
+
+Name: res/drawable-sw600dp/biz_news_recommend_default_mark.jpg
+SHA1-Digest: HL6SphkqT9w6raIgioxyYasX0GI=
+
+Name: res/drawable-xhdpi/night_biz_pc_main_fuchuzhang.png
+SHA1-Digest: YNU3k4b4rKlH45Er/vU5bzCP0MM=
+
+Name: res/drawable-hdpi/sns_renren_icon.png
+SHA1-Digest: WxgazBe/2SSs6/Dujr22nyBQggE=
+
+Name: res/drawable/night_biz_news_column_tabpager_indicator_divider.xm
+ l
+SHA1-Digest: EO6vf2rHQPkPKvlIzL01fYcBJcQ=
+
+Name: res/drawable-hdpi/night_biz_account_head_selector_sina.png
+SHA1-Digest: QIWJ360X7sh0ushTC+t/eepBK6k=
+
+Name: res/drawable-xhdpi/biz_pc_main_level_icon.png
+SHA1-Digest: q72pFvxPh1n+EqY7PXF0ZIdChJg=
+
+Name: assets/img/small_loading2.png
+SHA1-Digest: K09GxoPsn1Ot10T7F6t9A+z/NDM=
+
+Name: res/anim/base_pull_list_msg_indicator_anim.xml
+SHA1-Digest: PtbHLVYn/iWFnfwxdom2wux0UG4=
+
+Name: res/layout/base_plugin_manager_group_item_layout.xml
+SHA1-Digest: p44aYbiqkhriE6mc92VcNFXIQng=
+
+Name: res/drawable/biz_widget_refresh_btn_small_selector.xml
+SHA1-Digest: 8A6pVoIsbOHCx3AUZhf3SPt0bAA=
+
+Name: res/drawable/biz_update_confirm_selector.xml
+SHA1-Digest: u1V3ZplPdpjUjSy5+27wo4XGoQY=
+
+Name: res/drawable-hdpi/night_biz_subscribe_media_recommend_item_subsc
+ ribe_pressed.png
+SHA1-Digest: qTQoWWNnDz7k1SoIuwj960IJR04=
+
+Name: res/drawable-hdpi/biz_widget_bottom_bg.9.png
+SHA1-Digest: Qpgmsc0esLd9iMOqwsGPUp6VbYw=
+
+Name: res/drawable-hdpi/night_biz_subscribe_media_recommend_item_subsc
+ ribe_unable.png
+SHA1-Digest: icHI/COLv5IIysRqsuMZXtfzxIw=
+
+Name: res/layout-sw600dp-land/biz_tie_comment_list_layout.xml
+SHA1-Digest: pnm2RilsDwbm/wsSVWjefts6SqA=
+
+Name: res/drawable-xhdpi/biz_pread_item_like_drawable_selected.png
+SHA1-Digest: Uid7Xa9Qli93Rp+t97GtOlh/9PI=
+
+Name: res/drawable-xhdpi/night_biz_pc_account_line.png
+SHA1-Digest: 4JqYIK19B0y6ELj6HZsf4xNZBCk=
+
+Name: res/layout/biz_pc_version_layout.xml
+SHA1-Digest: YmDfht83TmrlkYxuIwW3OvYdubk=
+
+Name: res/drawable-xhdpi/night_biz_plugin_manage_category_divider.png
+SHA1-Digest: ndTJbHNGiy00Fhzv5uJsoMckBX0=
+
+Name: res/drawable-hdpi/biz_topic_micro_author_icon.png
+SHA1-Digest: ++qupzQyhb0BeEEYb7aicaiVFO4=
+
+Name: res/layout/biz_sns_manage_layout.xml
+SHA1-Digest: OxuzIw7lR5tIWWo8v55pt9D1apE=
+
+Name: res/drawable/biz_tie_comment_orig.xml
+SHA1-Digest: nUgrrQRoTOCaYeQEKieIHREVeDs=
+
+Name: assets/img/loading8.png
+SHA1-Digest: ZX4SGuEgw20H2tK65wtggje9OjA=
+
+Name: res/drawable-sw600dp/sns_netease_icon.png
+SHA1-Digest: qkIFTnqVe163uOb5VKiTc/6GtqE=
+
+Name: res/layout/biz_account_add_score_show.xml
+SHA1-Digest: ggQG3F2UegsNs87e2mUIR5XTNbk=
+
+Name: assets/blank.html
+SHA1-Digest: hVsf3srlYezuwxo8H9DXYN3UcQY=
+
+Name: res/layout/biz_news_column_subscribe_container.xml
+SHA1-Digest: HTnqwDXm5zV+B4NUpPwzrFgF7G8=
+
+Name: res/drawable-xhdpi/biz_pread_list_default_img.png
+SHA1-Digest: axQLF1HVhPZZWBtLxTLshU7a5Ps=
+
+Name: res/layout/biz_tie_comment_list_layout.xml
+SHA1-Digest: /XwNyj8sx3Dv7CDC4vv1oKoc4TU=
+
+Name: res/anim/biz_tie_comment_toolbar_addone_anim.xml
+SHA1-Digest: NayDUMi//RRb+krYJoBeN6wIMMw=
+
+Name: res/drawable-hdpi/biz_tie_comment_reply_bg.9.png
+SHA1-Digest: 4gmNPSM24uZSJUrFYxCGEdDJ3SQ=
+
+Name: assets/night_newspage.html
+SHA1-Digest: ZfbFrtL+6CNDobwEM8An1U3ze7M=
+
+Name: res/drawable-hdpi/biz_plugin_searchnews_edittext_clear.png
+SHA1-Digest: AtGqGhu3oCJKt/A6NmR2LMuup8k=
+
+Name: res/drawable-xhdpi/biz_polymeric_ge_logo.png
+SHA1-Digest: GTwAbzcCjJgPCJLP58GNJEliOds=
+
+Name: assets/tablet_vote.css
+SHA1-Digest: ndn9JyIfXkedOclOL5YFBDgEggc=
+
+Name: res/layout/biz_news_subscribed_columns_layout.xml
+SHA1-Digest: bMq16heP6RGlmVVYPbRHt947zi4=
+
+Name: resources.arsc
+SHA1-Digest: hBRgskReMoF7RF1K2DoATfKhlCM=
+
+Name: assets/down_load.png
+SHA1-Digest: hQaimUDiWb0B1dPQZ2hxBek8qug=
+
+Name: res/drawable-xhdpi/biz_pc_main_bg.jpg
+SHA1-Digest: wOF/rqGTBiycH879nx51Oxn1PDQ=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_actionbar_add_normal
+ .png
+SHA1-Digest: LZehEPtzPI2iKsEYtLlYz0Alwd4=
+
+Name: res/drawable/night_base_search_edittext_selector.xml
+SHA1-Digest: 1eKcVEnK2yoZIfrKsVDgqn2Zf3w=
+
+Name: res/drawable-hdpi/night_biz_pc_recommend_open_pressed.png
+SHA1-Digest: GpZX+xITTdax1981Q6IgYUg8iTc=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_baoxue.png
+SHA1-Digest: VbhsbyfTSMZdIwc6iHruuSas6zU=
+
+Name: res/drawable-xhdpi/biz_plugin_manage_comment.png
+SHA1-Digest: xiHzpPyuy2gr0C7vP0wJqrPkkaM=
+
+Name: res/drawable-hdpi/night_biz_news_column_delete_checked.png
+SHA1-Digest: xUAjplas2w8ThtnEz97xiXG63aw=
+
+Name: res/drawable-xhdpi/night_biz_news_column_tabpager_indicator_edit
+ _normal.png
+SHA1-Digest: jtVEmri/C/o3tF1DO0s00MoKhBU=
+
+Name: res/drawable-hdpi/title_context_split.png
+SHA1-Digest: w5T0OVqnBOm5XPlZ41GNcp5bXdU=
+
+Name: res/layout/base_action_bar_overflow_item.xml
+SHA1-Digest: PHFnnxoMKzfUrEF2qkWGQpKQSfc=
+
+Name: res/layout/biz_fb_create_layout.xml
+SHA1-Digest: mEL0fY5hE4/XkoCza6WPYrZdQMM=
+
+Name: res/layout/biz_tie_mycomment_floor_last.xml
+SHA1-Digest: nqO+dX0x2L/43SDBmyPWmOCb7TI=
+
+Name: res/layout/biz_pc_plugin_mail_extra_layout.xml
+SHA1-Digest: hZsZ5w5kmxSE0ABKeKvS/NrXDG8=
+
+Name: res/drawable-hdpi/biz_weight4x3.png
+SHA1-Digest: 0/qv3I7yEUM56QYJS8yPwVGbv7o=
+
+Name: res/drawable/biz_news_column_tabpager_indicator_divider.xml
+SHA1-Digest: Xp/Lc1ex2QvQKWmkhv2OF4ROTTM=
+
+Name: res/drawable-hdpi/nightbiz_pc_list_offline_icon.png
+SHA1-Digest: nIyCISGKgUU7b/X+8M6+vw75v5c=
+
+Name: res/drawable/night_biz_topic_micro_detail_comment_selector.xml
+SHA1-Digest: ZsSx8xjPVr++05yGkRXWj0mznAE=
+
+Name: assets/com.tencent.plus.blue_normal.png
+SHA1-Digest: xUbCnopVA5SB7IPOU07W9fIdgcQ=
+
+Name: res/drawable-hdpi/biz_accout_update_confirm_pressed.png
+SHA1-Digest: 4ZTbmp78pK+uh+62J0ZmxTLNuRY=
+
+Name: res/color/base_tabpager_indicator_color.xml
+SHA1-Digest: rFpWvdlir7BItZTR0aFa4H9MZek=
+
+Name: res/drawable-hdpi/night_biz_plugin_searchnews_search_btn_pressed
+ .png
+SHA1-Digest: mpOoBs7njJZIHEpbVnndYaNrsLA=
+
+Name: res/drawable-hdpi/biz_polymeric_dot_selected.png
+SHA1-Digest: hZDWkC8rEhePcQXp9x+ICb2p8eA=
+
+Name: res/layout/biz_polymeric_item_1.xml
+SHA1-Digest: WsGMbpWKuYMEg5wD0LBiK4N7jo4=
+
+Name: res/drawable-xhdpi/night_biz_pc_list_offline_icon.png
+SHA1-Digest: ShwY1ZIZB06HVQxnbMHxca4N4k4=
+
+Name: res/layout/biz_polymeric_list_item_pics.xml
+SHA1-Digest: W3i14a+j/hGot0lmhbW2keDDofo=
+
+Name: res/layout/biz_sns_avatar_select_layout.xml
+SHA1-Digest: x0TPfH3Bxz8onEO+KTVcRrBFqTk=
+
+Name: res/drawable/biz_navigation_tab_read_bg.xml
+SHA1-Digest: Dj1TCeBi5wciAMdqPPnJmqg8RQo=
+
+Name: res/drawable-hdpi/base_list_focused.9.png
+SHA1-Digest: WWbGNxwqfE11SDbuIT+Sd9XnxCQ=
+
+Name: res/layout/base_load_expandlist_layout.xml
+SHA1-Digest: 4UcQyUGcqlsVNMFuZ2OwhIXO6a0=
+
+Name: res/drawable-xhdpi/biz_pc_main_mall_icon.png
+SHA1-Digest: qZWupLV2oe6B8i9pyQvT0fTqvPM=
+
+Name: res/drawable-hdpi/night_biz_topic_mulvote_submit_bg.9.png
+SHA1-Digest: 155he9b8D39rEhKkI7rfVVk1+p8=
+
+Name: res/drawable-hdpi/biz_special_media_default.png
+SHA1-Digest: DmR5xkjXbyiH/u6hhj9730QStIE=
+
+Name: res/drawable/night_biz_pc_plugin_list_theme_icon.xml
+SHA1-Digest: Py52/ciOITpRera6/jjj25q9wa8=
+
+Name: res/drawable-hdpi/biz_live_team_default_icon.png
+SHA1-Digest: I/SzhZvEVgU1WpDVG3sS9E74Rhk=
+
+Name: res/drawable/night_biz_pread_item_like_drawable_selector.xml
+SHA1-Digest: Yt++8B/xH+6UGZuUy98Yb0zbQVE=
+
+Name: res/drawable/biz_widget_pre_btn_4x1_selector.xml
+SHA1-Digest: CYNJqcH6ejGPSwL5zRkY1ko7US0=
+
+Name: res/drawable-hdpi/biz_sns_select_bg.9.png
+SHA1-Digest: yY+1qnN3A5+GrVP8SW3NrWN87/c=
+
+Name: res/drawable-hdpi/base_action_bar_spinner_pressed.9.png
+SHA1-Digest: 0qFrYesT+pQcWef3+shdp3aLVfI=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_guangzhou.jpg
+SHA1-Digest: WP7lx011nv5abfNNGWVIPR6pAAs=
+
+Name: res/layout/biz_sns_manage_item_layout.xml
+SHA1-Digest: lD6V39d/iMCPZpK9wzQ0EOTybRI=
+
+Name: res/drawable-xhdpi/biz_main_tab_bg.png
+SHA1-Digest: Ofi1gBqspSk3obZ+51CZA8hVkCg=
+
+Name: res/drawable-hdpi/biz_widget_next_btn.png
+SHA1-Digest: b6Qx5kBRuobGYJncJaa1couolyU=
+
+Name: res/drawable/biz_news_subscribe_tab_selector16.xml
+SHA1-Digest: cE9yuh5ueaUzfe0vKVPrDLXUFx8=
+
+Name: res/drawable-hdpi/night_sns_sina_icon.png
+SHA1-Digest: vDVkAA4LgYCMsCI+hr+mkb7aqNY=
+
+Name: res/drawable-hdpi/night_biz_sns_select_bg.9.png
+SHA1-Digest: tK11Qs1Q0IQhZTrsnIfQHfN+LSQ=
+
+Name: res/drawable-xhdpi/night_biz_pc_account_score_line.png
+SHA1-Digest: 4JqYIK19B0y6ELj6HZsf4xNZBCk=
+
+Name: res/drawable/biz_pics_detail_back.xml
+SHA1-Digest: iXW63t3gNghqPCsq7LqQKp4LAZE=
+
+Name: res/drawable-xhdpi/biz_vote_back.png
+SHA1-Digest: V9B4/WLdrRRaVcD0wudiuA4S9Bg=
+
+Name: res/drawable-sw600dp/biz_pc_recommend_download_pressed.png
+SHA1-Digest: H6xm+4kK1pctU3Ixq3zlxVN2Gpc=
+
+Name: res/drawable-xhdpi/biz_audio_show_extra_pressed.9.png
+SHA1-Digest: uOOQoApz91U4aY74GuK1/DZClgs=
+
+Name: res/drawable-xhdpi/night_biz_pc_score_bg_2.9.png
+SHA1-Digest: d/7XbN9t2F/a0qcFfk5jIcyIaP0=
+
+Name: res/drawable/biz_news_subscribe_tab_selector10.xml
+SHA1-Digest: Ya90/4JW4XZrEkNBb9DaxkLgouk=
+
+Name: res/drawable-hdpi/night_biz_pc_other_read_tag.png
+SHA1-Digest: Zu4iGIACZdcjbx+q+4yW/CuMu/Y=
+
+Name: res/layout/biz_pc_info_other_item_layout.xml
+SHA1-Digest: q9y+boK/a7dZjE+zjJj5L3yXLSM=
+
+Name: res/drawable-xhdpi/biz_plugin_icon_offline.png
+SHA1-Digest: QaIlRt6rll4nNl0io2DAlPT3tNM=
+
+Name: assets/tablet_multivote.png
+SHA1-Digest: 5AAiQ5YEsXStFpav8Ervn4lHaJU=
+
+Name: res/drawable-xhdpi/base_indicator_dot_selected.png
+SHA1-Digest: 3/NlWD2E2Fr5tF9Y8JkAyZuhJe0=
+
+Name: res/drawable-xhdpi/biz_audio_btn_close_extra_bg_pressed.9.png
+SHA1-Digest: MN9lLi7cC4k4ZOmfF0ws4mkCQtE=
+
+Name: res/drawable/base_list_selector_background_transition.xml
+SHA1-Digest: ezHd5l1XlG0+Rk/i0SACeVuMAA0=
+
+Name: res/drawable-hdpi/biz_news_column_subscribe_actionbar_cancel_pre
+ ssed.png
+SHA1-Digest: M73J+zHctAiBCYh9wB3giXi+3GU=
+
+Name: res/drawable-hdpi/lingyimian_selected.png
+SHA1-Digest: 97p/X/j+FDeyiL5IxNwyq6TODlc=
+
+Name: res/drawable-xhdpi/biz_news_main_back_normal.png
+SHA1-Digest: 3RfY5tvO7Oo4gW5JvIe8B4iTMeY=
+
+Name: res/drawable-hdpi/biz_tie_comment_floor_bg.9.png
+SHA1-Digest: SoYyazrdSY+h8QrlNX782y2CwNY=
+
+Name: res/drawable-xhdpi/biz_audio_wave_item.png
+SHA1-Digest: HgSZOHFzahfXBY3YQ9VmzEbhPFA=
+
+Name: res/layout/biz_setting_guide_column.xml
+SHA1-Digest: e9jh4eKgPi0UDNjpgGFB7xkx86U=
+
+Name: res/drawable/base_plus_minus_icon_drawable.xml
+SHA1-Digest: 5Q6ZelIJS2W0Wow5A0HSOcousds=
+
+Name: res/drawable-hdpi/biz_news_list_tag_local_bg.png
+SHA1-Digest: u4ySVKWIWiLjYrb6VJBwc/DL6Iw=
+
+Name: res/drawable-hdpi/biz_plugin_weather_bg.9.png
+SHA1-Digest: oi2Pppu3xkWz0cPy2yfdmtOS12k=
+
+Name: res/drawable-hdpi/night_sns_qq_icon.png
+SHA1-Digest: khqt3AuG1v3k+qYN/f2dx8kVIlI=
+
+Name: res/drawable/night_base_action_bar_action_city_selector.xml
+SHA1-Digest: D1BNVnUwjaxqPKguS7JILOafsgQ=
+
+Name: res/drawable-xhdpi/biz_plugin_weather_151_200.png
+SHA1-Digest: TFrMN4tobS6MoqCeXJuvALgUveE=
+
+Name: res/drawable-xhdpi/biz_news_column_tabpager_indicator_edit_bg_no
+ rmal.9.png
+SHA1-Digest: 4ldt8hVfBKURwKaNEohCPSsIOcQ=
+
+Name: res/layout/biz_pc_score_actionbar_rule.xml
+SHA1-Digest: hZrPCCqFOqko0x4RDYQPJYCMVu4=
+
+Name: res/layout/biz_pc_account_accountforgetpassword.xml
+SHA1-Digest: 5YaLwZd8R3s+DRltMwHGRnDpzs4=
+
+Name: res/drawable/night_biz_ugc_main_back.xml
+SHA1-Digest: W8tMklez1/D0psKWp6grVXq/VOE=
+
+Name: res/drawable-hdpi/biz_plugin_searchnews_empty.png
+SHA1-Digest: l25ayWB5ToaqVsah20VtfE3vIiM=
+
+Name: res/drawable-hdpi/biz_subscribe_edit_revoke_bg.png
+SHA1-Digest: wwoqZFe10ItlFt0dMXOEELkXYAA=
+
+Name: res/drawable-hdpi/biz_account_head_selector_qq.png
+SHA1-Digest: A0Not1K/Ia27mPgpxgCvseBMdbI=
+
+Name: res/layout/tablet_main_ugc_layout.xml
+SHA1-Digest: l2VQAaLyimSNMZw8RpDFG0MqbRQ=
+

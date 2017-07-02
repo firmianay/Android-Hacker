@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:background="@drawable/biz_special_conference_item_bg" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/webview_img" android:layout_width="@dimen/biz_special_webview_img_size" android:layout_height="@dimen/biz_special_webview_img_size" android:layout_marginRight="3.0dip" />
+    <com.netease.nr.base.view.MyTextView android:textSize="13.0sp" android:textColor="@color/biz_topic_vote_header_title" android:gravity="center" android:id="@id/webview_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+</LinearLayout>

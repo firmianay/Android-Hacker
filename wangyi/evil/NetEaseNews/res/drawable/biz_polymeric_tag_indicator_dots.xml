@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/biz_polymeric_dot_normal" />
+    <item android:drawable="@drawable/biz_polymeric_dot_selected" />
+</transition>

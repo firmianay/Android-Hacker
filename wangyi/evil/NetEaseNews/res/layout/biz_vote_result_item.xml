@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="5.0dip" android:paddingTop="@dimen/biz_topic_vote_item_padding" android:paddingRight="3.0dip" android:paddingBottom="@dimen/biz_topic_vote_item_padding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_vote_submit_digest" android:id="@id/vote_item_see_number" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_vote_submit_digest" android:id="@id/vote_item_see_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/vote_item_see_number" android:layout_alignBottom="@id/vote_item_see_number" />
+    <com.netease.nr.base.view.MyTextView android:textSize="16.0sp" android:textColor="@color/base_red" android:id="@id/vote_item_see_add_one" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="+1" android:layout_toRightOf="@id/vote_item_see_text" android:layout_alignTop="@id/vote_item_see_number" />
+    <com.netease.nr.base.view.MyTextView android:id="@id/vote_item_progress" android:layout_width="wrap_content" android:layout_height="16.0dip" android:layout_marginTop="@dimen/biz_topic_vote_progress_marginTop" android:layout_below="@id/vote_item_see_text" />
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_vote_submit_digest" android:id="@id/vote_item_pencent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_toRightOf="@id/vote_item_progress" android:layout_alignBottom="@id/vote_item_progress" />
+</RelativeLayout>

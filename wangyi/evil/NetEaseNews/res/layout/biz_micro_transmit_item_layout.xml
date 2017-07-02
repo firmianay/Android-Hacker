@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/tool_container" android:background="@drawable/biz_topic_micro_action_trasmit_selector" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.DividerLinearLayout android:gravity="center" android:id="@id/tools_container" android:paddingLeft="7.0dip" android:paddingRight="7.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:gravity="center" android:id="@id/transmit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="50.0dip" />
+    </com.netease.nr.base.view.DividerLinearLayout>
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_tie_comment_toolbar_style" android:id="@id/transmit_text" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_news_detailpage_overflow_share" />
+</LinearLayout>

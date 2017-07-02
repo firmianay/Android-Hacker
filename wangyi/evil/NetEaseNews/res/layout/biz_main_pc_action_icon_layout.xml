@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/base_action_bar_icon_background_selector" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" style="@style/ActionBarIcon"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <ImageView android:layout_gravity="center|right|top" android:id="@id/tag" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/biz_pc_other_tag"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</FrameLayout>

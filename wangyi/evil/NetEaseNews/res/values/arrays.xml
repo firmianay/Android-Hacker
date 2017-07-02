@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="biz_sns_youdao_error_code">
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1006</item>
+        <item>1007</item>
+        <item>1008</item>
+        <item>1009</item>
+        <item>1010</item>
+        <item>1011</item>
+        <item>1012</item>
+        <item>1013</item>
+        <item>1014</item>
+        <item>1015</item>
+        <item>206</item>
+        <item>207</item>
+        <item>209</item>
+        <item>210</item>
+        <item>214</item>
+        <item>220</item>
+        <item>221</item>
+        <item>225</item>
+        <item>231</item>
+        <item>304</item>
+        <item>307</item>
+    </string-array>
+    <string-array name="biz_sns_youdao_error_name">
+        <item>token_rejected</item>
+        <item>parameter_rejected</item>
+        <item>version_rejected：OAuth版本号不是1.0</item>
+        <item>系统时间错误</item>
+        <item>nonce_used：5分钟内该nonce被使用</item>
+        <item>缺少参数</item>
+        <item>oauth签名异常</item>
+        <item>signature_method_rejected：oauth server没有提供该签名方法</item>
+        <item>access_state_error</item>
+        <item>consumer_rejected</item>
+        <item>accessor_rejected</item>
+        <item>callback_error</item>
+        <item>callback_domain_error</item>
+        <item>verifier_error</item>
+        <item>permission_denied</item>
+        <item>错误的URI请求</item>
+        <item>用户认证错误</item>
+        <item>请求的资源（笔记本、笔记、附件等）不存在</item>
+        <item>用户空间已满</item>
+        <item>错误的传入参数，必须的参数为空等</item>
+        <item>用户不存在</item>
+        <item>用户已经存在，不能重复注册</item>
+        <item>笔记本尚不存在，不能在该笔记本下创建笔记</item>
+        <item>该笔记或者附件已经存在，不能重复创建</item>
+        <item>笔记已经被删除</item>
+        <item>无效的第三方应用</item>
+    </string-array>
+    <string-array name="biz_news_column_name_array">
+        <item>头条</item>
+        <item>娱乐</item>
+        <item>体育</item>
+        <item>财经</item>
+        <item>科技</item>
+        <item>原创</item>
+        <item>中超</item>
+        <item>军事</item>
+        <item>汽车</item>
+    </string-array>
+    <string-array name="biz_news_column_id_array">
+        <item>T1348647909107</item>
+        <item>T1348648517839</item>
+        <item>T1348649079062</item>
+        <item>T1348648756099</item>
+        <item>T1348649580692</item>
+        <item>T1367050859308</item>
+        <item>T1348649503389</item>
+        <item>T1348648141035</item>
+        <item>T1348654060988</item>
+    </string-array>
+    <string-array name="biz_news_column_cid_array">
+        <item>C1348646712614</item>
+        <item>C1348648351901</item>
+        <item>C1348648351901</item>
+        <item>C1348649048655</item>
+        <item>C1348648727071</item>
+        <item>C1348649554552</item>
+        <item>C1348654575297</item>
+        <item>C1348649048655</item>
+        <item>C1348647991705</item>
+        <item>C1348652751993</item>
+    </string-array>
+    <string-array name="biz_news_column_ename_array">
+        <item>androidnews</item>
+        <item>yule</item>
+        <item>tiyu</item>
+        <item>caijing</item>
+        <item>keji</item>
+        <item>yuanchuang</item>
+        <item>zhongchao</item>
+        <item>junshi</item>
+        <item>qiche</item>
+    </string-array>
+    <array name="biz_news_column_icon_array">
+        <item>0</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_yule</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_tiyu</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_caijing</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_keji</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_yuanchuang</item>
+        <item>0</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_zhongchao</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_junshi</item>
+        <item>@drawable/biz_news_column_subscribe_recommend_qiche</item>
+    </array>
+    <integer-array name="biz_news_column_checked_array">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="biz_news_column_id_extra_default_array">
+        <item>T1367050859308</item>
+        <item>T1348654060988</item>
+        <item>T1348650593803</item>
+        <item>T1348654085632</item>
+        <item>T1379038288239</item>
+    </string-array>
+    <string-array name="biz_news_column_cid_extra_default_array">
+        <item>C1348654575297</item>
+        <item>C1348652751993</item>
+        <item>C1348650356377</item>
+        <item>C1348652751993</item>
+        <item>C1348652751993</item>
+    </string-array>
+    <string-array name="biz_news_column_tname_extra_default_array">
+        <item>原创</item>
+        <item>汽车</item>
+        <item>女人</item>
+        <item>房产</item>
+        <item>听新闻</item>
+    </string-array>
+    <string-array name="biz_news_column_ename_extra_default_array">
+        <item>yuanchuang</item>
+        <item>qiche</item>
+        <item>nvren</item>
+        <item>fangchan</item>
+        <item>tingxinwen</item>
+    </string-array>
+    <string-array name="biz_column_subscribe_filter_words">
+        <item>本地</item>
+    </string-array>
+    <string-array name="biz_setting_textsize_array">
+        <item>特大号字</item>
+        <item>大号字</item>
+        <item>中号字</item>
+        <item>小号字</item>
+    </string-array>
+    <string-array name="biz_news_detailpage_overflow_items">
+        <item>写跟贴</item>
+        <item>分享</item>
+        <item>收藏</item>
+        <item>取消收藏</item>
+        <item>字体大小</item>
+    </string-array>
+    <string-array name="biz_pic_show_overflow_items">
+        <item>写跟贴</item>
+        <item>分享</item>
+        <item>收藏</item>
+        <item>保存</item>
+        <item>取消收藏</item>
+    </string-array>
+    <string-array name="biz_pc_favorite_overflow_items">
+        <item>新闻收藏</item>
+        <item>跟帖收藏</item>
+        <item>图片收藏</item>
+    </string-array>
+    <string-array name="biz_pc_mail_suffix">
+        <item>\@163.com</item>
+        <item>\@126.com</item>
+        <item>\@yeah.net</item>
+        <item>\@vip.163.com</item>
+        <item>\@vip.126.com</item>
+        <item>\@popo.163.com</item>
+        <item>\@188.com</item>
+        <item>\@vip.188.com</item>
+        <item>\@qq.com</item>
+        <item>\@yahoo.com</item>
+        <item>\@sina.com</item>
+    </string-array>
+    <string-array name="biz_plugin_mail_suffix">
+        <item>\@163.com</item>
+        <item>\@126.com</item>
+        <item>\@yeah.net</item>
+        <item>\@188.com</item>
+    </string-array>
+    <string-array name="biz_pc_score_detail_start">
+        <item>1.首先你需要登录我们的新闻客户端</item>
+        <item>2.每天都打开新闻，您就可以轻松拿到奖励啦</item>
+    </string-array>
+    <string-array name="biz_pc_score_detail_share">
+        <item>1.打开任意一篇新闻</item>
+        <item>2.点击分享按钮</item>
+        <item>3.选择想要分享的平台</item>
+        <item>4.最后确定分享，即可获得奖励啦</item>
+    </string-array>
+    <string-array name="biz_pc_score_detail_wirte">
+        <item>1.打开任意一篇新闻</item>
+        <item>2.点击跟贴输入框</item>
+        <item>3.输入您想说的话</item>
+        <item>4.输入完成后，点击确认,即可完成</item>
+    </string-array>
+    <string-array name="biz_pc_score_detail_vote">
+        <item>1.进入投票栏目，或新闻正文投票页面</item>
+        <item>2.点击您的投票选项，即可获得奖励</item>
+    </string-array>
+    <string-array name="biz_pc_score_detail_ding">
+        <item>1.打开任意一篇新闻</item>
+        <item>2.点击右上角跟贴入口</item>
+        <item>3.进入跟贴页面，点击你要顶的跟贴</item>
+        <item>4.点击顶按钮，即可获得奖励啦</item>
+    </string-array>
+    <string-array name="biz_plugin_weather_city">
+        <item>北京</item>
+        <item>上海</item>
+        <item>广州</item>
+        <item>深圳</item>
+    </string-array>
+    <array name="polymeric_tag_ids">
+        <item>@id/tag1</item>
+        <item>@id/tag2</item>
+        <item>@id/tag3</item>
+        <item>@id/tag4</item>
+        <item>@id/tag5</item>
+        <item>@id/tag6</item>
+        <item>@id/tag7</item>
+        <item>@id/tag8</item>
+        <item>@id/tag9</item>
+        <item>@id/tag10</item>
+    </array>
+    <array name="biz_news_subscribe_tab_drawables">
+        <item>@drawable/biz_news_subscribe_tab_selector1</item>
+        <item>@drawable/biz_news_subscribe_tab_selector2</item>
+        <item>@drawable/biz_news_subscribe_tab_selector3</item>
+        <item>@drawable/biz_news_subscribe_tab_selector4</item>
+        <item>@drawable/biz_news_subscribe_tab_selector5</item>
+        <item>@drawable/biz_news_subscribe_tab_selector6</item>
+        <item>@drawable/biz_news_subscribe_tab_selector7</item>
+        <item>@drawable/biz_news_subscribe_tab_selector8</item>
+        <item>@drawable/biz_news_subscribe_tab_selector9</item>
+        <item>@drawable/biz_news_subscribe_tab_selector10</item>
+        <item>@drawable/biz_news_subscribe_tab_selector11</item>
+        <item>@drawable/biz_news_subscribe_tab_selector12</item>
+        <item>@drawable/biz_news_subscribe_tab_selector13</item>
+        <item>@drawable/biz_news_subscribe_tab_selector14</item>
+        <item>@drawable/biz_news_subscribe_tab_selector15</item>
+        <item>@drawable/biz_news_subscribe_tab_selector16</item>
+        <item>@drawable/biz_news_subscribe_tab_selector17</item>
+        <item>@drawable/biz_news_subscribe_tab_selector18</item>
+        <item>@drawable/biz_news_subscribe_tab_selector19</item>
+        <item>@drawable/biz_news_subscribe_tab_selector20</item>
+    </array>
+    <string-array name="base_default_plugins">
+        <item>9|0|0|com.netease.nr.biz.plugin.plugin.MyCollectionPlugin</item>
+        <item>8|0|0|com.netease.nr.biz.plugin.plugin.MyCommentsPlugin</item>
+        <item>10|0|0|com.netease.nr.biz.plugin.plugin.PushMsgPlugin</item>
+        <item>1|0|1|com.netease.nr.biz.plugin.plugin.WeatherPlugin</item>
+        <item>2|0|1|com.netease.nr.biz.plugin.plugin.OfflinePlugin</item>
+        <item>3|0|1|com.netease.nr.biz.plugin.plugin.ThemePlugin</item>
+        <item>4|0|1|com.netease.nr.biz.plugin.plugin.NewsSearchPlugin</item>
+        <item>5|0|0|com.netease.nr.biz.plugin.plugin.MailPlugin</item>
+        <item>7|1|1|com.netease.nr.biz.plugin.plugin.ManagePlugin</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingTop="@dimen/base_listitem_padding_top_bottom" android:paddingBottom="@dimen/base_listitem_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_listitem_padding_top_bottom" android:layout_marginBottom="@dimen/base_listitem_padding_top_bottom">
+        <ImageView android:id="@id/current_tag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/biz_audio_extra_list_current_tag" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <com.netease.nr.base.view.MyTextView android:textSize="16.0sp" android:textColor="@color/biz_audio_list_textcolor" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:layout_toRightOf="@id/current_tag" android:layout_alignParentTop="true" />
+        <com.netease.nr.base.view.MyTextView android:textSize="12.0sp" android:textColor="@color/biz_audio_list_textcolor" android:id="@id/ptime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="1.0dip" android:singleLine="true" android:layout_toRightOf="@id/current_tag" android:layout_below="@id/title" />
+        <com.netease.nr.base.view.MyTextView android:textSize="12.0sp" android:textColor="@color/biz_audio_list_textcolor" android:id="@id/downloaded" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/base_listitem_padding_left_right" android:text="@string/biz_audio_downloaded" android:singleLine="true" android:layout_below="@id/title" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/biz_audio_extra_list_divider" android:scaleType="fitXY" />
+</LinearLayout>

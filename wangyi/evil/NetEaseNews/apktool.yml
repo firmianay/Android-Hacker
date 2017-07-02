@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: NetEaseNews.apk
+compressionType: false
+doNotCompress:
+- arsc
+- res/drawable-hdpi/biz_live_news_livrcontent_itemleft_bg.9.PNG
+- PNG
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '5'
+  targetSdkVersion: '15'
+sharedLibrary: false
+unknownFiles:
+  org/jsoup/nodes/entities-base.properties: '8'
+  org/jsoup/nodes/entities-full.properties: '8'
+  org/apache/http/entity/mime/version.properties: '8'
+  cfg/ts.tab: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.1
+versionInfo:
+  versionCode: '286'
+  versionName: 3.7.0

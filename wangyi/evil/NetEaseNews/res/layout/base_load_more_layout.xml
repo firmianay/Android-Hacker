@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:orientation="vertical" android:id="@id/base_load_more" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/more_divider" android:background="@drawable/base_list_divider_drawable" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+    <com.netease.nr.base.view.MyButton android:textAppearance="@style/base_list_title_style" android:textColor="@color/base_list_title_color" android:id="@id/more_button" android:background="@drawable/biz_pc_account_register_btn_selector" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_margin="7.0dip" android:text="@string/base_load_more" android:layout_below="@id/more_divider" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/more_loading" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignTop="@id/more_button" android:layout_alignBottom="@id/more_button">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/base_small_progressbar_style" />
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/base_list_title_style" android:id="@id/more_loading_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:text="@string/base_loading_more" />
+    </LinearLayout>
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/base_list_title_style" android:gravity="center" android:id="@id/more_err_text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/base_load_err_retry" android:layout_alignTop="@id/more_button" android:layout_alignBottom="@id/more_button" />
+</RelativeLayout>

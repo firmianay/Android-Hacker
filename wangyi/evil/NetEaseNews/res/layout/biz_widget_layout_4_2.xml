@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:paddingLeft="@dimen/biz_widget_padding_left" android:paddingRight="@dimen/biz_widget_padding_right" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/biz_widget_bg" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/widget_top" android:background="@drawable/biz_widget_bottom_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/widget_apptag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/biz_widget_tag" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <ImageView android:id="@id/widget_refresh_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_widget_refresh_btn_selector" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_widget_divider" android:layout_toLeftOf="@id/widget_refresh_btn" />
+        </RelativeLayout>
+        <FrameLayout android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/widget_body_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:id="@id/widget_body" android:paddingLeft="2.0dip" android:paddingRight="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/widget_img" android:layout_width="@dimen/biz_widget_img_width" android:layout_height="@dimen/biz_widget_img_heigh" android:layout_centerVertical="true" />
+                    <TextView android:textAppearance="@style/biz_widget_title_style" android:ellipsize="end" android:id="@id/widget_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:singleLine="true" android:layout_toRightOf="@id/widget_img" android:layout_alignTop="@id/widget_img" />
+                    <TextView android:textAppearance="@style/biz_widget_describe_style" android:id="@id/widget_discribe" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:lines="2" android:layout_below="@id/widget_title" android:layout_alignLeft="@id/widget_title" />
+                    <TextView android:textAppearance="@style/biz_widget_reply_style" android:id="@id/widget_comment_nums" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/widget_discribe" android:layout_alignParentRight="true" />
+                </RelativeLayout>
+            </LinearLayout>
+            <include android:id="@id/widget_loadding" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/biz_widget_loadding" />
+        </FrameLayout>
+        <RelativeLayout android:id="@id/widget_bottom" android:background="@drawable/biz_widget_bottom_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/pre_btn" android:background="@drawable/biz_widget_pre_btn_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <ImageView android:id="@id/next_btn" android:background="@drawable/biz_widget_next_btn_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <TextView android:textAppearance="@style/biz_widget_page_tag_style_small" android:textColor="#ffffffff" android:id="@id/news_num_tag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="3" android:layout_centerInParent="true" />
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_widget_divider" android:layout_toLeftOf="@id/next_btn" />
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_widget_divider" android:layout_toRightOf="@id/pre_btn" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

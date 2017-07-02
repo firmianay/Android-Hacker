@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:paddingLeft="@dimen/base_listitem_padding_left_right" android:paddingTop="@dimen/base_listitem_padding_top_bottom" android:paddingRight="@dimen/base_listitem_padding_left_right" android:paddingBottom="@dimen/base_listitem_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:id="@id/photo_bg" android:background="@drawable/biz_pic_item_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.netease.nr.base.view.FitImageView android:id="@id/photo" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/item_line" android:background="@color/biz_pic_item_line_color" android:paddingTop="2.0dip" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/photo" />
+        <com.netease.nr.base.view.MyTextView android:id="@id/photo_title" android:paddingLeft="@dimen/biz_photoset_list_title_paddingLeft" android:paddingTop="3.0dip" android:paddingBottom="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:layout_below="@id/photo" android:layout_alignLeft="@id/photo" style="@style/biz_pics_item_title" />
+        <com.netease.nr.base.view.MyTextView android:id="@id/photo_paste_num" android:paddingTop="3.0dip" android:paddingRight="@dimen/biz_photoset_list_comment_paddingRight" android:paddingBottom="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:layout_alignRight="@id/photo" android:layout_alignBottom="@id/photo_title" style="@style/biz_pics_item_paste_num" />
+    </RelativeLayout>
+</LinearLayout>

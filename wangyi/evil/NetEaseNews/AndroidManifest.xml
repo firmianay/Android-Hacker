@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.netease.newsreader.activity">
+    <original-package android:name="com.netease.nr"/>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="com.netease.newsreader.permission.READ"/>
+    <uses-permission android:name="com.netease.newsreader.permission.WRITE"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"/>
+    <permission android:name="com.netease.newsreader.permission.READ"/>
+    <permission android:name="com.netease.newsreader.permission.WRITE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <application android:icon="@drawable/icon" android:label="@string/app_name" android:name="com.netease.nr.base.activity.BaseApplication" android:theme="@style/AppTheme">
+        <meta-data android:name="APPKEY" android:value="@string/ns_appkey"/>
+        <meta-data android:name="VERSION" android:value="@string/versionnum"/>
+        <meta-data android:name="Channel" android:value="@string/channel_id"/>
+        <provider android:authorities="com.netease.newsreader" android:exported="false" android:name="com.netease.nr.base.db.BaseContentProvider" android:readPermission="com.netease.newsreader.permission.READ" android:writePermission="com.netease.newsreader.permission.WRITE"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_name" android:name="com.netease.nr.biz.ad.AdActivity" android:screenOrientation="portrait" android:theme="@style/AdTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.netease.nr.base.activity.BaseActivity" android:theme="@style/ActivityTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="web" android:scheme="newsapp"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.netease.nr.base.activity.BaseNoAnimationActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask" android:name="com.netease.nr.phone.main.MainActivity" android:theme="@style/ActivityTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.netease.nr.biz.plugin.video.VideoPlayActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.netease.nr.biz.news.detailpage.NewsPageActivity" android:theme="@style/ActivityTheme" android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="doc" android:scheme="newsapp"/>
+            </intent-filter>
+        </activity>
+        <receiver android:enabled="true" android:exported="false" android:name="com.netease.util.cache.SDcardStateReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_EJECT"/>
+                <action android:name="android.intent.action.MEDIA_MOUNTED"/>
+                <data android:scheme="file"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_name" android:launchMode="singleTop" android:name="com.netease.nr.biz.fb.FeedBackList" android:theme="@style/ActivityTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.netease.nr.biz.fb.FeedBackDetailList" android:theme="@style/ActivityTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:launchMode="singleTop" android:name="com.netease.nr.biz.fb.CreateNewFeedBack" android:theme="@style/ActivityTheme" android:windowSoftInputMode="adjustResize|stateVisible"/>
+        <receiver android:name="com.netease.nr.biz.fb.FeedBackReceiver">
+            <intent-filter>
+                <action android:name="com.netease.newsreader.feedback.FEEDBACK_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.netease.newsreader.provider.feedback" android:name="com.netease.nr.biz.fb.FeedBackProvider" android:readPermission="com.netease.newsreader.permission.READ" android:writePermission="com.netease.newsreader.permission.WRITE"/>
+        <service android:exported="false" android:name="com.netease.nr.biz.offline.OffLineService"/>
+        <service android:exported="false" android:name="com.netease.nr.biz.download.DownloadService"/>
+        <service android:exported="false" android:name="com.netease.nr.biz.update.AppUpdateService"/>
+        <service android:exported="true" android:name="com.netease.nr.biz.push.PushService"/>
+        <receiver android:name="com.netease.nr.biz.push.PushReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:label="@string/biz_widget_4_2" android:name="com.netease.nr.biz.widget.WidgetProvider_4_2">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.appwidget.action.APPWIDGET_ENABLED"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/update_appwidget_info_4_2"/>
+        </receiver>
+        <receiver android:label="@string/biz_widget_4_3" android:name="com.netease.nr.biz.widget.WidgetProvider_4_3">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.appwidget.action.APPWIDGET_ENABLED"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/update_appwidget_info_4_3"/>
+        </receiver>
+        <receiver android:label="@string/biz_widget_4_1" android:name="com.netease.nr.biz.widget.WidgetProvider_4_1">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.appwidget.action.APPWIDGET_ENABLED"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/update_appwidget_info_4_1"/>
+        </receiver>
+        <receiver android:label="@string/biz_widget_4_4" android:name="com.netease.nr.biz.widget.WidgetProvider_4_4">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.appwidget.action.APPWIDGET_ENABLED"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/update_appwidget_info_4_4"/>
+        </receiver>
+        <service android:name="com.netease.nr.biz.widget.WidgetService4x2">
+            <intent-filter>
+                <action android:name="com.netease.newsreader.appwidget.service.IMM_UPDATE_SERVICE_4_2"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.netease.nr.biz.widget.WidgetService4x3">
+            <intent-filter>
+                <action android:name="com.netease.newsreader.appwidget.service.IMM_UPDATE_SERVICE_4_3"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.netease.nr.biz.widget.WidgetService4x1">
+            <intent-filter>
+                <action android:name="com.netease.newsreader.appwidget.service.IMM_UPDATE_SERVICE_4_1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.netease.nr.biz.widget.WidgetService4x4">
+            <intent-filter>
+                <action android:name="com.netease.newsreader.appwidget.service.IMM_UPDATE_SERVICE_4_4"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.netease.nr.biz.offline.SyncDealImageService"/>
+        <service android:exported="false" android:name="com.netease.nr.biz.offline.SyncDealImageTwoService"/>
+        <service android:exported="false" android:name="com.netease.nr.biz.offline.SyncDealImageThreeService"/>
+        <service android:enabled="true" android:name="com.baidu.location.f" android:process=":remote"/>
+        <service android:name="com.netease.nr.biz.audio.AudioService"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask" android:name="com.netease.nr.biz.audio.AudioPlayActivity" android:theme="@style/ActivityTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask" android:name="com.netease.nr.tablet.main.MainActivity" android:theme="@style/ActivityTheme"/>
+        <activity android:launchMode="singleTask" android:name="com.tencent.tauth.AuthActivity" android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="tencent100346651"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

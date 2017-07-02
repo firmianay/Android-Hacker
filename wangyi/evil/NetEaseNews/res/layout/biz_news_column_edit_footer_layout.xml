@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/biz_news_column_edit_container" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.DividerLinearLayout android:orientation="horizontal" android:id="@id/edit_container" android:layout_width="fill_parent" android:layout_height="54.0dip">
+        <FrameLayout android:gravity="center" android:layout_gravity="center" android:id="@id/subscribe" android:background="@drawable/biz_news_column_edit_bg" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <RelativeLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.netease.nr.base.view.MyTextView android:textSize="17.0sp" android:textColor="@color/biz_news_column_edit_subscribe" android:layout_gravity="center" android:id="@id/subscribe_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_news_column_subscribe_media" android:drawableLeft="@drawable/biz_news_column_add_subscribe" />
+                <com.netease.nr.base.view.MyImageView android:id="@id/add_subscribe_text_tag" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/biz_pc_other_read_tag" android:layout_toRightOf="@id/subscribe_tv" android:layout_alignParentTop="true" />
+            </RelativeLayout>
+        </FrameLayout>
+        <FrameLayout android:gravity="center" android:layout_gravity="center" android:id="@id/edit" android:background="@drawable/biz_news_column_edit_bg" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <com.netease.nr.base.view.MyTextView android:textSize="17.0sp" android:textColor="@color/biz_news_column_edit" android:layout_gravity="center" android:id="@id/edit_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_news_column_edit" />
+        </FrameLayout>
+    </com.netease.nr.base.view.DividerLinearLayout>
+    <FrameLayout android:gravity="center" android:layout_gravity="center" android:id="@id/finish" android:background="@drawable/biz_news_column_edit_bg" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="54.0dip" android:layout_alignTop="@id/edit_container" android:layout_alignBottom="@id/edit_container">
+        <com.netease.nr.base.view.MyTextView android:textSize="17.0sp" android:textColor="@color/biz_news_column_edit_finish" android:layout_gravity="center" android:id="@id/finish_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_news_column_edit_complete" android:singleLine="true" android:drawableLeft="@drawable/biz_news_column_edit_finish" android:drawablePadding="3.0dip" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center" android:id="@id/delete" android:background="@drawable/biz_news_column_edit_delete_bg" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignTop="@id/edit_container" android:layout_alignBottom="@id/edit_container">
+        <com.netease.nr.base.view.MyTextView android:textSize="17.0sp" android:textColor="@color/biz_news_column_edit_subscribe" android:gravity="center" android:layout_gravity="center" android:id="@id/delete_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_news_column_edit_delete" android:drawableLeft="@drawable/biz_news_column_edit_delete" android:drawablePadding="3.0dip" />
+    </FrameLayout>
+</RelativeLayout>

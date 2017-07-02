@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/notifyAlbumCover" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/cover" android:scaleType="centerCrop" />
+    <ImageView android:id="@id/playNotificationStop" android:padding="12.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_radio_close" android:scaleType="center" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/titletext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_toRightOf="@id/notifyAlbumCover" android:layout_alignParentTop="true">
+        <TextView android:textAppearance="@android:style/TextAppearance.StatusBar.EventContent.Title" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:singleLine="true" />
+        <TextView android:textAppearance="@android:style/TextAppearance.StatusBar.EventContent" android:id="@id/desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/playpasue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="15.0dip" android:layout_toRightOf="@id/notifyAlbumCover" android:layout_below="@id/titletext">
+        <ImageView android:id="@id/play" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_radio_play_selector" android:scaleType="center" />
+        <ImageView android:id="@id/pause" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_radio_pause_selector" android:scaleType="center" />
+    </FrameLayout>
+</RelativeLayout>

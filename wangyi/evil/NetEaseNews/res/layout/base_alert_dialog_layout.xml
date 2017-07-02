@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:padding="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/base_tip_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.base.view.MyTextView android:textSize="22.0sp" android:textColor="#ffe2e3e3" android:gravity="center" android:id="@id/dialog_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:singleLine="true" android:drawablePadding="5.0dip" />
+        <FrameLayout android:id="@id/dialog_content_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip">
+            <com.netease.nr.base.view.MyTextView android:textSize="18.0sp" android:textColor="#ffe2e3e3" android:gravity="left" android:id="@id/dialog_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" />
+        </FrameLayout>
+        <ImageView android:background="@drawable/biz_pc_viersion_line" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.netease.nr.base.view.MyButton android:textAppearance="@style/base_tip_btn_style" android:textColor="#ffb6b6b5" android:id="@id/cancel" android:background="@drawable/base_tip_btn_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip" android:text="@string/cancel" android:layout_weight="1.0" />
+            <ImageView android:background="@drawable/biz_pc_version_split" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+            <com.netease.nr.base.view.MyButton android:textAppearance="@style/base_tip_btn_style" android:textColor="#ffeaeaea" android:id="@id/ok" android:background="@drawable/base_tip_btn_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip" android:text="@string/confirm" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

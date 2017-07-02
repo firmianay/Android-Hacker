@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/whole_space" android:background="@drawable/biz_about_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/netease_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="120.0dip" android:src="@drawable/biz_about_netease" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/introduction" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:src="@drawable/biz_about_logo" android:layout_below="@id/netease_logo" android:layout_centerHorizontal="true" />
+    <com.netease.nr.base.view.MyButton android:textAppearance="@style/biz_pc_profile_account_login_style" android:textColor="#ff000000" android:id="@id/turnnightly" android:background="@drawable/biz_pc_account_register_btn_selector" android:layout_width="100.0dip" android:layout_height="40.0dip" android:layout_marginTop="80.0dip" android:text="@string/biz_about_turnnightly" android:layout_below="@id/introduction" android:layout_centerInParent="true" />
+    <com.netease.nr.base.view.MyTextView android:id="@id/version_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

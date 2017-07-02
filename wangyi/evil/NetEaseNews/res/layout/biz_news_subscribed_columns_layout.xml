@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netease.nr.base.view.draggrid.DragLayer android:id="@id/drag_layer" android:background="@drawable/biz_news_subscribe_item_bitmap" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.netease.nr.base.view.MyTextView android:textSize="14.0sp" android:textColor="#ff666666" android:gravity="center" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="15.0dip" android:text="@string/biz_news_subscribed_edit_header_title" android:layout_alignParentTop="true" />
+        <com.netease.nr.base.view.draggrid.DragGridView android:id="@id/grid" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="15.0dip" android:listSelector="@android:color/transparent" android:horizontalSpacing="15.0dip" android:verticalSpacing="15.0dip" android:numColumns="3" android:layout_below="@id/title" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/revoke_area" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <com.netease.nr.base.view.MyTextView android:textSize="14.0sp" android:textColor="#ff666666" android:gravity="right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/biz_news_subscribed_edit_cancel" />
+            <com.netease.nr.base.view.MyButton android:textSize="16.0sp" android:textColor="#ff666666" android:gravity="center" android:id="@id/revoke" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+</com.netease.nr.base.view.draggrid.DragLayer>

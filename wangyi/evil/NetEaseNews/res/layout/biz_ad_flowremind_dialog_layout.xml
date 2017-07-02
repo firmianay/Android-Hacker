@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textSize="18.0sp" android:textColor="#ffe2e3e3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_ad_flowremind_tipcontent" />
+    <com.netease.nr.base.view.MyCheckBox android:textSize="18.0sp" android:textColor="#ffe2e3e3" android:id="@id/biz_ad_flowremind_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/biz_ad_checkbox_selector" android:text="@string/biz_ad_flowremind_noask" />
+</LinearLayout>

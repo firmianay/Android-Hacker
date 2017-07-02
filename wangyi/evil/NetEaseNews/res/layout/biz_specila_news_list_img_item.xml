@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/base_list_selector" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/img_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" layout="@layout/biz_special_news_list_item" />
+    <ImageView android:id="@id/special_divier_line" android:paddingLeft="@dimen/base_listitem_padding_left_right" android:paddingRight="@dimen/base_listitem_padding_left_right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:src="@drawable/base_list_divider_drawable" android:scaleType="fitXY" android:layout_below="@id/img_content" android:layout_alignParentBottom="true" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netease.nr.base.view.ViewPagerForSlider android:id="@id/pager" android:background="@color/base_main_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.phone.main.NewsPagerIndicator android:id="@id/indicator" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.phone.main.NewsTabPagerIndicator android:id="@id/real_indicator" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/edit" android:background="@drawable/biz_news_column_tabpager_indicator_edit_bg" android:paddingLeft="19.0dip" android:paddingRight="19.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_news_column_tabpager_indicator_edit" android:layout_alignTop="@id/real_indicator" android:layout_alignBottom="@id/real_indicator" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <com.netease.nr.base.view.MyImageView android:id="@id/has_new_subscribe_tag" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_pc_other_read_tag" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/divider" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_news_column_tabpager_indicator_divider" android:scaleType="fitXY" android:layout_toLeftOf="@id/edit" android:layout_alignTop="@id/real_indicator" android:layout_alignBottom="@id/real_indicator" android:layout_centerVertical="true" />
+    </com.netease.nr.phone.main.NewsPagerIndicator>
+</com.netease.nr.base.view.ViewPagerForSlider>

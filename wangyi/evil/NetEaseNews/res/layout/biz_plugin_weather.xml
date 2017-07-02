@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyImageView android:id="@id/root" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/biz_plugin_weather_paddingTopAndBottom" android:paddingBottom="@dimen/biz_plugin_weather_paddingTopAndBottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/weather_today" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/biz_plugin_weather_item_first" />
+        <ImageView android:id="@id/divider" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/base_list_divider_drawable" android:scaleType="fitXY" />
+        <com.netease.nr.base.view.ViewPagerWithIndicator android:id="@id/viewpager" android:paddingLeft="@dimen/biz_plugin_weather_paddingLeftAndRight" android:paddingRight="@dimen/biz_plugin_weather_paddingLeftAndRight" android:layout_width="fill_parent" android:layout_height="@dimen/biz_weather_pager_height" android:layout_marginTop="@dimen/biz_plugin_weather_first_item_margin_top" android:overScrollMode="never" />
+    </LinearLayout>
+    <com.netease.nr.base.view.MyTextView android:gravity="center" android:layout_gravity="bottom|center" android:id="@id/date_source" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_plugin_weather_data_source" />
+</FrameLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/biz_topic_micro_padding_left" android:paddingTop="20.0dip" android:paddingRight="@dimen/biz_topic_micro_padding_right" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.FitImageView android:id="@id/user_icon" android:layout_width="@dimen/biz_topic_micro_header_width" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <RelativeLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_toRightOf="@id/user_icon" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_mianhead_name" android:id="@id/user_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_topic_micro_group_time_size" android:id="@id/datetime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/user_name" android:layout_alignBottom="@id/user_name" android:layout_alignParentRight="true" />
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_des_name" android:id="@id/describ" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_below="@id/user_name" android:layout_alignLeft="@id/user_name" />
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_digest" android:id="@id/digest" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_below="@id/describ" android:layout_alignLeft="@id/user_name" android:lineSpacingExtra="5.0dip" />
+        <FrameLayout android:id="@id/content_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_below="@id/digest" android:layout_alignLeft="@id/digest">
+            <com.netease.nr.base.view.MyImageView android:id="@id/img" android:layout_width="@dimen/base_listitem_img_width" android:layout_height="@dimen/base_listitem_img_height" />
+            <com.netease.nr.base.view.MyImageView android:layout_gravity="center" android:id="@id/video" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_topic_micro_video_cover" />
+        </FrameLayout>
+        <ImageView android:id="@id/weibo_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_below="@id/content_img" android:layout_alignLeft="@id/content_img" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/replycount_layout" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingRight="5.0dip" android:paddingBottom="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_alignBottom="@id/weibo_icon" android:layout_alignParentRight="true">
+            <ImageView android:id="@id/replyimg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:src="@drawable/biz_topic_micro_detail_replay_img" />
+            <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_topic_micro_group_comment_size" android:textColor="@color/biz_special_group_title" android:id="@id/replycount" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <ImageView android:id="@id/devider_line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:scaleType="fitXY" android:layout_below="@id/weibo_icon" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

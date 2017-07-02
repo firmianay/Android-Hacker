@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/base_tip_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textSize="22.0sp" android:textColor="#90f6f6f6" android:gravity="center" android:id="@id/version_dialog_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="title" android:layout_alignParentTop="true" />
+    <com.netease.nr.base.view.MyTextView android:textSize="18.0sp" android:textColor="#90f6f6f6" android:gravity="left" android:id="@id/version_dialog_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:text="contentcontent" android:layout_above="@id/version_dialog_btn_zone" android:layout_below="@id/version_dialog_title" />
+    <ImageView android:background="@drawable/biz_pc_viersion_line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+    <LinearLayout android:gravity="center" android:id="@id/version_dialog_btn_zone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <com.netease.nr.base.view.MyButton android:textAppearance="@style/base_tip_btn_style" android:id="@id/version_dialog_btn_cancel" android:background="@drawable/base_tip_btn_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip" android:layout_weight="1.0" />
+        <ImageView android:background="@drawable/biz_pc_version_split" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        <com.netease.nr.base.view.MyButton android:textAppearance="@style/base_tip_btn_style" android:id="@id/version_dialog_btn_ok" android:background="@drawable/base_tip_btn_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

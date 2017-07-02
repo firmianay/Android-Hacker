@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/process_item" android:paddingTop="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/biz_pc_plugin_icon" android:layout_width="@dimen/biz_pc_main_plugin_list_icon_size" android:layout_height="@dimen/biz_pc_main_plugin_list_icon_size" android:src="@drawable/biz_pc_offline_cancel" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_pc_offline_download_title_style" android:gravity="center" android:id="@id/digest" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/biz_pc_plugin_icon" android:layout_centerHorizontal="true" />
+</RelativeLayout>

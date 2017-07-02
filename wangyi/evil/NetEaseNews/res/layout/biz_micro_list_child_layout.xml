@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/biz_topic_micro_padding_child_left" android:paddingTop="5.0dip" android:paddingRight="@dimen/biz_topic_micro_padding_child_right" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.FitImageView android:id="@id/user_icon" android:layout_width="@dimen/biz_topic_micro_header_width" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <RelativeLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_toRightOf="@id/user_icon" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_child_header" android:id="@id/user_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_child_digest" android:id="@id/digest" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_below="@id/user_name" android:layout_alignLeft="@id/user_name" android:lineSpacingExtra="5.0dip" />
+    </RelativeLayout>
+    <ImageView android:id="@id/micro_child_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/content" android:layout_alignParentBottom="true" />
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="@dimen/biz_pc_main_plugin_list_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/divider" android:paddingLeft="@dimen/biz_pc_main_plugin_list_icon_margin" android:paddingRight="@dimen/biz_pc_main_plugin_list_icon_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/biz_pc_plugin_line" android:scaleType="fitXY" android:layout_alignParentBottom="true" />
+    <FrameLayout android:paddingLeft="@dimen/biz_pc_main_plugin_list_icon_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/divider">
+        <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_pc_profile_plugin_title_style" android:gravity="center|left" android:id="@id/biz_pc_plugin" android:layout_width="wrap_content" android:layout_height="fill_parent" android:drawablePadding="5.0dip" />
+        <FrameLayout android:id="@id/biz_pc_plugin_extra" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</RelativeLayout>

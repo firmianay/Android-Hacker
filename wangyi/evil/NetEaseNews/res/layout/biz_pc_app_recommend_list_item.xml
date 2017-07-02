@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/recommend_id" android:paddingLeft="14.0dip" android:paddingTop="10.0dip" android:paddingRight="14.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.base.view.MyImageView android:id="@id/app_icon" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="@dimen/biz_app_recommend_width" android:layout_height="@dimen/biz_app_recommend_width" android:layout_alignParentLeft="true" />
+        <LinearLayout android:orientation="vertical" android:id="@id/text_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_toRightOf="@id/app_icon">
+            <com.netease.nr.base.view.MyTextView android:layout_gravity="left" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <com.netease.nr.base.view.MyTextView android:textSize="16.0sp" android:layout_gravity="left" android:id="@id/sub_title" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginTop="6.0dip" android:layout_weight="1.0" />
+        </LinearLayout>
+        <ImageView android:id="@id/action_button" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

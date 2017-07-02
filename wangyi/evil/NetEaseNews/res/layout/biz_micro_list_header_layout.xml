@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/biz_topic_micro_padding_left" android:paddingTop="10.0dip" android:paddingRight="@dimen/biz_topic_micro_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_header" android:gravity="center|left" android:id="@id/title" android:paddingTop="@dimen/base_action_bar_height" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_micro_header_digest" android:id="@id/digest" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/title" android:layout_alignLeft="@id/title" android:lineSpacingExtra="5.0dip" />
+</RelativeLayout>

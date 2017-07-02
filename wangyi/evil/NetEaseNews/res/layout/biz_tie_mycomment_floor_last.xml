@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_tie_comment_orig_style" android:ellipsize="end" android:id="@id/last_floor_orig" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:layout_marginRight="16.0dip" android:singleLine="true" android:drawablePadding="8.0dip" />
+    <ImageView android:id="@id/orig_divider" android:background="@drawable/biz_micro_detail_devider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="16.0dip" />
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-11.0dip" layout="@layout/biz_tie_comment_floor_last" />
+</LinearLayout>

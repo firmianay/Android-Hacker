@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:padding="@dimen/biz_pc_main_info_profile_margin" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_pc_main_info_profile_other_text_size" android:textColor="@color/biz_pc_info_item_color_dark" android:id="@id/biz_pc_other_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/biz_pc_other_tag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-5.0dip" android:layout_marginTop="2.0dip" android:src="@drawable/biz_pc_other_tag" android:layout_toRightOf="@id/biz_pc_other_icon" android:layout_alignTop="@id/biz_pc_other_icon" />
+</RelativeLayout>

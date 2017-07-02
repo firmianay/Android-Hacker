@@ -1,0 +1,29 @@
+/*
+ vote
+*/
+.no_tc{-webkit-tap-highlight-color: rgba(0,0,0,0);}
+#vote_section #vote_body {padding: 5px 15px 10px 15px}
+#vote_section #vote_title {font-weight: bold;font-size: 18px; padding: 8px 0}
+#vote_section .vote_digest {font-size: 13px;color: #808080;padding: 0 0 6px 0}
+#vote_section .vote_digest #vote_status {font-weight: normal;margin-left: 5px}
+#vote_section .vote_digest span{float: right;}
+#vote_section .vote_item {position: relative;height: auto;overflow: hidden;vertical-align: middle;font-size:22px;}
+#vote_section .multi_vote_item {font-size:20px;width: 26px; height: 26px; vertical-align:middle; padding-top:10px; padding-bottom:10px; margin-right:10px;}
+#vote_section .vote_optionButton {vertical-align: middle;border:1px solid #cacaca;height: auto;width:90%;margin-top: 10px;padding: 5px 0 5px 15px;text-decoration: none;outline: none;color: #1f1f1f;font-size: 16px;display: inline-block;background: -webkit-gradient(linear,left top, left bottom ,color-stop(0.02,rgb(255,255,255)),color-stop(0.05,rgb(241,241,241)),color-stop(1,rgb(230,230,230)) );}
+#vote_section .vote_resultTitle {text-decoration: none;outline: none;color: #1f1f1f;display:block;margin:2px 0 0 0;vertical-align: middle;font-size: 18px;}
+#vote_section .multi_vote_text {position: relative;overflow: hidden;vertical-align: middle;font-size:18px;margin:2px 0 0 0;}
+#vote_section .vote_statisticBar {display: inline-block;vertical-align: middle;height: 11px;width: 0px;margin: 0px 1px 0px 1px;}
+#vote_section .multi_vote_statisticBar {display: inline-block;vertical-align: middle;height: 11px;width: 0px;margin: 0px 1px 0 1px;}
+#vote_section .vote_submit { margin: 10px 10px 5px 10px; text-align: center; }
+#vote_section b{display: inline-block;background: url("multivote.png") no-repeat;background-size: 100%;font-size: 15px;color: #ffffff;width: 51px;height: 21px;line-height: 23px;margin-left: 1px;margin-right: 5px;text-indent:6px;padding: 0px 0px 3px 0px;}
+#vote_section .submitbutton {font-size:18px;border:1px solid #cacaca;margin-top: 10px;background:-webkit-gradient(linear,left top, left bottom ,color-stop(0.02,rgb(255,255,255)),color-stop(0.05,rgb(241,241,241)),color-stop(1,rgb(230,230,230)) );width:100%; height:40px;text-align:center;color:#2f2f2f}	
+#vote_section  vote_label {padding-left:5px;padding-top:5px;padding-bottom:5px;vertical-align:middle;border: 1px solid#000000;}
+#vote_section .vote_item span{display: inline-block;vertical-align: middle;font-size: 13px;color: #848e9b;margin: 3px 0 3px 3px;}
+#vote_section .multi_vote_percent {vertical-align: middle;font-size: 13px;color: #848e9b;margin: 0px 0 3px 0px;}
+body.night #vote_section #vote_title,body.night #vote_section .vote_optionButton,body.night #vote_section .vote_resultTitle{color:#AEB8C5}
+body.night #vote_section b{background: url("night_multivote.png")no-repeat;color: #666666;}
+body.night #vote_section .vote_digest,body.night #vote_section .vote_item span{color: #798492}
+body.night #vote_section .submitbutton {border:1px solid #131416;background:-webkit-gradient(linear,left top, left bottom ,color-stop(0.02,rgb(64,66,71)),color-stop(0.05,rgb(52,54,60)),color-stop(1,rgb(47,49,53)) );color:#8b8b8b}	
+body.night #vote_section .vote_optionButton{background-image: url("night_contentview_graylongbutton.png");}
+body.night #vote_section .vote_optionButton[hover]{background-image: url("night_contentview_graylongbutton_highlighted.png");}
+body.night #vote_section .vote_statisticBar{opacity: 0.5}

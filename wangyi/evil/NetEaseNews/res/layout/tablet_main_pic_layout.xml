@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.tablet.main.NeviContainer android:id="@id/main_pic_nevi_container" android:background="@drawable/base_layout_bg" android:layout_width="@dimen/base_navi_width" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/main_pic_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toRightOf="@id/main_pic_nevi_container" />
+</RelativeLayout>

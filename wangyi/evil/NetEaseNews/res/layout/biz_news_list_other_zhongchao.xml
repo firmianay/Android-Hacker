@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/header_img" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/biz_news_list_header_pager" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="@dimen/base_listitem_padding_left_right" android:paddingTop="10.0dip" android:paddingRight="@dimen/base_listitem_padding_left_right" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:id="@id/race_list" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:layout_weight="1.0">
+            <ImageView android:id="@id/cls_race" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" />
+            <com.netease.nr.base.view.MyTextView android:textAppearance="@style/base_list_title_style" android:id="@id/race_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_cls_race" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:id="@id/notice" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_weight="1.0">
+            <ImageView android:id="@id/cls_notice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" />
+            <com.netease.nr.base.view.MyTextView android:textAppearance="@style/base_list_title_style" android:id="@id/notice_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biz_cls_notice" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

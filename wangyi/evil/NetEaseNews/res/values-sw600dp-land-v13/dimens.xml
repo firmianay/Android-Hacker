@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="biz_topic_micro_padding_left">50.0dip</dimen>
+    <dimen name="biz_topic_micro_padding_right">50.0dip</dimen>
+    <dimen name="biz_topic_micro_padding_child_left">70.0dip</dimen>
+    <dimen name="biz_topic_micro_padding_child_right">50.0dip</dimen>
+    <dimen name="biz_pic_txtscroll_height">124.0dip</dimen>
+    <dimen name="biz_pc_account_login_RelativeLayout02_marginLeft">60.0dip</dimen>
+    <dimen name="biz_pc_account_login_RelativeLayout02_marginRight">60.0dip</dimen>
+    <dimen name="biz_pc_account_login_ssl_marginLeft">60.0dip</dimen>
+    <dimen name="biz_pc_account_login_ssl_marginRight">60.0dip</dimen>
+    <dimen name="biz_pc_account_login_buttonlayout_marginLeft">60.0dip</dimen>
+    <dimen name="biz_pc_account_login_buttonlayout_marginRight">60.0dip</dimen>
+    <dimen name="biz_polymeric_padding_left_right">86.0dip</dimen>
+    <dimen name="biz_polymeric_padding_top_bottom">26.0dip</dimen>
+    <dimen name="biz_plugin_weather_first_item_margin_top">50.0dip</dimen>
+</resources>

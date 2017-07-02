@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/list_item" android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingRight="16.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_tie_rank_top_count_size" android:textColor="@color/biz_tie_rank_replycount" android:gravity="center" android:id="@id/reply_count" android:background="@drawable/biz_tie_count_bg" android:paddingBottom="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:maxEms="3" android:minEms="3" android:singleLine="true" android:layout_alignParentLeft="true" />
+        <com.netease.nr.base.view.MyTextView android:textSize="@dimen/biz_tie_rank_top_title_size" android:textColor="@color/biz_tie_rank_title" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-3.0dip" android:maxLines="2" android:minLines="2" android:layout_toRightOf="@id/reply_count" android:layout_alignTop="@id/reply_count" android:lineSpacingExtra="3.0dip" />
+    </RelativeLayout>
+    <ImageView android:id="@id/divider" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/base_list_divider_drawable" android:scaleType="fitXY" />
+</LinearLayout>

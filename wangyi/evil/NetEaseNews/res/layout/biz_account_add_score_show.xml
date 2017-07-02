@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/biz_account_score_add_show_bg" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netease.nr.base.view.MyTextView android:textSize="20.0sp" android:textStyle="bold" android:id="@id/score" android:paddingRight="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/money_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_account_score_add_show" />
+</LinearLayout>

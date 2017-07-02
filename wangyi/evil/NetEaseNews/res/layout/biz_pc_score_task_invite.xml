@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:padding="15.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center|top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/step_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.netease.nr.base.view.MyTextView android:textSize="15.0sp" android:gravity="center" android:id="@id/step1" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+            <com.netease.nr.base.view.MyTextView android:textSize="15.0sp" android:gravity="center" android:id="@id/step2" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+            <com.netease.nr.base.view.MyTextView android:textSize="15.0sp" android:gravity="center" android:id="@id/step3" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+        </LinearLayout>
+        <com.netease.nr.base.view.MyTextView android:textSize="20.0sp" android:textStyle="bold" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/biz_pc_score_invite_step1_msg_title" />
+        <com.netease.nr.base.view.MyTextView android:textSize="15.0sp" android:id="@id/desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/biz_pc_score_invite_step1_msg_desc" />
+        <com.netease.nr.base.view.MyEditText android:textSize="15.0sp" android:textColor="@color/base_list_title_color" android:id="@id/editview " android:background="@drawable/biz_pc_score_edit_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:hint="@string/biz_pc_score_invite_step1_edit_hint" android:singleLine="true" />
+        <com.netease.nr.base.view.MyTextView android:textSize="15.0sp" android:textColor="@color/base_list_title_color" android:id="@id/msg " android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" />
+    </LinearLayout>
+</ScrollView>

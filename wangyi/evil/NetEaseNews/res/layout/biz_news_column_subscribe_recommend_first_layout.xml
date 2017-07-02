@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/biz_about_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/biz_news_column_subscribe_recommend_padding_top" android:layout_marginBottom="@dimen/biz_news_column_subscribe_recommend_padding_bottom" android:src="@drawable/biz_news_recommend_default" />
+    <ImageView android:paddingBottom="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_news_recommend_indicator1" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

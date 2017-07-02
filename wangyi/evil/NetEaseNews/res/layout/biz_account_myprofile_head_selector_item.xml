@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/selector_item_img_container" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/selector_item_img" android:background="@drawable/biz_account_head_selector_bg" android:layout_width="@dimen/biz_account_profile_selector_head_width" android:layout_height="@dimen/biz_account_profile_selector_head_height" />
+    </FrameLayout>
+    <ImageView android:id="@id/selector_item_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/biz_pc_list_search_icon" android:layout_alignRight="@id/selector_item_img_container" android:layout_alignBottom="@id/selector_item_img_container" />
+    <com.netease.nr.base.view.MyTextView android:textSize="@dimen/base_text_size_12" android:textColor="@color/biz_account_head_selector_sns_color" android:gravity="center" android:id="@id/selector_item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/selector_item_img_container" />
+</RelativeLayout>

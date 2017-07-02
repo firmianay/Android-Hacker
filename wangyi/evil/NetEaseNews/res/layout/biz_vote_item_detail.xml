@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingTop="@dimen/base_action_bar_height" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/biz_vote_item_detail_header" />
+    </RelativeLayout>
+    <include android:layout_gravity="top" android:layout_alignParentTop="true" layout="@layout/base_action_bar_layout" />
+</RelativeLayout>

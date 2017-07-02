@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/check" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biz_topic_vote_item_padding" android:checked="@drawable/biz_topic_vote_checkbox_selector" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_centerVertical="true" />
+    <com.netease.nr.base.view.MyTextView android:textAppearance="@style/biz_topic_vote_submit_digest" android:textColor="@color/biz_special_intro_bg" android:gravity="left" android:id="@id/multi_vote_item" android:paddingLeft="5.0dip" android:paddingTop="@dimen/biz_topic_vote_item_padding" android:paddingBottom="@dimen/biz_topic_vote_item_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_toRightOf="@id/check" android:layout_centerVertical="true" />
+</RelativeLayout>

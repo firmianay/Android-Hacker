@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:paddingLeft="15.0dip" android:paddingTop="10.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:id="@id/photo_bg" android:background="@drawable/biz_pic_item_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.netease.nr.base.view.FitImageView android:id="@id/picture" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/item_line" android:background="@color/biz_pic_item_line_color" android:paddingTop="2.0dip" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/picture" />
+        <com.netease.nr.base.view.MyTextView android:id="@id/title" android:paddingLeft="10.0dip" android:paddingTop="3.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:layout_below="@id/picture" android:layout_alignLeft="@id/picture" style="@style/biz_pics_item_title" />
+        <com.netease.nr.base.view.MyTextView android:id="@id/comment_num" android:paddingTop="3.0dip" android:paddingRight="10.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:layout_alignRight="@id/picture" android:layout_alignBottom="@id/title" style="@style/biz_pics_item_paste_num" />
+    </RelativeLayout>
+</LinearLayout>

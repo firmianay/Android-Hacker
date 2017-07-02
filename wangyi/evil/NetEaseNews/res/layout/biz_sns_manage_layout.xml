@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView android:id="@id/sns_manage_list" android:paddingLeft="@dimen/base_view_size_16" android:paddingRight="@dimen/base_view_size_16" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/base_listview_style"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
